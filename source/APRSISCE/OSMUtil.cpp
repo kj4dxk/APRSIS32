@@ -269,6 +269,19 @@ static bool OSMIsPublicTileServer(const TILE_SERVER_INFO_S* server)
 	return server && _stricmp(server->Server, "tile.openstreetmap.org") == 0;
 }
 
+// Older builds stored the default port as 0 or 80 and could add a second slash.
+static bool OSMIsLegacyPublicTileURL(const char* url)
+{
+	const char host[] = "http://tile.openstreetmap.org";
+	if (!url || _strnicmp(url, host, sizeof(host) - 1) != 0) return false;
+
+	const char* path = url + sizeof(host) - 1;
+	if (strncmp(path, ":80/", 4) == 0) path += 3;
+	else if (strncmp(path, ":0/", 3) == 0) path += 2;
+	if (strncmp(path, "//", 2) == 0) ++path;
+	return _stricmp(path, "/%z/%x/%y.png") == 0;
+}
+
 static BOOL OSMSameTileServer(TILE_SERVER_INFO_S *sOne, TILE_SERVER_INFO_S *sTwo)
 {	if (!sOne || !sTwo) return FALSE;
 	if (sOne->Port != sTwo->Port) return FALSE;
@@ -352,7 +365,7 @@ URLFormat	http://tile.openstreetmap.org/%z/%x/%y.png
 						if (!strchr(sInfo->URLPrefix, '%'))
 						{
 							char* sep = "/";
-							if (strlen(sInfo->URLPrefix) && sInfo->URLPrefix[strlen(sInfo->URLPrefix) - 1 == '/']) sep = "";
+							if (strlen(sInfo->URLPrefix) && sInfo->URLPrefix[strlen(sInfo->URLPrefix) - 1] == '/') sep = "";
 							sprintf(URL, "%s://%s:%ld%s%s%%z/%%x/%%y.png", sInfo->UseHTTPS ? "https" : "http", sInfo->Server,
 								(long)(sInfo->Port ? sInfo->Port : (sInfo->UseHTTPS ? 443 : 80)), sInfo->URLPrefix, sep);
 						}
@@ -362,7 +375,16 @@ URLFormat	http://tile.openstreetmap.org/%z/%x/%y.png
 					}
 				}
 				char* URLFormat = SQLGetMeta(Result->pMBTiles, "URLFormat");
-				if (URLFormat) strncpy(Result->pMBTiles->URLFormat, URLFormat, sizeof(Result->pMBTiles->URLFormat));
+				if (OSMIsLegacyPublicTileURL(URLFormat))
+				{
+					char httpsURL[] = "https://tile.openstreetmap.org/%z/%x/%y.png";
+					if (!SQLSetMeta(Result->pMBTiles, "URLFormat", httpsURL))
+						TraceLogThread("MBTiles", TRUE, "Could not save the HTTPS tile URL in '%s'", Result->MBTilePath);
+					strncpy(Result->pMBTiles->URLFormat, httpsURL, sizeof(Result->pMBTiles->URLFormat) - 1);
+				}
+				else if (URLFormat)
+					strncpy(Result->pMBTiles->URLFormat, URLFormat, sizeof(Result->pMBTiles->URLFormat) - 1);
+				free(URLFormat);
 				char* MetaFormat = SQLGetMeta(Result->pMBTiles, "MetaFormat");
 				if (MetaFormat) strncpy(Result->pMBTiles->MetaFormat, MetaFormat, sizeof(Result->pMBTiles->MetaFormat));
 			}

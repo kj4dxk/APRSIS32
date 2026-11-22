@@ -8320,6 +8320,13 @@ TraceLog("Config", TRUE, hwnd, "LoadConfiguration FAILED, Defining Default\n");
 		DefineDefaultConfig(pConfig);
 		Result = FALSE;
 		if (!AllowCreate) return Result;
+		strcpy(pConfig->OSM.Name, "APRSIS32 Tiles");
+		strcpy(pConfig->OSM.Server, "pdeffenb.homeip.net");
+		pConfig->OSM.Port = 82;
+		strcpy(pConfig->OSM.URLPrefix, "/raster/light/%z/%x/%y.png");
+		strcpy(pConfig->OSM.Path, "APRSIS32Tiles/");
+		pConfig->OSM.SupportsStatus = FALSE;
+		MakeDirectory(pConfig->OSM.Path);
 	} else TraceLog("Config", FALSE, hwnd,"LoadConfiguration WORKED!\n");
 
 	if (!_strnicmp(pConfig->CallSign,DEFAULT_CALLSIGN,min(strlen(DEFAULT_CALLSIGN),sizeof(pConfig->CallSign))))
@@ -8338,9 +8345,22 @@ TraceLog("Config", TRUE, hwnd, "LoadConfiguration FAILED, Defining Default\n");
 			ConfigChanged = TRUE;
 		}
 		if (!pConfig->TileServers.Count)
-		{	unsigned long i = pConfig->TileServers.Count++;
-			pConfig->TileServers.Server = (TILE_SERVER_INFO_S *)realloc(pConfig->TileServers.Server,sizeof(*pConfig->TileServers.Server)*pConfig->TileServers.Count);
-			pConfig->TileServers.Server[i] = pConfig->OSM;
+		{	pConfig->TileServers.Count = Result ? 1 : 2;
+			pConfig->TileServers.Server = (TILE_SERVER_INFO_S*)realloc(pConfig->TileServers.Server,
+				pConfig->TileServers.Count * sizeof(*pConfig->TileServers.Server));
+			pConfig->TileServers.Server[0] = pConfig->OSM;
+			if (!Result)
+			{
+				TILE_SERVER_INFO_S* osm = &pConfig->TileServers.Server[1];
+				*osm = pConfig->OSM;
+				strcpy(osm->Name, "OpenStreetMap");
+				strcpy(osm->Server, "tile.openstreetmap.org");
+				osm->Port = 0;
+				strcpy(osm->URLPrefix, "/");
+				strcpy(osm->Path, "OpenStreetMapTiles/");
+				osm->UseHTTPS = TRUE;
+				MakeDirectory(osm->Path);
+			}
 			ConfigChanged = TRUE;
 		}
 		if (!VerifyOSMPath(hwnd, &pConfig->OSM, DefaultOSMIfNew&&!Result, &ConfigChanged))
