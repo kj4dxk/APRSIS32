@@ -1,0 +1,164 @@
+---
+title: "UARS"
+---
+
+# UARS
+
+[Source wiki page](https://aprsisce.wikidot.com/forum/t-394073/uars) · [Archived HTML](../archive/pages/forum_t-394073_uars--896cbd952792.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
+
+[Forum](forum-start-1f3adaff829e.md)
+» [General Discussion / Satellites](forum-c-494483-satellites.md)
+» UARS
+
+Started by: [![G6UIM](../archive/assets/avatar--9d0ad7d7006f.php)](https://www.wikidot.com/user:info/g6uim)[G6UIM](https://www.wikidot.com/user:info/g6uim)  
+Date: 23 Sep 2011 17:34  
+Number of posts: 4  
+![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
+RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-394073.xml)
+
+Unfold All
+Fold All
+<span id="thread-toggle-options"></span>
+More Options
+
+<span id="thread-options-2"></span>
+
+Edit Title & Description
+Stickness
+Lock Thread
+Move Thread
+
+<span id="thread-action-area"></span><span id="thread-container"></span>
+
+<span id="thread-container-posts"></span>
+
+<span id="fpc-1265466"></span>
+
+<span id="post-1265466"></span>
+
+Fold
+
+<span id="post-title-1265466"></span>
+
+UARS
+
+[![G6UIM](../archive/assets/avatar--9d0ad7d7006f.php)](https://www.wikidot.com/user:info/g6uim)[G6UIM](https://www.wikidot.com/user:info/g6uim) 23 Sep 2011 17:34
+
+<span id="post-content-1265466"></span>
+
+1991-063B (#(21701) UARS
+
+USSTRATCOM posted on 23 September. 15:33 UTC posted the decay on:  
+24 September,03:34 UTC +/- 09 hours descending over 36°S, 54.8°E (Indian Ocean, SE of Madagascar).
+
+I had now a close look on the up and downs of the ballistic coefficient during the last days and calculated a new mean minimum cross section. There is a lot noise in this data.  
+A further shift of the decay onward is  
+possible  
+With the derived parameter my program delivers:
+
+24 September, 03:46 UTC +/- 90 minutes ascending over 56.91°S, 121.14°E (Indian Ocean)
+
+Let us look and see….
+
+Harro
+
+**Reply**
+Options
+
+<span id="post-options-1265466"></span>
+
+Unfold
+UARS by [![G6UIM](../archive/assets/avatar--9d0ad7d7006f.php)](https://www.wikidot.com/user:info/g6uim)[G6UIM](https://www.wikidot.com/user:info/g6uim), 23 Sep 2011 17:34
+
+<span id="fpc-1265469"></span>
+
+<span id="post-1265469"></span>
+
+Fold
+
+<span id="post-title-1265469"></span>
+
+TLE Request
+
+[![APRS IS CE](../archive/assets/avatar--2329414266d6.php)](https://www.wikidot.com/user:info/aprs-is-ce)[APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) 23 Sep 2011 17:43
+
+<span id="post-content-1265469"></span>
+
+If anyone has the latest TLE for this thing, or a link to the same, please post it here. There's tools out there (like gpredict, IIRC) that will let you specify a TLE and get a forecast track for your coordinates, and who knows, I just might be able to bang something quickly together in APRSISCE/32, but maybe not in time to see this one actually go by.
+
+Lynn (D) - KJ4ERJ - Author of APRSISCE for Windows Mobile and Win32
+
+**Reply**
+Options
+
+<span id="post-options-1265469"></span>
+
+Unfold
+TLE Request by [![APRS IS CE](../archive/assets/avatar--2329414266d6.php)](https://www.wikidot.com/user:info/aprs-is-ce)[APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce), 23 Sep 2011 17:43
+
+<span id="fpc-1265478"></span>
+
+<span id="post-1265478"></span>
+
+Fold
+
+<span id="post-title-1265478"></span>
+
+Re: UARS
+
+[![G6UIM](../archive/assets/avatar--9d0ad7d7006f.php)](https://www.wikidot.com/user:info/g6uim)[G6UIM](https://www.wikidot.com/user:info/g6uim) 23 Sep 2011 17:54
+
+<span id="post-content-1265478"></span>
+
+latest I have is below, have put out a request for a more current one from those who have access  
+UARS  
+1 21701U 91063B 11266.44054071 .04722588 11590-4 35607-3 0 6303  
+2 21701 56.9410 265.5265 0005547 7.8879 352.2426 16.39807254109075
+
+**Reply**
+Options
+
+<span id="post-options-1265478"></span>
+
+Unfold
+Re: UARS by [![G6UIM](../archive/assets/avatar--9d0ad7d7006f.php)](https://www.wikidot.com/user:info/g6uim)[G6UIM](https://www.wikidot.com/user:info/g6uim), 23 Sep 2011 17:54
+
+<span id="fpc-1265491"></span>
+
+<span id="post-1265491"></span>
+
+Fold
+
+<span id="post-title-1265491"></span>
+
+Re: UARS
+
+[![G6UIM](../archive/assets/avatar--9d0ad7d7006f.php)](https://www.wikidot.com/user:info/g6uim)[G6UIM](https://www.wikidot.com/user:info/g6uim) 23 Sep 2011 18:13
+
+<span id="post-content-1265491"></span>
+
+the latest TLE hot off the press  
+UARS  
+1 21701U 91063B 11266.68416083 .05810473 11658-4 30193-3 0 6351  
+2 21701 056.9386 264.3144 0003833 344.9700 015.1773 16.42698186109115
+
+**Reply**
+Options
+
+<span id="post-options-1265491"></span>
+
+Unfold
+Re: UARS by [![G6UIM](../archive/assets/avatar--9d0ad7d7006f.php)](https://www.wikidot.com/user:info/g6uim)[G6UIM](https://www.wikidot.com/user:info/g6uim), 23 Sep 2011 18:13
+
+<span id="new-post-button"></span>
+New Post
+
+<span id="post-options-template"></span>
+
+Permanent Link
+Edit
+Delete
+
+<span id="post-options-permalink-template"></span>
+
+/forum/t-394073/uars#post-

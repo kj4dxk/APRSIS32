@@ -1,0 +1,19 @@
+---
+title: "Downloads Page"
+---
+
+# Downloads Page
+
+[Source wiki page](https://aprsisce.wikidot.com/downloads) · [Archived HTML](../archive/pages/downloads--05d32f386568.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
+
+|  |
+| --- |
+| **Downloads** |
+
+|  |
+| --- |
+| 2025/10/10 Current Release Paul KJ4DXK (only working version, this version was a dev version, we are calling it the current version now)  About is broken. In the program, do not click about.  [Windows 32](../archive/assets/local--files_downloads_APRSIS32--5e60c34516c9.zip)  [APRSIS32.zip](../archive/assets/local--files_downloads_APRSIS32--aa6db073139c.zip)  N2MH graciously provided this previously-dev version during 2025. Thank you! KJ4DXK.  For Windows 32 and x64. Win11,Win10,8,7,Vista,XP,2000. Should work under some windows emulations for Linux and Mac. Wine works.  Previous Releases 2020/05/01 21:21  **Please note these files are ZIP compressed and need to be unzipped into a folder that allows creation of the map folder and downloads into that folder**  Some of these releases may work on other platforms, but have not been tested, Linux and Mac using wine for example.  [![passcode.gif](../archive/assets/local--files_downloads_passcode--3a427eb9faf8.gif)](doc-passcode.md)  Previous Releases:  This version cannot get maps since openstreetmaps changed from http to https. It will work if you have your own tile server.  For Windows 32 and x64. XP,2000,Vista,7,8. Should work under some windows emulations for Linux and Mac  [Windows 32](../archive/assets/local--files_downloads_APRSIS32_2020--396bd295c5bf.zip)  For Windows Mobile 5, 6, 6.1 and 6.5 - Still from 2012  [Windows Mobile](../archive/assets/local--files_downloads_APRSISCE6P--da4860cc6cad.zip)  For Windows CE 5.0 on x86 Architecture - Still from 2012  [CE5 x86](../archive/assets/local--files_downloads_APRSISCE5x86--5f2e23372e95.zip)  (Tested on [WebDT 366](webdt-366.md) unlikely to work on other devices, but let us know if it does)  [2020/05/01 Release Notes](2020-05-01-21-21.md)  Previous Release Notes:  [2012/08/29 21:31](2012-08-29-21-31.md)  [2012/05/25 07:50](2012-05-25-07-50.md)  [2012/04/06 20:46](2012-04-06-20-46.md)  [2012/02/29 02:29](2012-02-29-02-29.md)  [2011/08/21 16:57](2011-08-21-16-57.md)  [2011/08/20 02:06](2011-08-20-02-06.md)  [2011/05/17 18:27](2011-05-17-18-27.md)  [2011/05/02 20:54](2011-05-02-20-54.md)  [2011/02/10 07:14](2011-02-10-07-14.md)  [2011/01/23 18:55](2011-01-23-18-55.md) |
+
+|  |
+| --- |
+|  |

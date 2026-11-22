@@ -1,0 +1,107 @@
+Resources unavailable during the public-site crawl
+
+HTTP 404	https://aprsisce.wikidot.com/menu:configure-status
+HTTP 404	https://aprsisce.wikidot.com/tracelogs
+HTTP 404	https://aprsisce.wikidot.com/qru
+HTTP 404	https://aprsisce.wikidot.com/connections
+HTTP 404	https://aprsisce.wikidot.com/odometer
+HTTP 404	https://aprsisce.wikidot.com/ports:nmea
+HTTP 404	https://aprsisce.wikidot.com/shapefiles
+HTTP 404	https://aprsisce.wikidot.com/stations
+HTTP 404	https://aprsisce.wdfiles.com/local--files/lwdstart/aprsis32.gif
+HTTP 404	https://aprsisce.wikidot.com/local--files/downloads/20120525-APRSISCE-Notes.txt
+HTTP 404	https://aprsisce.wikidot.com/quick-keys
+ENOTFOUND	http://otile3.mqcdn.com/tiles/1.0.0/osm/12/1130/1715.png
+HTTP 404	http://earthncseamless.s3.amazonaws.com/9/141/297.png
+HTTP 404	https://aprsisce.wikidot.com/doc:password
+HTTP 441	https://www.napyfab.com/ajax-indicators/images/indicator_medium.gif
+
+Wikidot profile images
+
+HTTP 400	https://www.wikidot.com/avatar.php?userid=3009441&amp;size=small&amp;timestamp=1795234787
+HTTP 400	https://www.wikidot.com/avatar.php?userid=2420352&amp;size=small&amp;timestamp=1795234788
+HTTP 400	https://www.wikidot.com/avatar.php?userid=3009441&amp;size=small&amp;timestamp=1795234789
+HTTP 400	https://www.wikidot.com/avatar.php?userid=2420352&amp;size=small&amp;timestamp=1795234833
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=1423254&amp;size=small&amp;timestamp=1795234833
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=5015714&amp;size=small&amp;timestamp=1795234833
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=5020673&amp;size=small&amp;timestamp=1795234833
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=4926457&amp;size=small&amp;timestamp=1795234833
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=4269565&amp;size=small&amp;timestamp=1795234833
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=4643658&amp;size=small&amp;timestamp=1795234833
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=4525418&amp;size=small&amp;timestamp=1795234833
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=3938296&amp;size=small&amp;timestamp=1795234833
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=3854719&amp;size=small&amp;timestamp=1795234833
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=3737744&amp;size=small&amp;timestamp=1795234833
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=3775526&amp;size=small&amp;timestamp=1795234833
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=3717648&amp;size=small&amp;timestamp=1795234833
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=3712561&amp;size=small&amp;timestamp=1795234833
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=3658610&amp;size=small&amp;timestamp=1795234833
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=2956941&amp;size=small&amp;timestamp=1795234833
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=2806218&amp;size=small&amp;timestamp=1795234833
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=3349134&amp;size=small&amp;timestamp=1795234833
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=3117167&amp;size=small&amp;timestamp=1795234833
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=3223598&amp;size=small&amp;timestamp=1795234833
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=3013427&amp;size=small&amp;timestamp=1795234833
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=2994400&amp;size=small&amp;timestamp=1795234833
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=2950591&amp;size=small&amp;timestamp=1795234833
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=1834463&amp;size=small&amp;timestamp=1795234834
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=1876772&amp;size=small&amp;timestamp=1795234834
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=1530772&amp;size=small&amp;timestamp=1795234834
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=440686&amp;size=small&amp;timestamp=1795234834
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=1586807&amp;size=small&amp;timestamp=1795234834
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=1399205&amp;size=small&amp;timestamp=1795234834
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=1416190&amp;size=small&amp;timestamp=1795234834
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=1294137&amp;size=small&amp;timestamp=1795234834
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=2427384&amp;size=small&amp;timestamp=1795234839
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=10281376&amp;size=small&amp;timestamp=1795234839
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=6746376&amp;size=small&amp;timestamp=1795234839
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=10176816&amp;size=small&amp;timestamp=1795234839
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=8892908&amp;size=small&amp;timestamp=1795234839
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=9836183&amp;size=small&amp;timestamp=1795234839
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=9462110&amp;size=small&amp;timestamp=1795234839
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=7436565&amp;size=small&amp;timestamp=1795234839
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=5496514&amp;size=small&amp;timestamp=1795234839
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=8991614&amp;size=small&amp;timestamp=1795234839
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=8775469&amp;size=small&amp;timestamp=1795234839
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=8955649&amp;size=small&amp;timestamp=1795234839
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=8869540&amp;size=small&amp;timestamp=1795234839
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=718709&amp;size=small&amp;timestamp=1795234839
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=8703712&amp;size=small&amp;timestamp=1795234839
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=8771897&amp;size=small&amp;timestamp=1795234839
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=8665872&amp;size=small&amp;timestamp=1795234839
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=6127131&amp;size=small&amp;timestamp=1795234839
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=8464392&amp;size=small&amp;timestamp=1795234839
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=8192386&amp;size=small&amp;timestamp=1795234839
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=1884654&amp;size=small&amp;timestamp=1795234839
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=8055417&amp;size=small&amp;timestamp=1795234839
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=7957060&amp;size=small&amp;timestamp=1795234896
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=7159237&amp;size=small&amp;timestamp=1795234896
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=1215204&amp;size=small&amp;timestamp=1795234896
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=1884654&amp;size=small&amp;timestamp=1795234896
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=2065611&amp;size=small&amp;timestamp=1795234896
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=1694052&amp;size=small&amp;timestamp=1795234896
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=1575883&amp;size=small&amp;timestamp=1795234896
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=448173&amp;size=small&amp;timestamp=1795234896
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=1354218&amp;size=small&amp;timestamp=1795234896
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=440686&amp;size=small&amp;timestamp=1795234896
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=1287840&amp;size=small&amp;timestamp=1795234896
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=1271294&amp;size=small&amp;timestamp=1795234896
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=1224324&amp;size=small&amp;timestamp=1795234951
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=5304605&amp;size=small&amp;timestamp=1795234951
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=1267431&amp;size=small&amp;timestamp=1795234951
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=6746376&amp;size=small&amp;timestamp=1795234951
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=5211080&amp;size=small&amp;timestamp=1795234951
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=2849245&amp;size=small&amp;timestamp=1795234951
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=440686&amp;size=small&amp;timestamp=1795234951
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=5087331&amp;size=small&amp;timestamp=1795234951
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=4742848&amp;size=small&amp;timestamp=1795234951
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=1850180&amp;size=small&amp;timestamp=1795234951
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=3854719&amp;size=small&amp;timestamp=1795234951
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=2956941&amp;size=small&amp;timestamp=1795234951
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=2760344&amp;size=small&amp;timestamp=1795234951
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=3173157&amp;size=small&amp;timestamp=1795234951
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=3009441&amp;size=small&amp;timestamp=1795234951
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=1530772&amp;size=small&amp;timestamp=1795234951
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=1423254&amp;size=small&amp;timestamp=1795234951
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=1886204&amp;size=small&amp;timestamp=1795234951
+The operation was aborted due to timeout	https://www.wikidot.com/avatar.php?userid=1381738&amp;size=small&amp;timestamp=1795234951

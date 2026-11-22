@@ -1,0 +1,35 @@
+site_name: APRSISCE/32 Manual
+site_url: https://kj4dxk.github.io/APRSIS32/
+site_description: APRSISCE/32 documentation and community wiki archive
+repo_url: https://github.com/kj4dxk/APRSIS32
+repo_name: kj4dxk/APRSIS32
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  features:
+    - content.action.edit
+    - navigation.indexes
+    - navigation.top
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Manual:
+      - All articles: manual/index.md
+      - Introduction: manual/start.md
+      - Downloads: manual/downloads.md
+      - Passcode: manual/doc-passcode.md
+      - Compatible hardware and software: manual/doc-compatible-hardware-software.md
+      - Configuration: manual/menu-configure.md
+  - Forum: forum/index.md
+  - Wiki indexes and embeds: reference/index.md
+  - Original HTML archive: archive/index.html
+
+plugins:
+  - search
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

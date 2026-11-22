@@ -1,0 +1,175 @@
+---
+title: "New Port possibilites"
+---
+
+# New Port possibilites
+
+[Source wiki page](https://aprsisce.wikidot.com/forum/t-403205/new-port-possibilites) · [Archived HTML](../archive/pages/forum_t-403205_new-port-possibilites--72336a6a11bf.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
+
+[Forum](forum-start-1f3adaff829e.md)
+» [APRSISCE/32 Discussion / Feature Requests](forum-c-312348-feature-requests.md)
+» New Port possibilites
+
+Started by: [![KB8UIH](../archive/assets/avatar--edb4f473b5d2.php)](https://www.wikidot.com/user:info/kb8uih)[KB8UIH](https://www.wikidot.com/user:info/kb8uih)  
+Date: 22 Oct 2011 16:16  
+Number of posts: 5  
+![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
+RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-403205.xml)
+
+Summary:
+
+Are new connections possible?
+
+Unfold All
+Fold All
+<span id="thread-toggle-options"></span>
+More Options
+
+<span id="thread-options-2"></span>
+
+Edit Title & Description
+Stickness
+Lock Thread
+Move Thread
+
+<span id="thread-action-area"></span><span id="thread-container"></span>
+
+<span id="thread-container-posts"></span>
+
+<span id="fpc-1287632"></span>
+
+<span id="post-1287632"></span>
+
+Fold
+
+<span id="post-title-1287632"></span>
+
+New Port possibilites
+
+[![KB8UIH](../archive/assets/avatar--edb4f473b5d2.php)](https://www.wikidot.com/user:info/kb8uih)[KB8UIH](https://www.wikidot.com/user:info/kb8uih) 22 Oct 2011 16:16
+
+<span id="post-content-1287632"></span>
+
+I see new Kenwood D710 as a possible connection and KISS but not older rigs like the D700 and the still current Alinco DR135 with TNC board installed. I have both of them. The D710 is different than the 700, TNC parameters are different.
+
+**Reply**
+Options
+
+<span id="post-options-1287632"></span>
+
+Unfold
+New Port possibilites by [![KB8UIH](../archive/assets/avatar--edb4f473b5d2.php)](https://www.wikidot.com/user:info/kb8uih)[KB8UIH](https://www.wikidot.com/user:info/kb8uih), 22 Oct 2011 16:16
+
+<span id="fpc-1287638"></span>
+
+<span id="post-1287638"></span>
+
+Fold
+
+<span id="post-title-1287638"></span>
+
+Re: New Port possibilites
+
+[![G6UIM](../archive/assets/avatar--282a08018b3a.php)](https://www.wikidot.com/user:info/g6uim)[G6UIM](https://www.wikidot.com/user:info/g6uim) 22 Oct 2011 16:27
+
+<span id="post-content-1287638"></span>
+
+We have a write up on the D700 but not the port commands like we do for the D710, Are you able to help by letting me know, whats different between the 2 so that I can add an entry? Like wise the DR135. I don't have these radios so am unable to test. The only thing I can do is read the manuals and write up something that might work. Happy to do that, if you can help out by testing.  
+Steve
+
+**Reply**
+Options
+
+<span id="post-options-1287638"></span>
+
+Unfold
+Re: New Port possibilites by [![G6UIM](../archive/assets/avatar--282a08018b3a.php)](https://www.wikidot.com/user:info/g6uim)[G6UIM](https://www.wikidot.com/user:info/g6uim), 22 Oct 2011 16:27
+
+<span id="fpc-1290687"></span>
+
+<span id="post-1290687"></span>
+
+Fold
+
+<span id="post-title-1290687"></span>
+
+Re: New Port possibilites
+
+[![KD0IPM](../archive/assets/avatar--25c96071a366.php)](https://www.wikidot.com/user:info/kd0ipm)[KD0IPM](https://www.wikidot.com/user:info/kd0ipm) 26 Oct 2011 04:33
+
+<span id="post-content-1290687"></span>
+
+I've got a DR-135 MkIII on the way and I am planning to use the Tracker2 board by argent and wondering if APRSIS32 will interface with it. Would you want to borrow a DR 135 with the Argent board to test and write?
+
+**Reply**
+Options
+
+<span id="post-options-1290687"></span>
+
+Unfold
+Re: New Port possibilites by [![KD0IPM](../archive/assets/avatar--25c96071a366.php)](https://www.wikidot.com/user:info/kd0ipm)[KD0IPM](https://www.wikidot.com/user:info/kd0ipm), 26 Oct 2011 04:33
+
+<span id="fpc-1290818"></span>
+
+<span id="post-1290818"></span>
+
+Fold
+
+<span id="post-title-1290818"></span>
+
+Re: New Port possibilites
+
+[![APRS IS CE](../archive/assets/avatar--613203fbbc57.php)](https://www.wikidot.com/user:info/aprs-is-ce)[APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) 26 Oct 2011 09:17
+
+<span id="post-content-1290818"></span>
+
+Actually, that's the "APRS" radio that I started with. I own three of the radios, one with an internal T2-135 (KJ4OVQ-9), one with an OT2m (KJ4ERJ-9) and one with an Alinco EJ41 (?) TNC which was my voice radio until I picked up a D700 (KJ4ERJ-11).
+
+Lock the T2-135 into KISS mode and use Simply(KISS) in APRSISCE/32 and you're home free.
+
+I run both the T2-135 and the OT2m with port B in Garmin mode connected to Nuvi 350s for GPS feed, station display, and messaging.
+
+**Reply**
+Options
+
+<span id="post-options-1290818"></span>
+
+Unfold
+Re: New Port possibilites by [![APRS IS CE](../archive/assets/avatar--613203fbbc57.php)](https://www.wikidot.com/user:info/aprs-is-ce)[APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce), 26 Oct 2011 09:17
+
+<span id="fpc-4928673"></span>
+
+<span id="post-4928673"></span>
+
+Fold
+
+<span id="post-title-4928673"></span>
+
+Re: New Port possibilites
+
+[![old man moses](../archive/assets/avatar--8b36c69d0df6.php)](https://www.wikidot.com/user:info/old-man-moses)[old man moses](https://www.wikidot.com/user:info/old-man-moses) 18 Mar 2021 02:14
+
+<span id="post-content-4928673"></span>
+
+I have a kenwood TH-D74 HT with TNC APRS built in and want to know what setting in the RF Port ro other settings I need to use so I can be mobile and still see the APRS stations around me????
+
+**Reply**
+Options
+
+<span id="post-options-4928673"></span>
+
+Unfold
+Re: New Port possibilites by [![old man moses](../archive/assets/avatar--8b36c69d0df6.php)](https://www.wikidot.com/user:info/old-man-moses)[old man moses](https://www.wikidot.com/user:info/old-man-moses), 18 Mar 2021 02:14
+
+<span id="new-post-button"></span>
+New Post
+
+<span id="post-options-template"></span>
+
+Permanent Link
+Edit
+Delete
+
+<span id="post-options-permalink-template"></span>
+
+/forum/t-403205/new-port-possibilites#post-
