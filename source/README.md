@@ -15,3 +15,9 @@ The executable’s SHA-256 is
 It matches the executable distributed through the former download ZIPs byte for byte.
 
 The [Windows project](APRSISCE/APRSIS32/APRSIS32.vcxproj) uses the main source and headers in its parent directory. Its original relative paths also reference libraries and shared source outside the captured folder, including libcurl, Lua, Expat, zlib, Gpredict, and Shapelib. The legacy project has not been rebuilt from this snapshot.
+
+## Preserved configurations and map caches
+
+[Windows project files](APRSISCE/APRSIS32/) include Lynn’s APRSIS32 configuration and dated snapshots. The public copies retain program settings and omit credentials, email addresses, precise location fields, and stored station and message history. The malformed `bad.xml` could not be safely processed.
+
+The [original tile cache](APRSISCE/APRSIS32/osmtiles/) and the three MBTiles containers are preserved byte-for-byte. Default map data is © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright).

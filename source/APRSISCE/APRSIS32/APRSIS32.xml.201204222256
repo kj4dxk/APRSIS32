@@ -1,0 +1,1668 @@
+<?xml version='1.0' encoding='utf-8'?>
+<APRSISCE>
+<Version>APRSIS32 2012/04/22 22:56</Version>
+<LastSaved>2012-04-30T19:55:45</LastSaved>
+<LastSaveWhy>WM_CLOSE</LastSaveWhy>
+<CallSign>KJ4ERJ-12</CallSign>
+<Password />
+<SuppressUnverified>0</SuppressUnverified>
+
+<CompanionInterval>0</CompanionInterval>
+<Filter>p/SH f/KJ4DXK-9/50 -p/METAR o/QRU* t/n s/O/O -s/w b/KJ4DXK*/W4WCQ*/W4SGC*/KJ4ERJ* -b/WINLINK -u/APWL2K</Filter>
+<CommentInterval>0</CommentInterval>
+<Comment>APRSISCE on Tilt 2</Comment>
+<CommentChoice>Cantor Workshop</CommentChoice>
+<CommentChoice>APRSISCE on Tilt 2</CommentChoice>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>$</Symbol.Symbol>
+<SymbolChoice>/b</SymbolChoice>
+<SymbolChoice>/$</SymbolChoice>
+<AltNet />
+
+<MoveSpeed>0.50</MoveSpeed>
+<Range>2000</Range>
+<QuietTime>60</QuietTime>
+<ForceMinTime>5</ForceMinTime>
+<Aging.TelemetryDefs.Days>14</Aging.TelemetryDefs.Days>
+<Aging.Bulletins.Hours>48</Aging.Bulletins.Hours>
+<Stations.Tracks.Hours>24</Stations.Tracks.Hours>
+<Stations.Tracks.Buddy.Hours>0</Stations.Tracks.Buddy.Hours>
+<Objects.DefaultInterval>10</Objects.DefaultInterval>
+<Objects.MaxObjectKillXmits>6</Objects.MaxObjectKillXmits>
+<Stations.MinAge>80</Stations.MinAge>
+<Stations.MaxAge>120</Stations.MaxAge>
+<Stations.MaxAge.Buddy>0</Stations.MaxAge.Buddy>
+<Stations.AvgIntervals>23</Stations.AvgIntervals>
+<Stations.AvgCount>491</Stations.AvgCount>
+<Stations.AvgFixed>1</Stations.AvgFixed>
+<DX.MinDist>5</DX.MinDist>
+<DX.MinTrigger>10</DX.MinTrigger>
+<DX.MaxEver.Station>KJ4ERJ-7</DX.MaxEver.Station>
+<DX.MaxEver.When>2012-02-25T20:18:57</DX.MaxEver.When>
+<DX.MaxEver.First>2012-02-25T20:18:57</DX.MaxEver.First>
+<DX.MaxEver.Latitude />
+<DX.MaxEver.Longitude />
+<DX.MaxEver.Distance>514.53</DX.MaxEver.Distance>
+<DX.MaxEver.Bearing>12.16</DX.MaxEver.Bearing>
+<DX.MaxEver.Count>1</DX.MaxEver.Count>
+<Enables.APRSIS>1</Enables.APRSIS>
+<Enables.RFPorts>1</Enables.RFPorts>
+<Enables.RFPktLog>1</Enables.RFPktLog>
+<Enables.RFReceiveOnly>0</Enables.RFReceiveOnly>
+<Enables.GPS>0</Enables.GPS>
+<Enables.Internet>1</Enables.Internet>
+<Enables.OSMFetch>1</Enables.OSMFetch>
+<Enables.Sound>1</Enables.Sound>
+<Enables.NotifyOnNewBulletin>0</Enables.NotifyOnNewBulletin>
+<Enables.CSVFile>1</Enables.CSVFile>
+<Enables.AutoSaveGPX>1</Enables.AutoSaveGPX>
+<Enables.Beacons>1</Enables.Beacons>
+<Enables.Telemetry>1</Enables.Telemetry>
+<Enables.Debug>0</Enables.Debug>
+<Enables.DebugFile>0</Enables.DebugFile>
+<Enables.DebugStartup>0</Enables.DebugStartup>
+<Enables.AllMessages>0</Enables.AllMessages>
+<Enables.RFMessages>0</Enables.RFMessages>
+<Enables.MyMessages>0</Enables.MyMessages>
+<Enables.HideQueries>0</Enables.HideQueries>
+<Enables.NotifyOnQuery>1</Enables.NotifyOnQuery>
+<Enables.NotifyOnNewMessage>1</Enables.NotifyOnNewMessage>
+<Enables.MultiTrackItemInMessage>1</Enables.MultiTrackItemInMessage>
+<AutoReply.DelayMinutes>5</AutoReply.DelayMinutes>
+<AutoReply.IntervalMinutes>60</AutoReply.IntervalMinutes>
+<AutoReply.Reply />
+
+
+<QRU.Enabled>0</QRU.Enabled>
+<QRU.RetryMessages>0</QRU.RetryMessages>
+<QRU.Interval>10</QRU.Interval>
+<QRU.MaxObjects>5</QRU.MaxObjects>
+<QRU.Range>20</QRU.Range>
+<QRU.LastTransmit>0000-00-00T00:00:00</QRU.LastTransmit>
+<MaxGroupObjects>5</MaxGroupObjects>
+<Genius.MinTime>10</Genius.MinTime>
+<Genius.MaxTime>30</Genius.MaxTime>
+<Genius.TimeOnly>0</Genius.TimeOnly>
+<Genius.StartStop>1</Genius.StartStop>
+<Genius.BearingChange>30</Genius.BearingChange>
+<Genius.ForecastError>0.10</Genius.ForecastError>
+<Genius.MaxDistance>1.00</Genius.MaxDistance>
+<Beacon.OnlyAfterTransmit>1</Beacon.OnlyAfterTransmit>
+<Beacon.Timestamp>1</Beacon.Timestamp>
+<Beacon.HHMMSS>1</Beacon.HHMMSS>
+<Beacon.Compressed>0</Beacon.Compressed>
+<Beacon.CourseSpeed>1</Beacon.CourseSpeed>
+<Beacon.Altitude>1</Beacon.Altitude>
+<Beacon.Why>0</Beacon.Why>
+<Beacon.Comment>1</Beacon.Comment>
+<Beacon.Precision>1</Beacon.Precision>
+<Status.Enabled>0</Status.Enabled>
+<Status.Interval>30</Status.Interval>
+<Status.Timestamp>1</Status.Timestamp>
+<Status.GridSquare>0</Status.GridSquare>
+<Status.DX>0</Status.DX>
+<Status.Text>APRSISCE/32</Status.Text>
+
+<Status.LastSent>0000-00-00T00:00:00</Status.LastSent>
+<Scale>1.4504</Scale>
+<Orientation>2</Orientation>
+<Latitude />
+<Longitude />
+<Altitude>0.0000</Altitude>
+<BeaconPath>WIDE1-1,WIDE2-1</BeaconPath>
+<EMailServer />
+<WhoIsServer>WHO-IS</WhoIsServer>
+<WhoIsFull>1</WhoIsFull>
+
+<DefaultedURLs>1</DefaultedURLs>
+<StationURL Time="2009-09-25T23:39:29">aprs.fi=http://aprs.fi/?call=$Call</StationURL>
+<TelemetryURL Time="2009-09-25T23:39:29">Telem(aprs.fi)=http://aprs.fi/telemetry/$Call</TelemetryURL>
+<WeatherURL Time="2009-09-25T23:39:29">WX(aprs.fi)=http://aprs.fi/weather/?call=$Call</WeatherURL>
+<NWS.Messages>1</NWS.Messages>
+<NWS.MessagesNotAll>1</NWS.MessagesNotAll>
+<NWS.Notify>0</NWS.Notify>
+<NWS.MultiTrack>0</NWS.MultiTrack>
+<NWS.MultiTrackNew>0</NWS.MultiTrackNew>
+<NWS.MultiTrackLines>1</NWS.MultiTrackLines>
+<NWS.MultiTrackMoving>0</NWS.MultiTrackMoving>
+<NWS.MultiTrackRange>0</NWS.MultiTrackRange>
+<NWS.MultiTrackMe>0</NWS.MultiTrackMe>
+<NWS.MultiTrackSpecific>1</NWS.MultiTrackSpecific>
+<NWS.MultiTrackAutoClose>1</NWS.MultiTrackAutoClose>
+
+<NWS.Opacity>10</NWS.Opacity>
+<NWS.Quality>50</NWS.Quality>
+<NWS.ShapesEnabled>1</NWS.ShapesEnabled>
+
+<MultiTrack.ViewNone>0</MultiTrack.ViewNone>
+<MultiTrack.width>0</MultiTrack.width>
+<MultiTrack.height>0</MultiTrack.height>
+<MultiTrack.Orientation>2</MultiTrack.Orientation>
+<MultiTrack.Percent>50</MultiTrack.Percent>
+<MultiTrack.Zoom>11</MultiTrack.Zoom>
+<MultiTrack.Scale>8.0000</MultiTrack.Scale>
+<WindowPlacement.x>120</WindowPlacement.x>
+<WindowPlacement.y>120</WindowPlacement.y>
+<WindowPlacement.width>1152</WindowPlacement.width>
+<WindowPlacement.height>624</WindowPlacement.height>
+<View.ConfirmOnClose>1</View.ConfirmOnClose>
+<View.AboutRestart>1</View.AboutRestart>
+<View.Metric.Altitude>0</View.Metric.Altitude>
+<View.Metric.Distance>0</View.Metric.Distance>
+<View.Metric.Pressure>0</View.Metric.Pressure>
+<View.Metric.Rainfall>0</View.Metric.Rainfall>
+<View.Metric.Temperature>0</View.Metric.Temperature>
+<View.Metric.Windspeed>0</View.Metric.Windspeed>
+<View.VisibleLabelsMax>40</View.VisibleLabelsMax>
+<View.Altitude>1</View.Altitude>
+<View.Ambiguity>0</View.Ambiguity>
+<View.Callsign>1</View.Callsign>
+<View.Callsign.NotMe>0</View.Callsign.NotMe>
+<View.Callsign.NotMine>1</View.Callsign.NotMine>
+<View.Nicknames>1</View.Nicknames>
+<View.Footprint.Enabled>1</View.Footprint.Enabled>
+<View.Footprint.MinAltitude>10000</View.Footprint.MinAltitude>
+<View.Footprint.MaxAltitude>300000</View.Footprint.MaxAltitude>
+<View.GeoCache.ID>0</View.GeoCache.ID>
+<View.GeoCache.Type>0</View.GeoCache.Type>
+<View.GeoCache.Container>0</View.GeoCache.Container>
+<View.GeoCache.DiffTerrain>0</View.GeoCache.DiffTerrain>
+<View.GeoCache.LabelsMax>25</View.GeoCache.LabelsMax>
+<View.Speed.Beaconed>0</View.Speed.Beaconed>
+<View.Speed.Calculated>0</View.Speed.Calculated>
+<View.Speed.Averaged>0</View.Speed.Averaged>
+<View.Speed.All>0</View.Speed.All>
+<View.Range.Enabled>0</View.Range.Enabled>
+<View.Range.Half>0</View.Range.Half>
+<View.Range.Opacity>5</View.Range.Opacity>
+<View.DF.Enabled>1</View.DF.Enabled>
+<View.DF.Opacity>5</View.DF.Opacity>
+<View.LabelOverlap>0</View.LabelOverlap>
+<View.NWS.Labels>0</View.NWS.Labels>
+<View.Weather>0</View.Weather>
+<View.ZoomReverse>1</View.ZoomReverse>
+<View.ZoomMin>0</View.ZoomMin>
+<View.ZoomMax>22</View.ZoomMax>
+<View.WheelDelta>4</View.WheelDelta>
+<View.ScrollInternals>1</View.ScrollInternals>
+<Screen.DateSeconds>2367</Screen.DateSeconds>
+<Screen.DateTime>1</Screen.DateTime>
+<Screen.DateTimePerformance>1</Screen.DateTimePerformance>
+<Screen.SpeedSize>5</Screen.SpeedSize>
+<Screen.SymbolSizeAdjust>2</Screen.SymbolSizeAdjust>
+<Screen.Altitude>1</Screen.Altitude>
+<Screen.Battery>1</Screen.Battery>
+<Screen.GridSquare>0</Screen.GridSquare>
+<Screen.LatLon>0</Screen.LatLon>
+<Screen.Satellites>1</Screen.Satellites>
+<Screen.Reckoning>0</Screen.Reckoning>
+<Screen.FilterCircle>0</Screen.FilterCircle>
+<Screen.Paths.Network>1</Screen.Paths.Network>
+<Screen.Paths.Station>1</Screen.Paths.Station>
+<Screen.Paths.MyStation>1</Screen.Paths.MyStation>
+<Screen.Paths.RFOnly>0</Screen.Paths.RFOnly>
+<Screen.Paths.MaxPathAge>120</Screen.Paths.MaxPathAge>
+<Screen.Paths.ReasonabilityLimit>400</Screen.Paths.ReasonabilityLimit>
+<Screen.Paths.Opacity>60</Screen.Paths.Opacity>
+<Screen.Paths.AllLinks>1</Screen.Paths.AllLinks>
+<Screen.Paths.Packet.Enabled>0</Screen.Paths.Packet.Enabled>
+<Screen.Paths.Packet.Width>2</Screen.Paths.Packet.Width>
+<Screen.Paths.Packet.Color>orange</Screen.Paths.Packet.Color>
+<Screen.Paths.Direct.Enabled>0</Screen.Paths.Direct.Enabled>
+<Screen.Paths.Direct.Width>1</Screen.Paths.Direct.Width>
+<Screen.Paths.Direct.Color>salmon</Screen.Paths.Direct.Color>
+<Screen.Paths.First.Enabled>0</Screen.Paths.First.Enabled>
+<Screen.Paths.First.Width>1</Screen.Paths.First.Width>
+<Screen.Paths.First.Color>red</Screen.Paths.First.Color>
+<Screen.Paths.Middle.Enabled>0</Screen.Paths.Middle.Enabled>
+<Screen.Paths.Middle.Width>3</Screen.Paths.Middle.Width>
+<Screen.Paths.Middle.Color>lime</Screen.Paths.Middle.Color>
+<Screen.Paths.Final.Enabled>0</Screen.Paths.Final.Enabled>
+<Screen.Paths.Final.Width>3</Screen.Paths.Final.Width>
+<Screen.Paths.Final.Color>lightgreen</Screen.Paths.Final.Color>
+<Screen.Paths.Flash.Selected>0</Screen.Paths.Flash.Selected>
+<Screen.Paths.Flash.Time>10</Screen.Paths.Flash.Time>
+<Screen.Paths.Short.Selected>1</Screen.Paths.Short.Selected>
+<Screen.Paths.Short.Time>120</Screen.Paths.Short.Time>
+<Screen.Paths.Medium.Selected>0</Screen.Paths.Medium.Selected>
+<Screen.Paths.Medium.Time>600</Screen.Paths.Medium.Time>
+<Screen.Paths.Long.Selected>1</Screen.Paths.Long.Selected>
+<Screen.Paths.Long.Time>1800</Screen.Paths.Long.Time>
+<Screen.Tracks>1</Screen.Tracks>
+<Screen.Tracks.Follow>32</Screen.Tracks.Follow>
+<Screen.Tracks.Follow.Width>1</Screen.Tracks.Follow.Width>
+<Screen.Tracks.Follow.Color>black</Screen.Tracks.Follow.Color>
+<Screen.Tracks.Others>32</Screen.Tracks.Others>
+<Screen.Tracks.Others.Width>1</Screen.Tracks.Others.Width>
+<Screen.Tracks.Others.Color>gray</Screen.Tracks.Others.Color>
+<Screen.Circle>1</Screen.Circle>
+<Screen.RedDot>1</Screen.RedDot>
+<Screen.CrossHairs>1</Screen.CrossHairs>
+<Screen.CrossHairTime>1000</Screen.CrossHairTime>
+<Scroller.ShowIGateDigi>0</Scroller.ShowIGateDigi>
+<Scroller.FreezeOnClick>1</Scroller.FreezeOnClick>
+<Scroller.ShowAll>1</Scroller.ShowAll>
+<Scroller.NoInternals>0</Scroller.NoInternals>
+<Scroller.NotME>0</Scroller.NotME>
+<Scroller.NotMine>0</Scroller.NotMine>
+<Scroller.RFOnly>1</Scroller.RFOnly>
+<Scroller.HideNoParse>0</Scroller.HideNoParse>
+<Scroller.Filter />
+<PathAlias Time="2012-02-27T17:55:19" Disabled="0">RELAY</PathAlias>
+<PathAlias Time="2012-04-30T19:55:26" Disabled="0">WIDE</PathAlias>
+<PathAlias Time="2012-03-02T02:57:13" Disabled="0">ECHO</PathAlias>
+<PathAlias Time="2009-09-25T23:39:29" Disabled="0">TEMP</PathAlias>
+<PathAlias Time="2012-02-27T17:35:41" Disabled="0">TRACE</PathAlias>
+<PathAlias Time="2009-09-25T23:39:29" Disabled="0">TCPIP</PathAlias>
+<PathAlias Time="2009-09-25T23:39:29" Disabled="0">RFONLY</PathAlias>
+<PathAlias Time="2009-09-25T23:39:29" Disabled="0">NOGATE</PathAlias>
+<PathAlias Time="2009-09-25T23:39:29" Disabled="0">ARISS</PathAlias>
+<PathAlias Time="2012-04-30T19:55:36" Disabled="0">DSTAR</PathAlias>
+<View.Custom.Primary />
+<View.Custom.Alternate />
+<View.Flight.Primary>'O^</View.Flight.Primary>
+<View.Flight.Alternate>^</View.Flight.Alternate>
+<View.Mobile.Primary>!'&lt;=&gt;()*0CFOPRSUXY[\^abefgjkpsuv</View.Mobile.Primary>
+<View.Mobile.Alternate>&gt;KOS^ksuv</View.Mobile.Alternate>
+<View.Weather.Primary>_@W</View.Weather.Primary>
+<View.Weather.Alternate>([*:&lt;@BDEFGHIJTUW_efgptwy{</View.Weather.Alternate>
+<Center.Latitude />
+<Center.Longitude />
+<Preferred.Latitude />
+<Preferred.Longitude />
+<Preferred.Zoom>10</Preferred.Zoom>
+<Preferred.Scale>17.7019</Preferred.Scale>
+<Preferred.Orientation>2</Preferred.Orientation>
+<Tracking.Call>KJ4ERJ-12</Tracking.Call>
+<Tracking.Center>1</Tracking.Center>
+<Tracking.Locked>0</Tracking.Locked>
+<APRSISPort>@firenet.us:14580</APRSISPort>
+<APRSIS.XmitEnabled>1</APRSIS.XmitEnabled>
+<APRSIS.RFtoISEnabled>1</APRSIS.RFtoISEnabled>
+<APRSIS.IStoRFEnabled>1</APRSIS.IStoRFEnabled>
+<APRSIS.BeaconingEnabled>1</APRSIS.BeaconingEnabled>
+<APRSIS.MessagesEnabled>1</APRSIS.MessagesEnabled>
+<APRSIS.BulletinObjectEnabled>1</APRSIS.BulletinObjectEnabled>
+<APRSIS.TelemetryEnabled>1</APRSIS.TelemetryEnabled>
+<GPSPort />
+
+<OSM.Zoom>14</OSM.Zoom>
+<OSM.Percent>100</OSM.Percent>
+<OSM.MinMBFree>8</OSM.MinMBFree>
+<OSM.PurgeDisabled>0</OSM.PurgeDisabled>
+<OSM.Name>Original</OSM.Name>
+<OSM.Server>tile.openstreetmap.org</OSM.Server>
+<OSM.Port>80</OSM.Port>
+<OSM.URLPrefix>/</OSM.URLPrefix>
+<OSM.SupportsStatus>1</OSM.SupportsStatus>
+<OSM.Path>C:/OSMTiles/KJ4ERJ-12/</OSM.Path>
+<OSM.PurgeEnabled>1</OSM.PurgeEnabled>
+<OSM.RetainDays>7</OSM.RetainDays>
+<OSM.RetainZoom>6</OSM.RetainZoom>
+<OSM.MinServerZoom>0</OSM.MinServerZoom>
+<OSM.MaxServerZoom>18</OSM.MaxServerZoom>
+<OSM.RevisionHours>0</OSM.RevisionHours>
+
+
+<TileServer Name="Original">
+<Server>tile.openstreetmap.org</Server>
+<Port>80</Port>
+<URLPrefix>/</URLPrefix>
+<SupportsStatus>1</SupportsStatus>
+<Path>C:/OSMTiles/KJ4ERJ-12/</Path>
+<PurgeEnabled>1</PurgeEnabled>
+<RetainDays>7</RetainDays>
+<RetainZoom>6</RetainZoom>
+<MinServerZoom>0</MinServerZoom>
+<MaxServerZoom>18</MaxServerZoom>
+<RevisionHours>0</RevisionHours>
+</TileServer>
+
+
+
+<TileServer Name="MyOSM">
+<Server>ldeffenb.dnsalias.net</Server>
+<Port>6360</Port>
+<URLPrefix>/osm/</URLPrefix>
+<SupportsStatus>1</SupportsStatus>
+<Path>/Storage Card/TileSets/MyOSM/</Path>
+<PurgeEnabled>0</PurgeEnabled>
+<RetainDays>0</RetainDays>
+<RetainZoom>6</RetainZoom>
+<MinServerZoom>0</MinServerZoom>
+<MaxServerZoom>18</MaxServerZoom>
+<RevisionHours>0</RevisionHours>
+</TileServer>
+
+
+
+<TileServer Name="MQAerial">
+<Server>oatile3.mqcdn.com</Server>
+<Port>80</Port>
+<URLPrefix>/naip/</URLPrefix>
+<SupportsStatus>1</SupportsStatus>
+<Path>/Storage Card/TileSets/MQAerial/</Path>
+<PurgeEnabled>0</PurgeEnabled>
+<RetainDays>0</RetainDays>
+<RetainZoom>6</RetainZoom>
+<MinServerZoom>0</MinServerZoom>
+<MaxServerZoom>18</MaxServerZoom>
+<RevisionHours>0</RevisionHours>
+</TileServer>
+
+
+
+<TileServer Name="National">
+<Server>server.arcgisonline.com</Server>
+<Port>80</Port>
+<URLPrefix>/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/</URLPrefix>
+<SupportsStatus>0</SupportsStatus>
+<Path>/Storage Card/TileSets/NationalMap/</Path>
+<PurgeEnabled>0</PurgeEnabled>
+<RetainDays>0</RetainDays>
+<RetainZoom>6</RetainZoom>
+<MinServerZoom>0</MinServerZoom>
+<MaxServerZoom>18</MaxServerZoom>
+<RevisionHours>0</RevisionHours>
+</TileServer>
+
+
+
+
+<RFPort Name="D700(KISS)">
+<Protocol>KWD700(KISS)</Protocol>
+<Device>COM2:19200,N,8,1</Device>
+<RfBaud>1200</RfBaud>
+<OpenCmd>^M~</OpenCmd>
+<OpenCmd>^M~</OpenCmd>
+<OpenCmd>LOC E 0</OpenCmd>
+<OpenCmd>LTMON 5</OpenCmd>
+<OpenCmd>LTMHEAD OFF</OpenCmd>
+<OpenCmd>GPSTEXT $GPRMC</OpenCmd>
+<OpenCmd>XFLOW OFF</OpenCmd>
+<OpenCmd>FULLDUP OFF</OpenCmd>
+<OpenCmd>KISS ON</OpenCmd>
+<OpenCmd>RESTART!RESTART!2</OpenCmd>
+<CloseCmd>^192^255^192~!cmd:!5</CloseCmd>
+<QuietTime>0</QuietTime>
+<Enabled>0</Enabled>
+<XmitEnabled>1</XmitEnabled>
+<ProvidesNMEA>0</ProvidesNMEA>
+<RFtoISEnabled>1</RFtoISEnabled>
+<IStoRFEnabled>1</IStoRFEnabled>
+<MyCallNot3rd>0</MyCallNot3rd>
+<BeaconingEnabled>1</BeaconingEnabled>
+<BeaconPath />
+<BulletinObjectEnabled>0</BulletinObjectEnabled>
+<MessagesEnabled>0</MessagesEnabled>
+<MessagePath />
+<TelemetryEnabled>0</TelemetryEnabled>
+<TelemetryPath />
+
+</RFPort>
+
+
+
+
+
+<Object Name="Cantor">
+<Group />
+<Comment> }j1P7";%?%D&amp;D'G(H.J0J@JCNINN{</Comment>
+<Table>/</Table>
+<Symbol>.</Symbol>
+<Latitude />
+<Longitude />
+<Compressed>0</Compressed>
+<Precision>2</Precision>
+<Item>0</Item>
+<HHMMSS>0</HHMMSS>
+<Permanent>0</Permanent>
+<Interval>10</Interval>
+<Kill>0</Kill>
+<KillXmitCount>0</KillXmitCount>
+<Enabled>0</Enabled>
+<ISEnabled>0</ISEnabled>
+<RFEnabled>0</RFEnabled>
+<RFPath>WIDE1-1,WIDE2-1</RFPath>
+<LastTransmit>0000-00-00T00:00:00</LastTransmit>
+<Weather>0</Weather>
+<WeatherPath />
+<LastWeather>0000-00-00T00:00:00</LastWeather>
+</Object>
+
+
+
+<Object Name="Crash">
+<Group />
+<Comment>Crash Northbound</Comment>
+<Table>\</Table>
+<Symbol>j</Symbol>
+<Latitude />
+<Longitude />
+<Compressed>0</Compressed>
+<Precision>0</Precision>
+<Item>0</Item>
+<HHMMSS>0</HHMMSS>
+<Permanent>0</Permanent>
+<Interval>2</Interval>
+<Kill>1</Kill>
+<KillXmitCount>6</KillXmitCount>
+<Enabled>0</Enabled>
+<ISEnabled>1</ISEnabled>
+<RFEnabled>0</RFEnabled>
+<RFPath>WIDE1-1,WIDE2-1</RFPath>
+<LastTransmit>2012-02-05T18:23:45</LastTransmit>
+<Weather>0</Weather>
+<WeatherPath />
+<LastWeather>0000-00-00T00:00:00</LastWeather>
+</Object>
+
+
+
+<Object Name="LynnsTrip">
+<Group />
+<Comment> }j1\!M"N$N&amp;N,P0R3S4T9V;WBXGUOROONNNN{</Comment>
+<Table>/</Table>
+<Symbol>.</Symbol>
+<Latitude />
+<Longitude />
+<Compressed>0</Compressed>
+<Precision>2</Precision>
+<Item>0</Item>
+<HHMMSS>0</HHMMSS>
+<Permanent>0</Permanent>
+<Interval>15</Interval>
+<Kill>1</Kill>
+<KillXmitCount>6</KillXmitCount>
+<Enabled>0</Enabled>
+<ISEnabled>1</ISEnabled>
+<RFEnabled>0</RFEnabled>
+<RFPath />
+<LastTransmit>2012-02-08T18:45:22</LastTransmit>
+<Weather>0</Weather>
+<WeatherPath />
+<LastWeather>0000-00-00T00:00:00</LastWeather>
+</Object>
+
+
+
+<Object Name="MapFetch">
+<Group />
+<Comment> }j1?N8N)e)f8K8K@X@X9Y8Y"f$fCcCZ5N,NN{</Comment>
+<Table>/</Table>
+<Symbol>.</Symbol>
+<Latitude />
+<Longitude />
+<Compressed>0</Compressed>
+<Precision>2</Precision>
+<Item>0</Item>
+<HHMMSS>0</HHMMSS>
+<Permanent>0</Permanent>
+<Interval>10</Interval>
+<Kill>0</Kill>
+<KillXmitCount>0</KillXmitCount>
+<Enabled>0</Enabled>
+<ISEnabled>0</ISEnabled>
+<RFEnabled>0</RFEnabled>
+<RFPath>WIDE1-1,WIDE2-1</RFPath>
+<LastTransmit>0000-00-00T00:00:00</LastTransmit>
+<Weather>0</Weather>
+<WeatherPath />
+<LastWeather>0000-00-00T00:00:00</LastWeather>
+</Object>
+
+
+
+<Object Name="Unit-5A">
+<Group />
+<Comment>939 Daisy Ln, 37738</Comment>
+<Table>/</Table>
+<Symbol>;</Symbol>
+<Latitude />
+<Longitude />
+<Compressed>0</Compressed>
+<Precision>0</Precision>
+<Item>0</Item>
+<HHMMSS>0</HHMMSS>
+<Permanent>0</Permanent>
+<Interval>10</Interval>
+<Kill>0</Kill>
+<KillXmitCount>0</KillXmitCount>
+<Enabled>1</Enabled>
+<ISEnabled>0</ISEnabled>
+<RFEnabled>0</RFEnabled>
+<RFPath />
+<LastTransmit>2012-03-19T21:07:34</LastTransmit>
+<Weather>0</Weather>
+<WeatherPath />
+<LastWeather>0000-00-00T00:00:00</LastWeather>
+</Object>
+
+
+
+<Object Name="Oratory">
+<Group>AveMaria</Group>
+<Comment>Ave Maria Oratory</Comment>
+<Table>\</Table>
+<Symbol>+</Symbol>
+<Latitude />
+<Longitude />
+<Compressed>0</Compressed>
+<Precision>0</Precision>
+<Item>0</Item>
+<HHMMSS>0</HHMMSS>
+<Permanent>0</Permanent>
+<Interval>10</Interval>
+<Kill>1</Kill>
+<KillXmitCount>1</KillXmitCount>
+<Enabled>0</Enabled>
+<ISEnabled>0</ISEnabled>
+<RFEnabled>0</RFEnabled>
+<RFPath>WIDE1-1,WIDE2-1</RFPath>
+<LastTransmit>0000-00-00T00:00:00</LastTransmit>
+<Weather>0</Weather>
+<WeatherPath />
+<LastWeather>0000-00-00T00:00:00</LastWeather>
+</Object>
+
+
+
+
+
+<Nickname Station="KJ4ERJ-12">
+<Enabled>0</Enabled>
+<AutoMultiTrack>0</AutoMultiTrack>
+<MultiTrackZoom>0</MultiTrackZoom>
+<Label>ME</Label>
+<OverrideLabel>0</OverrideLabel>
+<Comment />
+<OverrideComment>0</OverrideComment>
+<Table>/</Table>
+<Symbol>$</Symbol>
+<OverrideSymbol>0</OverrideSymbol>
+<Color />
+<OverrideColor>0</OverrideColor>
+<DefinedBy />
+<LastUsed>2012-04-30T19:55:19</LastUsed>
+</Nickname>
+
+
+
+<Nickname Station="KJ4ERJ-T2">
+<Enabled>0</Enabled>
+<AutoMultiTrack>0</AutoMultiTrack>
+<MultiTrackZoom>0</MultiTrackZoom>
+<Label>ME</Label>
+<OverrideLabel>0</OverrideLabel>
+<Comment />
+<OverrideComment>0</OverrideComment>
+<Table>/</Table>
+<Symbol>$</Symbol>
+<OverrideSymbol>0</OverrideSymbol>
+<Color />
+<OverrideColor>0</OverrideColor>
+<DefinedBy />
+<LastUsed>2012-01-21T00:37:12</LastUsed>
+</Nickname>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<NWSServer EntryCall="AE5PL-WX">
+<Description>AE5PL's US NWS Server</Description>
+<Disabled>0</Disabled>
+<Finger.Server>wxsvr.ae5pl.net</Finger.Server>
+<Finger.Port>79</Finger.Port>
+</NWSServer>
+
+
+
+<NWSServer EntryCall="WXSVR-AU">
+<Description>VK2XJG's Australian NWS Server</Description>
+<Disabled>0</Disabled>
+<Finger.Server />
+<Finger.Port>1</Finger.Port>
+</NWSServer>
+
+
+
+
+<NWSProd Name="AVW">
+<Description>Avalanche Warning</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>*</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>a</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="BZW">
+<Description>Blizzard Warning</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>B</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>a</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="EQW">
+<Description>Earthquake Warning</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>Q</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>a</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="FFW">
+<Description>Flash Flood Warning</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>w</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>a</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="FLW">
+<Description>Flood Warning</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>w</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>a</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="FRW">
+<Description>Fire Warning</Description>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>:</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>a</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="HUW">
+<Description>Hurricane Warning</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>@</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>a</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="NUW">
+<Description>Nuclear Power Plant Warning</Description>
+<Symbol.Table>N</Symbol.Table>
+<Symbol.Symbol>%</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>a</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="RHW">
+<Description>Radiological Hazard Warning</Description>
+<Symbol.Table>N</Symbol.Table>
+<Symbol.Symbol>%</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>a</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="TCY">
+<Description>Cyclone Warning</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>@</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>a</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="TOR">
+<Description>Tornado Warning</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>t</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>a</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="VOW">
+<Description>Volcano Warning</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>E</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>a</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="AVA">
+<Description>Avalanche Watch</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>*</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>b</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="FFA">
+<Description>Flash Flood Watch</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>w</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>b</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="HUA">
+<Description>Hurricane Watch</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>@</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>b</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="TOA">
+<Description>Tornado Watch</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>t</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>b</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="BFA">
+<Description>Bushfire Alert</Description>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>:</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>c</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="CDW">
+<Description>Civil Danger Warning</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>c</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>c</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="EAN">
+<Description>Emergency Action Notification</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>!</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>c</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="EVI">
+<Description>Evacuation Immediate</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>&lt;</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>c</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="FFS">
+<Description>Flash Flood Statement</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>w</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>c</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="HLS">
+<Description>Hurricane Statement</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>@</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>c</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="LAE">
+<Description>Local Area Emergency</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>!</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>c</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="CFW">
+<Description>Coastal Flood Warning</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>w</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>d</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="DSW">
+<Description>Dust Storm Warning</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>b</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>d</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="GLE">
+<Description>Gale Warning</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>g</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>d</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="HMW">
+<Description>Hazardous Materials Warning</Description>
+<Symbol.Table>W</Symbol.Table>
+<Symbol.Symbol>H</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>d</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="HWW">
+<Description>High Wind Warning</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>g</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>d</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="ICE">
+<Description>Ice Warning</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>F</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>d</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="LEW">
+<Description>Law Enforcement Warning</Description>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>!</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>d</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="SMW">
+<Description>Special Marine Warning</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>C</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>d</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="SNW">
+<Description>Snow Warning</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>G</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>d</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="SQL">
+<Description>Squall Warning</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>`</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>d</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="STS">
+<Description>Severe Thunderstorm</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>T</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>d</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="SVR">
+<Description>Severe Thunderstorm Warning</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>T</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>d</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="TRW">
+<Description>Tropical Storm Warning</Description>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>@</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>d</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="TSW">
+<Description>Tsunami Warning</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>N</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>d</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="WSW">
+<Description>Winter Storm Warning</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>G</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>d</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="CFA">
+<Description>Coastal Flood Watch</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>w</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>e</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="FLA">
+<Description>Flood Watch</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>w</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>e</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="HWA">
+<Description>High Wind Watch</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>g</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>e</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="SVA">
+<Description>Severe Thunderstorm Watch</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>T</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>e</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="SWW">
+<Description>Strong Wind</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>g</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>e</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="TRA">
+<Description>Tropical Storm Watch</Description>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>@</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>e</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="TSA">
+<Description>Tsunami Watch</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>N</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>e</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="WSA">
+<Description>Winter Storm Watch</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>G</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>e</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="FLS">
+<Description>Flood Statement</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>w</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>f</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="FOG">
+<Description>Fog Advisory</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>{</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>f</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="FST">
+<Description>Frost Advisory</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>&lt;</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>f</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="FWW">
+<Description>Fire Weather</Description>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>:</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>f</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="RWA">
+<Description>Road Weather Alert</Description>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>!</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>f</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="SPS">
+<Description>Special Weather Statement</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>&lt;</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>f</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="SPW">
+<Description>Shelter in Place Warning</Description>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>z</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>f</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="SVS">
+<Description>Severe Weather Statement</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>&lt;</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>f</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="DMO">
+<Description>Practice/Demo Warning</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>&lt;</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>g</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="NPT">
+<Description>National Periodic Test</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>&lt;</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>h</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="RMT">
+<Description>Required Monthly Test</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>&lt;</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>h</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="RWT">
+<Description>Required Weekly Test</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>&lt;</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>h</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="BWA">
+<Description>Bushwalking Advice</Description>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>[</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>i</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="CAE">
+<Description>Child Abduction Emergency</Description>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>!</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>i</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="CEM">
+<Description>Civil Emergency Message</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>c</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>i</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="EAT">
+<Description>Emergency Action Termination</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>!</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>i</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="FBN">
+<Description>Fire Ban</Description>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>:</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>i</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="NIC">
+<Description>National Information Center</Description>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>o</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>i</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="NMN">
+<Description>Network Message Notification</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>&lt;</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>i</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="SGW">
+<Description>Sheep Weather / Graziers</Description>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>p</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>i</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="TOE">
+<Description>911 Telephone Outage Emergency</Description>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>$</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>i</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="???">
+<Description>Undefined NWS Product ID</Description>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>.</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>l</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="ADR">
+<Description>Administrative Message</Description>
+<Symbol.Table>\</Symbol.Table>
+<Symbol.Symbol>&lt;</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>l</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="HWS">
+<Description>New NWS Product ID for KRIHWS via SV1LJJ</Description>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>.</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>l</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="LTA">
+<Description>New NWS Product ID for DMALTA via SV1LJJ</Description>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>.</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>l</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="MWW">
+<Description>New NWS Product ID for TMWMWW via WXSVR-AU</Description>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>.</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>l</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="RNA">
+<Description>New NWS Product ID for EMARNA via SV1LJJ</Description>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>.</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>l</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="SIA">
+<Description>New NWS Product ID for THRSIA via SV1LJJ</Description>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>.</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>l</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="SIT">
+<Description>New NWS Product ID for EMASIT via SV1LJJ</Description>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>.</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>l</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="SIW">
+<Description>New NWS Product ID for TESSIW via SV1LJJ</Description>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>.</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>l</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="SMI">
+<Description>New NWS Product ID for STLSMI via W0APR-3*</Description>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>.</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>l</LineType>
+</NWSProd>
+
+
+
+<NWSProd Name="ZZZ">
+<Description>Internal APRSISCE/32 Test</Description>
+<Symbol.Table>/</Symbol.Table>
+<Symbol.Symbol>.</Symbol.Symbol>
+<ActionEnabled>1</ActionEnabled>
+<LineType>l</LineType>
+</NWSProd>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Telemetry.Version>4</Telemetry.Version>
+<Telemetry.Defined>2012-03-19T20:37:42</Telemetry.Defined>
+<Telemetry.DefHours>24</Telemetry.DefHours>
+<Telemetry.Interval>15</Telemetry.Interval>
+<Telemetry.MinTime>15</Telemetry.MinTime>
+<Telemetry.Index>140</Telemetry.Index>
+<ColorChoice RGB="16775408">aliceblue</ColorChoice>
+<ColorChoice RGB="14150650">antiquewhite</ColorChoice>
+<ColorChoice RGB="16776960">aqua</ColorChoice>
+<ColorChoice RGB="13959039">aquamarine</ColorChoice>
+<ColorChoice RGB="16777200">azure</ColorChoice>
+<ColorChoice RGB="14480885">beige</ColorChoice>
+<ColorChoice RGB="12903679">bisque</ColorChoice>
+<ColorChoice RGB="0">black</ColorChoice>
+<ColorChoice RGB="13495295">blanchedalmond</ColorChoice>
+<ColorChoice RGB="16711680">blue</ColorChoice>
+<ColorChoice RGB="14822282">blueviolet</ColorChoice>
+<ColorChoice RGB="2763429">brown</ColorChoice>
+<ColorChoice RGB="8894686">burlywood</ColorChoice>
+<ColorChoice RGB="10526303">cadetblue</ColorChoice>
+<ColorChoice RGB="65407">chartreuse</ColorChoice>
+<ColorChoice RGB="1993170">chocolate</ColorChoice>
+<ColorChoice RGB="5275647">coral</ColorChoice>
+<ColorChoice RGB="15570276">cornflowerblue</ColorChoice>
+<ColorChoice RGB="14481663">cornsilk</ColorChoice>
+<ColorChoice RGB="3937500">crimson</ColorChoice>
+<ColorChoice RGB="16776960">cyan</ColorChoice>
+<ColorChoice RGB="9109504">darkblue</ColorChoice>
+<ColorChoice RGB="9145088">darkcyan</ColorChoice>
+<ColorChoice RGB="755384">darkgoldenrod</ColorChoice>
+<ColorChoice RGB="11119017">darkgray</ColorChoice>
+<ColorChoice RGB="25600">darkgreen</ColorChoice>
+<ColorChoice RGB="7059389">darkkhaki</ColorChoice>
+<ColorChoice RGB="9109643">darkmagenta</ColorChoice>
+<ColorChoice RGB="3107669">darkolivegreen</ColorChoice>
+<ColorChoice RGB="36095">darkorange</ColorChoice>
+<ColorChoice RGB="13382297">darkorchid</ColorChoice>
+<ColorChoice RGB="139">darkred</ColorChoice>
+<ColorChoice RGB="8034025">darksalmon</ColorChoice>
+<ColorChoice RGB="9419919">darkseagreen</ColorChoice>
+<ColorChoice RGB="9125192">darkslateblue</ColorChoice>
+<ColorChoice RGB="5197615">darkslategray</ColorChoice>
+<ColorChoice RGB="13749760">darkturquoise</ColorChoice>
+<ColorChoice RGB="13828244">darkviolet</ColorChoice>
+<ColorChoice RGB="9639167">deeppink</ColorChoice>
+<ColorChoice RGB="12566272">deepskyblue</ColorChoice>
+<ColorChoice RGB="6908265">dimgray</ColorChoice>
+<ColorChoice RGB="16748574">dodgerblue</ColorChoice>
+<ColorChoice RGB="2237106">firebrick</ColorChoice>
+<ColorChoice RGB="15792895">floralwhite</ColorChoice>
+<ColorChoice RGB="2263842">forestgreen</ColorChoice>
+<ColorChoice RGB="16711935">fuchsia</ColorChoice>
+<ColorChoice RGB="16775416">ghostwhite</ColorChoice>
+<ColorChoice RGB="14474460">gainsboro</ColorChoice>
+<ColorChoice RGB="55295">gold</ColorChoice>
+<ColorChoice RGB="2139610">goldenrod</ColorChoice>
+<ColorChoice RGB="8421504">gray</ColorChoice>
+<ColorChoice RGB="32768">green</ColorChoice>
+<ColorChoice RGB="3145645">greenyellow</ColorChoice>
+<ColorChoice RGB="15794160">honeydew</ColorChoice>
+<ColorChoice RGB="11823615">hotpink</ColorChoice>
+<ColorChoice RGB="6053069">indianred</ColorChoice>
+<ColorChoice RGB="8519755">indigo</ColorChoice>
+<ColorChoice RGB="15794175">ivory</ColorChoice>
+<ColorChoice RGB="9234160">khaki</ColorChoice>
+<ColorChoice RGB="16443110">lavender</ColorChoice>
+<ColorChoice RGB="16118015">lavenderblush</ColorChoice>
+<ColorChoice RGB="64636">lawngreen</ColorChoice>
+<ColorChoice RGB="13499135">lemonchiffon</ColorChoice>
+<ColorChoice RGB="15128749">lightblue</ColorChoice>
+<ColorChoice RGB="8421616">lightcoral</ColorChoice>
+<ColorChoice RGB="16777184">lightcyan</ColorChoice>
+<ColorChoice RGB="13826810">lightgoldenrodyellow</ColorChoice>
+<ColorChoice RGB="9498256">lightgreen</ColorChoice>
+<ColorChoice RGB="13882323">lightgrey</ColorChoice>
+<ColorChoice RGB="12695295">lightpink</ColorChoice>
+<ColorChoice RGB="8036607">lightsalmon</ColorChoice>
+<ColorChoice RGB="11186720">lightseagreen</ColorChoice>
+<ColorChoice RGB="16436871">lightskyblue</ColorChoice>
+<ColorChoice RGB="10061943">lightslategray</ColorChoice>
+<ColorChoice RGB="14599344">lightsteelblue</ColorChoice>
+<ColorChoice RGB="14745599">lightyellow</ColorChoice>
+<ColorChoice RGB="65280">lime</ColorChoice>
+<ColorChoice RGB="3329330">limegreen</ColorChoice>
+<ColorChoice RGB="15134970">linen</ColorChoice>
+<ColorChoice RGB="16711935">magenta</ColorChoice>
+<ColorChoice RGB="128">maroon</ColorChoice>
+<ColorChoice RGB="11193702">mediumaquamarine</ColorChoice>
+<ColorChoice RGB="13434880">mediumblue</ColorChoice>
+<ColorChoice RGB="13850042">mediumorchid</ColorChoice>
+<ColorChoice RGB="14381203">mediumpurple</ColorChoice>
+<ColorChoice RGB="7451452">mediumseagreen</ColorChoice>
+<ColorChoice RGB="15624315">mediumslateblue</ColorChoice>
+<ColorChoice RGB="10156544">mediumspringgreen</ColorChoice>
+<ColorChoice RGB="13422920">mediumturquoise</ColorChoice>
+<ColorChoice RGB="8721863">mediumvioletred</ColorChoice>
+<ColorChoice RGB="7346457">midnightblue</ColorChoice>
+<ColorChoice RGB="16449525">mintcream</ColorChoice>
+<ColorChoice RGB="14804223">mistyrose</ColorChoice>
+<ColorChoice RGB="11920639">moccasin</ColorChoice>
+<ColorChoice RGB="11394815">navajowhite</ColorChoice>
+<ColorChoice RGB="8388608">navy</ColorChoice>
+<ColorChoice RGB="15136253">oldlace</ColorChoice>
+<ColorChoice RGB="32896">olive</ColorChoice>
+<ColorChoice RGB="2330219">olivedrab</ColorChoice>
+<ColorChoice RGB="42495">orange</ColorChoice>
+<ColorChoice RGB="17919">orangered</ColorChoice>
+<ColorChoice RGB="14053594">orchid</ColorChoice>
+<ColorChoice RGB="11200750">palegoldenrod</ColorChoice>
+<ColorChoice RGB="10025880">palegreen</ColorChoice>
+<ColorChoice RGB="15658671">paleturquoise</ColorChoice>
+<ColorChoice RGB="9662683">palevioletred</ColorChoice>
+<ColorChoice RGB="14020607">papayawhip</ColorChoice>
+<ColorChoice RGB="12180223">peachpuff</ColorChoice>
+<ColorChoice RGB="4163021">peru</ColorChoice>
+<ColorChoice RGB="13353215">pink</ColorChoice>
+<ColorChoice RGB="14524637">plum</ColorChoice>
+<ColorChoice RGB="15130800">powderblue</ColorChoice>
+<ColorChoice RGB="8388736">purple</ColorChoice>
+<ColorChoice RGB="255">red</ColorChoice>
+<ColorChoice RGB="9408444">rosybrown</ColorChoice>
+<ColorChoice RGB="14772545">royalblue</ColorChoice>
+<ColorChoice RGB="1262987">saddlebrown</ColorChoice>
+<ColorChoice RGB="7504122">salmon</ColorChoice>
+<ColorChoice RGB="6333684">sandybrown</ColorChoice>
+<ColorChoice RGB="5737262">seagreen</ColorChoice>
+<ColorChoice RGB="15660543">seashell</ColorChoice>
+<ColorChoice RGB="2970272">sienna</ColorChoice>
+<ColorChoice RGB="12632256">silver</ColorChoice>
+<ColorChoice RGB="15453831">skyblue</ColorChoice>
+<ColorChoice RGB="13458026">slateblue</ColorChoice>
+<ColorChoice RGB="9470064">slategray</ColorChoice>
+<ColorChoice RGB="16448255">snow</ColorChoice>
+<ColorChoice RGB="8388352">springgreen</ColorChoice>
+<ColorChoice RGB="11829830">steelblue</ColorChoice>
+<ColorChoice RGB="9221330">tan</ColorChoice>
+<ColorChoice RGB="8421376">teal</ColorChoice>
+<ColorChoice RGB="14204888">thistle</ColorChoice>
+<ColorChoice RGB="4678655">tomato</ColorChoice>
+<ColorChoice RGB="13688896">turquoise</ColorChoice>
+<ColorChoice RGB="15631086">violet</ColorChoice>
+<ColorChoice RGB="11788021">wheat</ColorChoice>
+<ColorChoice RGB="16777215">white</ColorChoice>
+<ColorChoice RGB="16119285">whitesmoke</ColorChoice>
+<ColorChoice RGB="65535">yellow</ColorChoice>
+<ColorChoice RGB="3329434">yellowgreen</ColorChoice>
+<TrackColor Enabled="0">aqua</TrackColor>
+<TrackColor Enabled="1">black</TrackColor>
+<TrackColor Enabled="0">blue</TrackColor>
+<TrackColor Enabled="0">fuchsia</TrackColor>
+<TrackColor Enabled="0">gray</TrackColor>
+<TrackColor Enabled="0">green</TrackColor>
+<TrackColor Enabled="0">lime</TrackColor>
+<TrackColor Enabled="0">maroon</TrackColor>
+<TrackColor Enabled="0">navy</TrackColor>
+<TrackColor Enabled="0">olive</TrackColor>
+<TrackColor Enabled="0">purple</TrackColor>
+<TrackColor Enabled="0">red</TrackColor>
+<TrackColor Enabled="0">silver</TrackColor>
+<TrackColor Enabled="0">teal</TrackColor>
+<TrackColor Enabled="0">white</TrackColor>
+<TrackColor Enabled="0">yellow</TrackColor>
+
+
+
+<SatelliteCount>0</SatelliteCount>
+<SatellitePos />
+<SatelliteHide>0</SatelliteHide>
+<Update.AutoCheck>1</Update.AutoCheck>
+<Update.Development>1</Update.Development>
+<Update.CheckInterval>2</Update.CheckInterval>
+<Update.LastCheck>2012-03-19T20:36:09</Update.LastCheck>
+<Update.LastSeen>2012/02/29 16:15</Update.LastSeen>
+<Update.ReminderInterval>7</Update.ReminderInterval>
+<Update.LastReminder>2012-03-01T04:39:04</Update.LastReminder>
+<SavedPositFilter>b/*</SavedPositFilter>
+<MaxWidthStationID>MOBTORMQA</MaxWidthStationID>
+
+<Beacon.Cellular>0</Beacon.Cellular>
+
+<Status.Cellular>1</Status.Cellular>
+
+<View.Cellular>1</View.Cellular>
+
+<Screen.Tracks.Cellular>32</Screen.Tracks.Cellular>
+
+<OSM.TileFormat>%z/%y/%x.jpg</OSM.TileFormat>
+</APRSISCE>
