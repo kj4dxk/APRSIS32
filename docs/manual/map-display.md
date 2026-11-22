@@ -32,10 +32,37 @@ Alongside the icons, you will possibly see a callsign, or name displayed. This w
 
 Some icons will be seen to have an outline around them. This outline can convey a number of different attributes.
 
-|  |  |
-| --- | --- |
-| [![Mic-E%20Special.png](../archive/assets/local--resized-images_map-display_Mic-E_Special.png_small--e9b484ec204b.jpg)](../archive/assets/local--files_map-display_Mic-E_Special--1bed9d593be6.png) | Mic-E Status atributes are conveyed by a square being drawn around the icon. The colour of the square conveys the attribute information.  * **EMERGENCY!** Msg New Active Flash **Red** * **Priority** Msg New Flash **Orange** * **Alarm** Msg New Flash **Orange** * **Wx Alarm** Msg New Flash **Orange** * **Warning** Msg New **Orange** * **Special** Msg **Yellow** * **Alert** Msg **Yellow** * **Test Alarm** Msg New Active Flash **Crimson** * **unknown** **DarkKhaki** |
-| [![WX%20Alarm.png](../archive/assets/local--resized-images_map-display_WX_Alarm.png_small--aa631b899238.jpg)](../archive/assets/local--files_map-display_WX_Alarm--6ee4dc556267.png) | WX Alarm active. |
-| [![Freq.png](../archive/assets/local--resized-images_map-display_Freq.png_small--411dff14ecc2.jpg)](../archive/assets/local--files_map-display_Freq--62402147ff80.png) | Non-compliant frequency specifications are drawn with a red box around them. |
-| [![Grid%20Square.png](../archive/assets/local--resized-images_map-display_Grid_Square.png_small--488b8aaa76b2.jpg)](../archive/assets/local--files_map-display_Grid_Square--53d24e0001a9.png) | When only a grid square is known for the station, a box will be drawn around the station showing the grid square on the map with the station shown centered in the grid square. The station may be anywhere within the outlined grid square, but is draw in the center as a convenience. |
-| [![Ambiguity.png](../archive/assets/local--resized-images_map-display_Ambiguity.png_small--ac1f2c0d436b.jpg)](../archive/assets/local--files_map-display_Ambiguity--4d04a8c8a8f5.png) | A station using position ambiguity will have a circle drawn around the icon. The circle will represent the amount of ambiguity being reported. The station may be anywhere within the stated ambiguity, possibly not even within the circle. The icon is only shown at the center of an appropriately sized ambiguity circle as a convenience. |
+<table class="aprs-figure-table" style="margin: 0; width: 100%; border-collapse:collapse;">
+<tr>
+<td><a href="../archive/assets/local--files_map-display_Mic-E_Special--1bed9d593be6.png"><img alt="Mic-E%20Special.png" class="image" src="../archive/assets/local--resized-images_map-display_Mic-E_Special.png_small--e9b484ec204b.jpg"/></a></td>
+<td>Mic-E Status atributes are conveyed by a square being drawn around the icon. The colour of the square conveys the attribute information.
+<ul>
+<li><strong>EMERGENCY!</strong> Msg New Active Flash <strong><span style="color: red">Red</span></strong></li>
+<li><strong>Priority</strong> Msg New Flash <strong><span style="color: orange">Orange</span></strong></li>
+<li><strong>Alarm</strong> Msg New Flash <strong><span style="color: orange">Orange</span></strong></li>
+<li><strong>Wx Alarm</strong> Msg New Flash <strong><span style="color: orange">Orange</span></strong></li>
+<li><strong>Warning</strong> Msg New <strong><span style="color: orange">Orange</span></strong></li>
+<li><strong>Special</strong> Msg <strong><span style="color: yellow">Yellow</span></strong></li>
+<li><strong>Alert</strong> Msg <strong><span style="color: yellow">Yellow</span></strong></li>
+<li><strong>Test Alarm</strong> Msg New Active Flash <strong><span style="color: crimson">Crimson</span></strong></li>
+<li><strong>unknown</strong> <strong><span style="color: darkkhaki">DarkKhaki</span></strong></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="../archive/assets/local--files_map-display_WX_Alarm--6ee4dc556267.png"><img alt="WX%20Alarm.png" class="image" src="../archive/assets/local--resized-images_map-display_WX_Alarm.png_small--aa631b899238.jpg"/></a></td>
+<td>WX Alarm active.</td>
+</tr>
+<tr>
+<td><a href="../archive/assets/local--files_map-display_Freq--62402147ff80.png"><img alt="Freq.png" class="image" src="../archive/assets/local--resized-images_map-display_Freq.png_small--411dff14ecc2.jpg"/></a></td>
+<td>Non-compliant frequency specifications are drawn with a red box around them.</td>
+</tr>
+<tr>
+<td><a href="../archive/assets/local--files_map-display_Grid_Square--53d24e0001a9.png"><img alt="Grid%20Square.png" class="image" src="../archive/assets/local--resized-images_map-display_Grid_Square.png_small--488b8aaa76b2.jpg"/></a></td>
+<td>When only a grid square is known for the station, a box will be drawn around the station showing the grid square on the map with the station shown centered in the grid square. The station may be anywhere within the outlined grid square, but is draw in the center as a convenience.</td>
+</tr>
+<tr>
+<td><a href="../archive/assets/local--files_map-display_Ambiguity--4d04a8c8a8f5.png"><img alt="Ambiguity.png" class="image" src="../archive/assets/local--resized-images_map-display_Ambiguity.png_small--ac1f2c0d436b.jpg"/></a></td>
+<td>A station using position ambiguity will have a circle drawn around the icon. The circle will represent the amount of ambiguity being reported. The station may be anywhere within the stated ambiguity, possibly not even within the circle. The icon is only shown at the center of an appropriately sized ambiguity circle as a convenience.</td>
+</tr>
+</table>

@@ -10,9 +10,13 @@ title: "Larger Image"
 | --- |
 | **Full Screen APRSIS image** |
 
-|  |
-| --- |
-| Screen Shot showing a National Weather Service alert, and the advanced messaging (chat) box aprsis32l.gif |
+<table class="aprs-figure-table" style="width:100%;margin-right:auto;margin-left:auto;border:1px solid #AAA;">
+<tr>
+<td style="padding: 10px; text-align: center; background-color: #DDDDEE; border: 1px solid silver; width: 70%;">Screen Shot showing a National Weather Service alert, and the advanced messaging (chat) box
+<div class="image-container aligncenter" style="text-align: center"><img alt="aprsis32l.gif" class="image" src="../archive/assets/local--files_aprsis-image_aprsis32l--fae92950e395.gif" width="1200px"/></div>
+</td>
+</tr>
+</table>
 
 |  |
 | --- |

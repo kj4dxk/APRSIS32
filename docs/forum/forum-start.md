@@ -10,30 +10,19 @@ APRSISCE/32 Discussion
 
 Discuss the software here
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Category name | Threads | Posts | Last post |
-| [General APRSIS](forum-c-312347-general-aprsis.md)  General Discussion of APRSIS | 106 | 251 | by [![RayBob](../archive/assets/avatar--2ac7149c7577.php)](https://www.wikidot.com/user:info/raybob)[RayBob](https://www.wikidot.com/user:info/raybob) 05 Nov 2026 20:21[Jump!](forum-t-18384343.md#post-9124371) |
-| [Feature Requests](forum-c-312348-feature-requests.md)  Feature Requests | 28 | 89 | by [![old man moses](../archive/assets/avatar--d315ed91706e.php)](https://www.wikidot.com/user:info/old-man-moses)[old man moses](https://www.wikidot.com/user:info/old-man-moses) 18 Mar 2021 02:14[Jump!](forum-t-403205.md#post-4928673) |
+<table class="aprs-figure-table"><tr class="head"><td>Category name</td><td>Threads</td><td>Posts</td><td>Last post</td></tr><tr><td class="name"><div class="title"><a href="forum-c-312347-general-aprsis.md">General APRSIS</a></div><div class="description">General Discussion of APRSIS</div></td><td class="threads">106</td><td class="posts">251</td><td class="last">by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/raybob"><img alt="RayBob" class="small" src="../archive/assets/avatar--2ac7149c7577.php" style="background-image:url(../assets/userkarma--3126d925979f.php)"/></a><a href="https://www.wikidot.com/user:info/raybob">RayBob</a></span><br/><span class="odate time_1793910112 format_%28%25O%20ago%29">05 Nov 2026 20:21</span><a href="forum-t-18384343.md#post-9124371">Jump!</a></td></tr><tr><td class="name"><div class="title"><a href="forum-c-312348-feature-requests.md">Feature Requests</a></div><div class="description">Feature Requests</div></td><td class="threads">28</td><td class="posts">89</td><td class="last">by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/old-man-moses"><img alt="old man moses" class="small" src="../archive/assets/avatar--d315ed91706e.php" style="background-image:url(../assets/userkarma--b23baffc3f1a.php)"/></a><a href="https://www.wikidot.com/user:info/old-man-moses">old man moses</a></span><br/><span class="odate time_1616033688 format_%28%25O%20ago%29">18 Mar 2021 02:14</span><a href="forum-t-403205.md#post-4928673">Jump!</a></td></tr></table>
 
 General Discussion
 
 For Amateur Related Discussion and occasional off topic
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Category name | Threads | Posts | Last post |
-| [Balloons](forum-c-494482-balloons.md)  Balloon flights etc | 0 | 0 |  |
-| [Satellites](forum-c-494483-satellites.md)  Satellite use | 1 | 4 | by [![G6UIM](../archive/assets/avatar--61570c656980.php)](https://www.wikidot.com/user:info/g6uim)[G6UIM](https://www.wikidot.com/user:info/g6uim) 23 Sep 2011 18:13[Jump!](forum-t-394073.md#post-1265491) |
+<table class="aprs-figure-table"><tr class="head"><td>Category name</td><td>Threads</td><td>Posts</td><td>Last post</td></tr><tr><td class="name"><div class="title"><a href="forum-c-494482-balloons.md">Balloons</a></div><div class="description">Balloon flights etc</div></td><td class="threads">0</td><td class="posts">0</td><td class="last"> </td></tr><tr><td class="name"><div class="title"><a href="forum-c-494483-satellites.md">Satellites</a></div><div class="description">Satellite use</div></td><td class="threads">1</td><td class="posts">4</td><td class="last">by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/g6uim"><img alt="G6UIM" class="small" src="../archive/assets/avatar--61570c656980.php" style="background-image:url(../assets/userkarma--c7258976bff6.php)"/></a><a href="https://www.wikidot.com/user:info/g6uim">G6UIM</a></span><br/><span class="odate time_1316801596 format_%28%25O%20ago%29">23 Sep 2011 18:13</span><a href="forum-t-394073.md#post-1265491">Jump!</a></td></tr></table>
 
 WIKI per page discussion
 
 Discuss WIKI pages
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Category name | Threads | Posts | Last post |
-| [Per page discussions](forum-c-494256-per-page-discussions.md)  This category holds per-page comment threads | 63 | 29 | by [![Richard Driscoll](../archive/assets/avatar--00efd1cdee6f.php)](https://www.wikidot.com/user:info/richard-driscoll)[Richard Driscoll](https://www.wikidot.com/user:info/richard-driscoll) 29 Mar 2022 03:58[Jump!](forum-t-630615.md#post-5244303) |
+<table class="aprs-figure-table"><tr class="head"><td>Category name</td><td>Threads</td><td>Posts</td><td>Last post</td></tr><tr><td class="name"><div class="title"><a href="forum-c-494256-per-page-discussions.md">Per page discussions</a></div><div class="description">This category holds per-page comment threads</div></td><td class="threads">63</td><td class="posts">29</td><td class="last">by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/richard-driscoll"><img alt="Richard Driscoll" class="small" src="../archive/assets/avatar--00efd1cdee6f.php" style="background-image:url(../assets/userkarma--eba7e8f75dcf.php)"/></a><a href="https://www.wikidot.com/user:info/richard-driscoll">Richard Driscoll</a></span><br/><span class="odate time_1648526313 format_%28%25O%20ago%29">29 Mar 2022 03:58</span><a href="forum-t-630615.md#post-5244303">Jump!</a></td></tr></table>
 
 [Show hidden](https://aprsisce.wikidot.com/forum/start/hidden/show)
 

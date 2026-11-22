@@ -28,28 +28,426 @@ Order by:
 
 page 1 of 41[2](forum-c-494256-p-2.md)[3](forum-c-494256-p-3.md)[4](forum-c-494256-p-4.md)[next »](forum-c-494256-p-2.md)
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Thread name | Started | Posts | Recent post |
-| [DigiPeating](forum-t-630615-digipeating.md) | by: Wikidot   03 Mar 2013 22:25 | 1 | by [![Richard Driscoll](../archive/assets/avatar--3b0a26b577ad.php)](https://www.wikidot.com/user:info/richard-driscoll)[Richard Driscoll](https://www.wikidot.com/user:info/richard-driscoll)  29 Mar 2022 03:58 [Jump!](forum-t-630615-digipeating.md#post-5244303) |
-| [TH-D7](forum-t-13952433-th-d7.md) | by: Wikidot   23 Dec 2020 06:47 | 1 | by [![K9BFG](../archive/assets/avatar--66f9555363cb.php)](https://www.wikidot.com/user:info/k9bfg)[K9BFG](https://www.wikidot.com/user:info/k9bfg)  23 Dec 2020 07:11 [Jump!](forum-t-13952433-th-d7.md#post-4851610) |
-| [Tile Sets](forum-t-403069-tile-sets.md) | by: Wikidot   22 Oct 2011 05:38 | 4 | by [![Allen Griffith](../archive/assets/avatar--fe4db6c7e722.php)](https://www.wikidot.com/user:info/allen-griffith)[Allen Griffith](https://www.wikidot.com/user:info/allen-griffith)  31 Dec 2018 04:55 [Jump!](forum-t-403069-tile-sets.md#post-4103894) |
-| [Times](forum-t-1313579-times.md) | by: [![radiotwo](../archive/assets/avatar--fb29ca830db0.php)](https://www.wikidot.com/user:info/radiotwo)[radiotwo](https://www.wikidot.com/user:info/radiotwo)   07 Aug 2015 11:10 | 3 | by [![radiotwo](../archive/assets/avatar--fb29ca830db0.php)](https://www.wikidot.com/user:info/radiotwo)[radiotwo](https://www.wikidot.com/user:info/radiotwo)  07 Aug 2015 11:29 [Jump!](forum-t-1313579-times.md#post-2353334) |
-| [Queries](forum-t-1109490-queries.md)  updates needed to the Wiki page at: doc:queries | by: [![Pat Ryan KC6VVT](../archive/assets/avatar--6352a6147f5e.php)](https://www.wikidot.com/user:info/pat-ryan-kc6vvt)[Pat Ryan KC6VVT](https://www.wikidot.com/user:info/pat-ryan-kc6vvt)   12 Feb 2015 17:02 | 1 |  |
-| [tnc-d700](forum-t-681047-tnc-d700.md) | by: Wikidot   10 Aug 2013 02:39 | 1 | by [![K4HLW](../archive/assets/avatar--514f2942a2fe.php)](https://www.wikidot.com/user:info/k4hlw)[K4HLW](https://www.wikidot.com/user:info/k4hlw)  10 Aug 2013 02:41 [Jump!](forum-t-681047-tnc-d700.md#post-1829968) |
-| [TNC-OT-USB](forum-t-633541-tnc-ot-usb.md) | by: Wikidot   14 Mar 2013 01:04 | 1 | by [![VA6EMS](../archive/assets/avatar--1af8fe39ae21.php)](https://www.wikidot.com/user:info/va6ems)[VA6EMS](https://www.wikidot.com/user:info/va6ems)  14 Mar 2013 01:08 [Jump!](forum-t-633541-tnc-ot-usb.md#post-1730532) |
-| [APRS-IS Filters](forum-t-615224-aprs-is-filters.md) | by: Wikidot   14 Jan 2013 02:59 | 2 | by [![VE6SRV](../archive/assets/avatar--b7c3c35ab243.php)](https://www.wikidot.com/user:info/ve6srv)[VE6SRV](https://www.wikidot.com/user:info/ve6srv)  21 Jan 2013 06:04 [Jump!](forum-t-615224-aprs-is-filters.md#post-1691151) |
-| [Create a moving Object](forum-t-465213-create-a-moving-object.md)  I want to create an object that is moving using GPS, how? | by: [![DG1PI](../archive/assets/avatar--cb57cbea8531.php)](https://www.wikidot.com/user:info/dg1pi)[DG1PI](https://www.wikidot.com/user:info/dg1pi)   30 Apr 2012 15:28 | 2 | by [![APRS IS CE](../archive/assets/avatar--a9be78fb424c.php)](https://www.wikidot.com/user:info/aprs-is-ce)[APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce)  30 Apr 2012 15:34 [Jump!](forum-t-465213-create-a-moving-object.md#post-1432981) |
-| [IS-Server Port](forum-t-421543-is-server-port.md) | by: Wikidot   15 Dec 2011 05:35 | 2 | by [![APRS IS CE](../archive/assets/avatar--a9be78fb424c.php)](https://www.wikidot.com/user:info/aprs-is-ce)[APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce)  28 Apr 2012 20:57 [Jump!](forum-t-421543-is-server-port.md#post-1431681) |
-| [Atlantic Special Tropical Weather Outlook](forum-t-440579-atlantic-special-tropical-weather-outlook.md) | by: [![n4trn](../archive/assets/avatar--cdc199200c66.php)](https://www.wikidot.com/user:info/n4trn)[n4trn](https://www.wikidot.com/user:info/n4trn)   06 Feb 2012 00:48 | 2 | by [![n4trn](../archive/assets/avatar--cdc199200c66.php)](https://www.wikidot.com/user:info/n4trn)[n4trn](https://www.wikidot.com/user:info/n4trn)  06 Feb 2012 01:07 [Jump!](forum-t-440579-atlantic-special-tropical-weather-outlook.md#post-1366875) |
-| [PHG](forum-t-438866-phg.md) | by: Wikidot   02 Feb 2012 07:29 | 1 | by [![VE6SRV](../archive/assets/avatar--b7c3c35ab243.php)](https://www.wikidot.com/user:info/ve6srv)[VE6SRV](https://www.wikidot.com/user:info/ve6srv)  02 Feb 2012 07:31 [Jump!](forum-t-438866-phg.md#post-1363780) |
-| [Kenwood TM-D710 Port (APRS mode)](forum-t-403546-kenwood-tm-d710-port-aprs-mode.md) | by: Wikidot   24 Oct 2011 00:56 | 4 | by [![VE7KIX](../archive/assets/avatar--5bf8dfa1f608.php)](https://www.wikidot.com/user:info/ve7kix)[VE7KIX](https://www.wikidot.com/user:info/ve7kix)  01 Feb 2012 03:28 [Jump!](forum-t-403546-kenwood-tm-d710-port-aprs-mode.md#post-1362778) |
-| [Messages Menu](forum-t-402247-messages-menu.md) | by: Wikidot   19 Oct 2011 02:13 | 1 | by [![VE6SRV](../archive/assets/avatar--b7c3c35ab243.php)](https://www.wikidot.com/user:info/ve6srv)[VE6SRV](https://www.wikidot.com/user:info/ve6srv)  19 Oct 2011 03:13 [Jump!](forum-t-402247-messages-menu.md#post-1284824) |
-| [Welcome to APRSISCE/32](forum-t-394049-welcome-to-aprsisce-32.md) | by: Wikidot   23 Sep 2011 15:50 | 2 | by [![APRS IS CE](../archive/assets/avatar--a9be78fb424c.php)](https://www.wikidot.com/user:info/aprs-is-ce)[APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce)  17 Oct 2011 11:52 [Jump!](forum-t-394049-welcome-to-aprsisce-32.md#post-1283017) |
-| [Screen Elements](forum-t-394451-screen-elements.md) | by: Wikidot   24 Sep 2011 20:15 | 1 | by [![VE6SRV](../archive/assets/avatar--b7c3c35ab243.php)](https://www.wikidot.com/user:info/ve6srv)[VE6SRV](https://www.wikidot.com/user:info/ve6srv)  24 Sep 2011 20:18 [Jump!](forum-t-394451-screen-elements.md#post-1266345) |
-| [Paths](forum-t-17696829-paths.md) | by: Wikidot   06 Apr 2026 17:07 | 0 |  |
-| [D710](forum-t-16960049-d710.md) | by: Wikidot   11 Oct 2024 18:46 | 0 |  |
-| [APRS Authors](forum-t-16909807-aprs-authors.md) | by: Wikidot   17 Aug 2024 14:18 | 0 |  |
-| [Contact](forum-t-16835727-contact.md) | by: Wikidot   23 May 2024 18:32 | 0 |  |
+<table class="table aprs-figure-table" style="width: 98%">
+<tr class="head">
+<td>
+				Thread name			</td>
+<td>
+				Started			</td>
+<td>
+				Posts			</td>
+<td>
+				Recent post			</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-630615-digipeating.md">DigiPeating</a><br/>
+</div>
+<div class="description">
+</div>
+</td>
+<td class="started">
+					by: <span class="printuser">Wikidot</span> <br/>
+<span class="odate time_1362349502 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">03 Mar 2013 22:25</span>
+</td>
+<td class="posts">
+					1
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/richard-driscoll"><img alt="Richard Driscoll" class="small" src="../archive/assets/avatar--3b0a26b577ad.php" style="background-image:url(../assets/userkarma--eba7e8f75dcf.php)"/></a><a href="https://www.wikidot.com/user:info/richard-driscoll">Richard Driscoll</a></span><br/>
+<span class="odate time_1648526313 format_%28%25O%20%25A%29">29 Mar 2022 03:58</span>
+<a href="forum-t-630615-digipeating.md#post-5244303">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-13952433-th-d7.md">TH-D7</a><br/>
+</div>
+<div class="description">
+</div>
+</td>
+<td class="started">
+					by: <span class="printuser">Wikidot</span> <br/>
+<span class="odate time_1608706041 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">23 Dec 2020 06:47</span>
+</td>
+<td class="posts">
+					1
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/k9bfg"><img alt="K9BFG" class="small" src="../archive/assets/avatar--66f9555363cb.php" style="background-image:url(../assets/userkarma--27712efe4c47.php)"/></a><a href="https://www.wikidot.com/user:info/k9bfg">K9BFG</a></span><br/>
+<span class="odate time_1608707502 format_%28%25O%20%25A%29">23 Dec 2020 07:11</span>
+<a href="forum-t-13952433-th-d7.md#post-4851610">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-403069-tile-sets.md">Tile Sets</a><br/>
+</div>
+<div class="description">
+</div>
+</td>
+<td class="started">
+					by: <span class="printuser">Wikidot</span> <br/>
+<span class="odate time_1319261883 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">22 Oct 2011 05:38</span>
+</td>
+<td class="posts">
+					4
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/allen-griffith"><img alt="Allen Griffith" class="small" src="../archive/assets/avatar--fe4db6c7e722.php" style="background-image:url(../assets/userkarma--630aedc3050e.php)"/></a><a href="https://www.wikidot.com/user:info/allen-griffith">Allen Griffith</a></span><br/>
+<span class="odate time_1546232148 format_%28%25O%20%25A%29">31 Dec 2018 04:55</span>
+<a href="forum-t-403069-tile-sets.md#post-4103894">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-1313579-times.md">Times</a><br/>
+</div>
+<div class="description">
+</div>
+</td>
+<td class="started">
+					by: <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/radiotwo"><img alt="radiotwo" class="small" src="../archive/assets/avatar--fb29ca830db0.php" style="background-image:url(../assets/userkarma--a904005dc82c.php)"/></a><a href="https://www.wikidot.com/user:info/radiotwo">radiotwo</a></span> <br/>
+<span class="odate time_1438945819 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">07 Aug 2015 11:10</span>
+</td>
+<td class="posts">
+					3
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/radiotwo"><img alt="radiotwo" class="small" src="../archive/assets/avatar--fb29ca830db0.php" style="background-image:url(../assets/userkarma--a904005dc82c.php)"/></a><a href="https://www.wikidot.com/user:info/radiotwo">radiotwo</a></span><br/>
+<span class="odate time_1438946994 format_%28%25O%20%25A%29">07 Aug 2015 11:29</span>
+<a href="forum-t-1313579-times.md#post-2353334">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-1109490-queries.md">Queries</a><br/>
+</div>
+<div class="description">
+						updates needed to the Wiki page at:
+ doc:queries
+					</div>
+</td>
+<td class="started">
+					by: <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/pat-ryan-kc6vvt"><img alt="Pat Ryan KC6VVT" class="small" src="../archive/assets/avatar--6352a6147f5e.php" style="background-image:url(../assets/userkarma--e9b2c5e85721.php)"/></a><a href="https://www.wikidot.com/user:info/pat-ryan-kc6vvt">Pat Ryan KC6VVT</a></span> <br/>
+<span class="odate time_1423760558 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">12 Feb 2015 17:02</span>
+</td>
+<td class="posts">
+					1
+				</td>
+<td class="last">
+											 
+									</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-681047-tnc-d700.md">tnc-d700</a><br/>
+</div>
+<div class="description">
+</div>
+</td>
+<td class="started">
+					by: <span class="printuser">Wikidot</span> <br/>
+<span class="odate time_1376102384 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">10 Aug 2013 02:39</span>
+</td>
+<td class="posts">
+					1
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/k4hlw"><img alt="K4HLW" class="small" src="../archive/assets/avatar--514f2942a2fe.php" style="background-image:url(../assets/userkarma--25c2c316a8d5.php)"/></a><a href="https://www.wikidot.com/user:info/k4hlw">K4HLW</a></span><br/>
+<span class="odate time_1376102465 format_%28%25O%20%25A%29">10 Aug 2013 02:41</span>
+<a href="forum-t-681047-tnc-d700.md#post-1829968">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-633541-tnc-ot-usb.md">TNC-OT-USB</a><br/>
+</div>
+<div class="description">
+</div>
+</td>
+<td class="started">
+					by: <span class="printuser">Wikidot</span> <br/>
+<span class="odate time_1363223084 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">14 Mar 2013 01:04</span>
+</td>
+<td class="posts">
+					1
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/va6ems"><img alt="VA6EMS" class="small" src="../archive/assets/avatar--1af8fe39ae21.php" style="background-image:url(../assets/userkarma--5786af5505a9.php)"/></a><a href="https://www.wikidot.com/user:info/va6ems">VA6EMS</a></span><br/>
+<span class="odate time_1363223299 format_%28%25O%20%25A%29">14 Mar 2013 01:08</span>
+<a href="forum-t-633541-tnc-ot-usb.md#post-1730532">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-615224-aprs-is-filters.md">APRS-IS Filters</a><br/>
+</div>
+<div class="description">
+</div>
+</td>
+<td class="started">
+					by: <span class="printuser">Wikidot</span> <br/>
+<span class="odate time_1358132346 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">14 Jan 2013 02:59</span>
+</td>
+<td class="posts">
+					2
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/ve6srv"><img alt="VE6SRV" class="small" src="../archive/assets/avatar--b7c3c35ab243.php" style="background-image:url(../assets/userkarma--2e874e9e07a3.php)"/></a><a href="https://www.wikidot.com/user:info/ve6srv">VE6SRV</a></span><br/>
+<span class="odate time_1358748297 format_%28%25O%20%25A%29">21 Jan 2013 06:04</span>
+<a href="forum-t-615224-aprs-is-filters.md#post-1691151">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-465213-create-a-moving-object.md">Create a moving Object</a><br/>
+</div>
+<div class="description">
+						I want to create an object that is moving using GPS, how?
+					</div>
+</td>
+<td class="started">
+					by: <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/dg1pi"><img alt="DG1PI" class="small" src="../archive/assets/avatar--cb57cbea8531.php" style="background-image:url(../assets/userkarma--776ddfbc991b.php)"/></a><a href="https://www.wikidot.com/user:info/dg1pi">DG1PI</a></span> <br/>
+<span class="odate time_1335799722 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">30 Apr 2012 15:28</span>
+</td>
+<td class="posts">
+					2
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/aprs-is-ce"><img alt="APRS IS CE" class="small" src="../archive/assets/avatar--a9be78fb424c.php" style="background-image:url(../assets/userkarma--ca4c7071d458.php)"/></a><a href="https://www.wikidot.com/user:info/aprs-is-ce">APRS IS CE</a></span><br/>
+<span class="odate time_1335800097 format_%28%25O%20%25A%29">30 Apr 2012 15:34</span>
+<a href="forum-t-465213-create-a-moving-object.md#post-1432981">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-421543-is-server-port.md">IS-Server Port</a><br/>
+</div>
+<div class="description">
+</div>
+</td>
+<td class="started">
+					by: <span class="printuser">Wikidot</span> <br/>
+<span class="odate time_1323927313 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">15 Dec 2011 05:35</span>
+</td>
+<td class="posts">
+					2
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/aprs-is-ce"><img alt="APRS IS CE" class="small" src="../archive/assets/avatar--a9be78fb424c.php" style="background-image:url(../assets/userkarma--ca4c7071d458.php)"/></a><a href="https://www.wikidot.com/user:info/aprs-is-ce">APRS IS CE</a></span><br/>
+<span class="odate time_1335646671 format_%28%25O%20%25A%29">28 Apr 2012 20:57</span>
+<a href="forum-t-421543-is-server-port.md#post-1431681">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-440579-atlantic-special-tropical-weather-outlook.md">Atlantic Special Tropical Weather Outlook</a><br/>
+</div>
+<div class="description">
+</div>
+</td>
+<td class="started">
+					by: <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/n4trn"><img alt="n4trn" class="small" src="../archive/assets/avatar--cdc199200c66.php" style="background-image:url(../assets/userkarma--76d801956527.php)"/></a><a href="https://www.wikidot.com/user:info/n4trn">n4trn</a></span> <br/>
+<span class="odate time_1328489323 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">06 Feb 2012 00:48</span>
+</td>
+<td class="posts">
+					2
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/n4trn"><img alt="n4trn" class="small" src="../archive/assets/avatar--cdc199200c66.php" style="background-image:url(../assets/userkarma--76d801956527.php)"/></a><a href="https://www.wikidot.com/user:info/n4trn">n4trn</a></span><br/>
+<span class="odate time_1328490471 format_%28%25O%20%25A%29">06 Feb 2012 01:07</span>
+<a href="forum-t-440579-atlantic-special-tropical-weather-outlook.md#post-1366875">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-438866-phg.md">PHG</a><br/>
+</div>
+<div class="description">
+</div>
+</td>
+<td class="started">
+					by: <span class="printuser">Wikidot</span> <br/>
+<span class="odate time_1328167796 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">02 Feb 2012 07:29</span>
+</td>
+<td class="posts">
+					1
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/ve6srv"><img alt="VE6SRV" class="small" src="../archive/assets/avatar--b7c3c35ab243.php" style="background-image:url(../assets/userkarma--2e874e9e07a3.php)"/></a><a href="https://www.wikidot.com/user:info/ve6srv">VE6SRV</a></span><br/>
+<span class="odate time_1328167882 format_%28%25O%20%25A%29">02 Feb 2012 07:31</span>
+<a href="forum-t-438866-phg.md#post-1363780">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-403546-kenwood-tm-d710-port-aprs-mode.md">Kenwood TM-D710 Port (APRS mode)</a><br/>
+</div>
+<div class="description">
+</div>
+</td>
+<td class="started">
+					by: <span class="printuser">Wikidot</span> <br/>
+<span class="odate time_1319417809 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">24 Oct 2011 00:56</span>
+</td>
+<td class="posts">
+					4
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/ve7kix"><img alt="VE7KIX" class="small" src="../archive/assets/avatar--5bf8dfa1f608.php" style="background-image:url(../assets/userkarma--8be299190a6a.php)"/></a><a href="https://www.wikidot.com/user:info/ve7kix">VE7KIX</a></span><br/>
+<span class="odate time_1328066914 format_%28%25O%20%25A%29">01 Feb 2012 03:28</span>
+<a href="forum-t-403546-kenwood-tm-d710-port-aprs-mode.md#post-1362778">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-402247-messages-menu.md">Messages Menu</a><br/>
+</div>
+<div class="description">
+</div>
+</td>
+<td class="started">
+					by: <span class="printuser">Wikidot</span> <br/>
+<span class="odate time_1318990407 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">19 Oct 2011 02:13</span>
+</td>
+<td class="posts">
+					1
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/ve6srv"><img alt="VE6SRV" class="small" src="../archive/assets/avatar--b7c3c35ab243.php" style="background-image:url(../assets/userkarma--2e874e9e07a3.php)"/></a><a href="https://www.wikidot.com/user:info/ve6srv">VE6SRV</a></span><br/>
+<span class="odate time_1318994011 format_%28%25O%20%25A%29">19 Oct 2011 03:13</span>
+<a href="forum-t-402247-messages-menu.md#post-1284824">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-394049-welcome-to-aprsisce-32.md">Welcome to APRSISCE/32</a><br/>
+</div>
+<div class="description">
+</div>
+</td>
+<td class="started">
+					by: <span class="printuser">Wikidot</span> <br/>
+<span class="odate time_1316793052 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">23 Sep 2011 15:50</span>
+</td>
+<td class="posts">
+					2
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/aprs-is-ce"><img alt="APRS IS CE" class="small" src="../archive/assets/avatar--a9be78fb424c.php" style="background-image:url(../assets/userkarma--ca4c7071d458.php)"/></a><a href="https://www.wikidot.com/user:info/aprs-is-ce">APRS IS CE</a></span><br/>
+<span class="odate time_1318852372 format_%28%25O%20%25A%29">17 Oct 2011 11:52</span>
+<a href="forum-t-394049-welcome-to-aprsisce-32.md#post-1283017">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-394451-screen-elements.md">Screen Elements</a><br/>
+</div>
+<div class="description">
+</div>
+</td>
+<td class="started">
+					by: <span class="printuser">Wikidot</span> <br/>
+<span class="odate time_1316895300 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">24 Sep 2011 20:15</span>
+</td>
+<td class="posts">
+					1
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/ve6srv"><img alt="VE6SRV" class="small" src="../archive/assets/avatar--b7c3c35ab243.php" style="background-image:url(../assets/userkarma--2e874e9e07a3.php)"/></a><a href="https://www.wikidot.com/user:info/ve6srv">VE6SRV</a></span><br/>
+<span class="odate time_1316895521 format_%28%25O%20%25A%29">24 Sep 2011 20:18</span>
+<a href="forum-t-394451-screen-elements.md#post-1266345">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-17696829-paths.md">Paths</a><br/>
+</div>
+<div class="description">
+</div>
+</td>
+<td class="started">
+					by: <span class="printuser">Wikidot</span> <br/>
+<span class="odate time_1775495269 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">06 Apr 2026 17:07</span>
+</td>
+<td class="posts">
+					0
+				</td>
+<td class="last">
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-16960049-d710.md">D710</a><br/>
+</div>
+<div class="description">
+</div>
+</td>
+<td class="started">
+					by: <span class="printuser">Wikidot</span> <br/>
+<span class="odate time_1728672405 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">11 Oct 2024 18:46</span>
+</td>
+<td class="posts">
+					0
+				</td>
+<td class="last">
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-16909807-aprs-authors.md">APRS Authors</a><br/>
+</div>
+<div class="description">
+</div>
+</td>
+<td class="started">
+					by: <span class="printuser">Wikidot</span> <br/>
+<span class="odate time_1723904329 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">17 Aug 2024 14:18</span>
+</td>
+<td class="posts">
+					0
+				</td>
+<td class="last">
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-16835727-contact.md">Contact</a><br/>
+</div>
+<div class="description">
+</div>
+</td>
+<td class="started">
+					by: <span class="printuser">Wikidot</span> <br/>
+<span class="odate time_1716489121 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">23 May 2024 18:32</span>
+</td>
+<td class="posts">
+					0
+				</td>
+<td class="last">
+</td>
+</tr>
+</table>
 
 page 1 of 41[2](forum-c-494256-p-2.md)[3](forum-c-494256-p-3.md)[4](forum-c-494256-p-4.md)[next »](forum-c-494256-p-2.md)

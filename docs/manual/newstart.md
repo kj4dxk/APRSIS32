@@ -10,9 +10,17 @@ title: "newstart"
 | --- |
 |  |
 
-|  |  |
-| --- | --- |
-| **APRSISCE/32** is an advanced Automatic Packet Reporting System (APRS) Client for Amateur Radio, written for Windows and Windows Mobile (CE). It will also run on Linux and Mac OS under WINE, as well as other virtual machines.  APRSISCE/32 can be configured to run connected directly to the APRS-IS via an internet connection, as well as connected to the APRS-RF network via AGWPE, a TNC, or one of the APRS capable Radios including the Kenwood TH-D72/TM-D710 and Yaesu FTM-350.  For a view of the software in use Julian G4ILO's videos are essential viewing [First Use](initial-startup.md) and [port setup](port-configuration.md) | [![APRS32 screenshot](../archive/assets/local--files_newstart_aprsis32--c95a8703394d.gif "Click for Larger image")](aprsis-image.md)  Click the image for a full screen [view](aprsis-image.md) |
+<table class="aprs-figure-table" style="width:100%;margin-right:auto;margin-left:auto;border:1px solid #AAA;">
+<tr>
+<td style="padding: 10px; text-align: left; background-color: #DDDDEE; border: 1px solid silver; width: 70%;">
+<p><span style="font-size:120%;"><strong>APRSISCE/32</strong> is an advanced Automatic Packet Reporting System (APRS) Client for Amateur Radio, written for Windows and Windows Mobile (CE). It will also run on Linux and Mac OS under WINE, as well as other virtual machines.</span></p>
+<p><span style="font-size:120%;">APRSISCE/32 can be configured to run connected directly to the APRS-IS via an internet connection, as well as connected to the APRS-RF network via AGWPE, a TNC, or one of the APRS capable Radios including the Kenwood TH-D72/TM-D710 and Yaesu FTM-350.</span><br/>
+For a view of the software in use Julian G4ILO's videos are essential viewing <a href="initial-startup.md">First Use</a> and <a href="port-configuration.md">port setup</a></p>
+</td>
+<td style="padding: 10px; text-align: center; background-color: #DDEEDD; border: 1px solid silver;width: 30%;"><a href="aprsis-image.md"><img alt="APRS32 screenshot" class="image" src="../archive/assets/local--files_newstart_aprsis32--c95a8703394d.gif" title="Click for Larger image"/></a><br/>
+Click the image for a full screen <a href="aprsis-image.md">view</a></td>
+</tr>
+</table>
 
 |  |
 | --- |

@@ -28,28 +28,438 @@ Order by:
 
 page 1 of 21[2](forum-c-312348-p-2.md)[next »](forum-c-312348-p-2.md)
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Thread name | Started | Posts | Recent post |
-| [New Port possibilites](forum-t-403205-new-port-possibilites.md)  Are new connections possible? | by: [![KB8UIH](../archive/assets/avatar--21efa93d03c5.php)](https://www.wikidot.com/user:info/kb8uih)[KB8UIH](https://www.wikidot.com/user:info/kb8uih)   22 Oct 2011 16:16 | 5 | by [![old man moses](../archive/assets/avatar--14ad390695df.php)](https://www.wikidot.com/user:info/old-man-moses)[old man moses](https://www.wikidot.com/user:info/old-man-moses)  18 Mar 2021 02:14 [Jump!](forum-t-403205-new-port-possibilites.md#post-4928673) |
-| [Block list](forum-t-423153-block-list.md)  A way to block reception of packets from certain stations | by: [![n9mxq](../archive/assets/avatar--63881788f200.php)](https://www.wikidot.com/user:info/n9mxq)[n9mxq](https://www.wikidot.com/user:info/n9mxq)   24 Dec 2011 15:14 | 5 | by [![SP3WBX](../archive/assets/avatar--034fc494807c.php)](https://www.wikidot.com/user:info/sp3wbx)[SP3WBX](https://www.wikidot.com/user:info/sp3wbx)  18 Aug 2020 07:07 [Jump!](forum-t-423153-block-list.md#post-4750481) |
-| [I GATING and DIGI PETING](forum-t-10431704-i-gating-and-digi-peting.md)  How do you I gate specific objects to RF? Also how do you set up cross band DIGI ? | by: [![Bradley Haney](../archive/assets/avatar--31f772d52ddc.php)](https://www.wikidot.com/user:info/bradley-haney)[Bradley Haney](https://www.wikidot.com/user:info/bradley-haney)   27 Feb 2019 01:58 | 2 | by [![Bradley Haney](../archive/assets/avatar--31f772d52ddc.php)](https://www.wikidot.com/user:info/bradley-haney)[Bradley Haney](https://www.wikidot.com/user:info/bradley-haney)  16 Aug 2020 02:33 [Jump!](forum-t-10431704-i-gating-and-digi-peting.md#post-4748498) |
-| [Direct p2p messaging](forum-t-10395156-direct-p2p-messaging.md)  To be able to message close stations without going through the digipeater. | by: [![steve galbraith](../archive/assets/avatar--12dd0fc7c285.php)](https://www.wikidot.com/user:info/steve-galbraith)[steve galbraith](https://www.wikidot.com/user:info/steve-galbraith)   23 Feb 2019 23:53 | 2 | by [![APRS IS CE](../archive/assets/avatar--8279c624de37.php)](https://www.wikidot.com/user:info/aprs-is-ce)[APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce)  24 Feb 2019 14:06 [Jump!](forum-t-10395156-direct-p2p-messaging.md#post-4163956) |
-| [Internet Feed for APRS Plots All Over the Country](forum-t-10007481-internet-feed-for-aprs-plots-all-over-the-country.md)  What are the settings for Internet Feed for APRS plots all over the country? | by: [![Don Hamrick](../archive/assets/avatar--e3dd2956893e.php)](https://www.wikidot.com/user:info/don-hamrick)[Don Hamrick](https://www.wikidot.com/user:info/don-hamrick)   18 Jan 2019 13:41 | 1 |  |
-| [tracks](forum-t-9897292-tracks.md)  Accuracy and distance of individual track | by: [![nathan myers](../archive/assets/avatar--511a560f2c36.php)](https://www.wikidot.com/user:info/nathan-myers)[nathan myers](https://www.wikidot.com/user:info/nathan-myers)   10 Jan 2019 04:30 | 1 |  |
-| [nickname for APRS objects](forum-t-6659762-nickname-for-aprs-objects.md)  I'd like to be able to use the "nickname" feature on APRS objects as well as stations. | by: [![vaxhacker](../archive/assets/avatar--5a1aa7b28da9.php)](https://www.wikidot.com/user:info/vaxhacker)[vaxhacker](https://www.wikidot.com/user:info/vaxhacker)   28 Jul 2018 18:46 | 1 |  |
-| [Failing to see D700 radio](forum-t-5661759-failing-to-see-d700-radio.md)  Cannot use KenWood D700 | by: [![M0VLK](../archive/assets/avatar--33e2696dff66.php)](https://www.wikidot.com/user:info/m0vlk)[M0VLK](https://www.wikidot.com/user:info/m0vlk)   01 Apr 2018 20:10 | 2 | by [![M0VLK](../archive/assets/avatar--33e2696dff66.php)](https://www.wikidot.com/user:info/m0vlk)[M0VLK](https://www.wikidot.com/user:info/m0vlk)  17 Jun 2018 12:16 [Jump!](forum-t-5661759-failing-to-see-d700-radio.md#post-3838785) |
-| [Send Waypoints & GPS to Mapping Software](forum-t-4282723-send-waypoints-gps-to-mapping-software.md)  A port or feature that sends APRS stations received in to mapping software as waypoints. | by: [![TchGimmick](../archive/assets/avatar--b143b0aa14e9.php)](https://www.wikidot.com/user:info/tchgimmick)[TchGimmick](https://www.wikidot.com/user:info/tchgimmick)   15 Nov 2017 05:36 | 1 |  |
-| [High Contrast/Night Viewing](forum-t-2066988-high-contrast-night-viewing.md)  A toggle setting that would make the maps black, instead of white. | by: [![TchGimmick](../archive/assets/avatar--b143b0aa14e9.php)](https://www.wikidot.com/user:info/tchgimmick)[TchGimmick](https://www.wikidot.com/user:info/tchgimmick)   21 Jan 2017 04:57 | 3 | by [![TchGimmick](../archive/assets/avatar--b143b0aa14e9.php)](https://www.wikidot.com/user:info/tchgimmick)[TchGimmick](https://www.wikidot.com/user:info/tchgimmick)  12 Nov 2017 21:29 [Jump!](forum-t-2066988-high-contrast-night-viewing.md#post-3631319) |
-| [Map tiles](forum-t-1725396-map-tiles.md) | by: [![KG7SPS](../archive/assets/avatar--6fc926773926.php)](https://www.wikidot.com/user:info/kg7sps)[KG7SPS](https://www.wikidot.com/user:info/kg7sps)   02 Jun 2016 23:08 | 13 | by [![kf5jmj](../archive/assets/avatar--d0636f74a842.php)](https://www.wikidot.com/user:info/kf5jmj)[kf5jmj](https://www.wikidot.com/user:info/kf5jmj)  07 Jun 2017 06:31 [Jump!](forum-t-1725396-map-tiles.md#post-2844870) |
-| [Local News Feeds RSS](forum-t-2161283-local-news-feeds-rss.md)  Local News Feeds (RSS or Tickers?)so that information can be transferred to 'Objects' on the APRS map. | by: [![Oliver Cohen](https://www.wikidot.com/avatar.php?userid=3009441&amp;size=small&amp;timestamp=1795234787)](https://www.wikidot.com/user:info/oliver-cohen)[Oliver Cohen](https://www.wikidot.com/user:info/oliver-cohen)   12 Mar 2017 08:36 | 1 |  |
-| [Addition to your Multi-Track View](forum-t-2082455-addition-to-your-multi-track-view.md)  Show MPH in Multi-Track | by: [![TchGimmick](../archive/assets/avatar--b143b0aa14e9.php)](https://www.wikidot.com/user:info/tchgimmick)[TchGimmick](https://www.wikidot.com/user:info/tchgimmick)   28 Jan 2017 06:34 | 3 | by [![TchGimmick](../archive/assets/avatar--b143b0aa14e9.php)](https://www.wikidot.com/user:info/tchgimmick)[TchGimmick](https://www.wikidot.com/user:info/tchgimmick)  02 Feb 2017 07:30 [Jump!](forum-t-2082455-addition-to-your-multi-track-view.md#post-2738685) |
-| [Easily copy GPS coordinates to clipboard](forum-t-2067033-easily-copy-gps-coordinates-to-clipboard.md) | by: [![TchGimmick](../archive/assets/avatar--b143b0aa14e9.php)](https://www.wikidot.com/user:info/tchgimmick)[TchGimmick](https://www.wikidot.com/user:info/tchgimmick)   21 Jan 2017 05:24 | 1 |  |
-| [User Selectable Sounds](forum-t-614812-user-selectable-sounds.md) | by: [![APRS-Jeff](../archive/assets/avatar--8eb0df69c218.php)](https://www.wikidot.com/user:info/aprs-jeff)[APRS-Jeff](https://www.wikidot.com/user:info/aprs-jeff)   12 Jan 2013 17:41 | 3 | by [![TchGimmick](../archive/assets/avatar--b143b0aa14e9.php)](https://www.wikidot.com/user:info/tchgimmick)[TchGimmick](https://www.wikidot.com/user:info/tchgimmick)  21 Jan 2017 04:49 [Jump!](forum-t-614812-user-selectable-sounds.md#post-2730819) |
-| [Blink when message received](forum-t-555031-blink-when-message-received.md) | by: [![Tony VE6MVP](../archive/assets/avatar--e94b3194a100.php)](https://www.wikidot.com/user:info/tony-ve6mvp)[Tony VE6MVP](https://www.wikidot.com/user:info/tony-ve6mvp)   26 Aug 2012 01:56 | 3 | by [![TchGimmick](../archive/assets/avatar--b143b0aa14e9.php)](https://www.wikidot.com/user:info/tchgimmick)[TchGimmick](https://www.wikidot.com/user:info/tchgimmick)  21 Jan 2017 04:48 [Jump!](forum-t-555031-blink-when-message-received.md#post-2730818) |
-| [Message paths](forum-t-1934414-message-paths.md)  entering a message path manually | by: [![steve galbraith](../archive/assets/avatar--12dd0fc7c285.php)](https://www.wikidot.com/user:info/steve-galbraith)[steve galbraith](https://www.wikidot.com/user:info/steve-galbraith)   03 Oct 2016 14:02 | 1 |  |
-| [CHanging to Development Verision](forum-t-1726482-changing-to-development-verision.md) | by: [![KG7SPS](../archive/assets/avatar--6fc926773926.php)](https://www.wikidot.com/user:info/kg7sps)[KG7SPS](https://www.wikidot.com/user:info/kg7sps)   04 Jun 2016 07:39 | 4 | by [![KG7SPS](../archive/assets/avatar--6fc926773926.php)](https://www.wikidot.com/user:info/kg7sps)[KG7SPS](https://www.wikidot.com/user:info/kg7sps)  05 Jun 2016 21:37 [Jump!](forum-t-1726482-changing-to-development-verision.md#post-2519865) |
-| [Radar](forum-t-858943-radar.md) | by: [![WX1TEX](../archive/assets/avatar--4f9b9194df2d.php)](https://www.wikidot.com/user:info/wx1tex)[WX1TEX](https://www.wikidot.com/user:info/wx1tex)   08 May 2014 02:16 | 3 | by [![APRS IS CE](../archive/assets/avatar--8279c624de37.php)](https://www.wikidot.com/user:info/aprs-is-ce)[APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce)  08 Jul 2015 17:29 [Jump!](forum-t-858943-radar.md#post-2334270) |
-| [Custom Symbol Table For Duchifat-1 CubeSat](forum-t-1223762-custom-symbol-table-for-duchifat-1-cubesat.md)  Duchifat-1 is using custom symbol tables for QSL | by: [![KE5UUO](../archive/assets/avatar--f9df015442ff.php)](https://www.wikidot.com/user:info/ke5uuo)[KE5UUO](https://www.wikidot.com/user:info/ke5uuo)   01 Jun 2015 18:53 | 5 | by [![APRS IS CE](../archive/assets/avatar--8279c624de37.php)](https://www.wikidot.com/user:info/aprs-is-ce)[APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce)  02 Jun 2015 01:34 [Jump!](forum-t-1223762-custom-symbol-table-for-duchifat-1-cubesat.md#post-2308275) |
+<table class="table aprs-figure-table" style="width: 98%">
+<tr class="head">
+<td>
+				Thread name			</td>
+<td>
+				Started			</td>
+<td>
+				Posts			</td>
+<td>
+				Recent post			</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-403205-new-port-possibilites.md">New Port possibilites</a><br/>
+</div>
+<div class="description">
+						Are new connections possible?
+					</div>
+</td>
+<td class="started">
+					by: <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/kb8uih"><img alt="KB8UIH" class="small" src="../archive/assets/avatar--21efa93d03c5.php" style="background-image:url(../assets/userkarma--3f6a51f11bee.php)"/></a><a href="https://www.wikidot.com/user:info/kb8uih">KB8UIH</a></span> <br/>
+<span class="odate time_1319300179 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">22 Oct 2011 16:16</span>
+</td>
+<td class="posts">
+					5
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/old-man-moses"><img alt="old man moses" class="small" src="../archive/assets/avatar--14ad390695df.php" style="background-image:url(../assets/userkarma--b23baffc3f1a.php)"/></a><a href="https://www.wikidot.com/user:info/old-man-moses">old man moses</a></span><br/>
+<span class="odate time_1616033688 format_%28%25O%20%25A%29">18 Mar 2021 02:14</span>
+<a href="forum-t-403205-new-port-possibilites.md#post-4928673">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-423153-block-list.md">Block list</a><br/>
+</div>
+<div class="description">
+						A way to block reception of packets from certain stations
+					</div>
+</td>
+<td class="started">
+					by: <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/n9mxq"><img alt="n9mxq" class="small" src="../archive/assets/avatar--63881788f200.php" style="background-image:url(../assets/userkarma--d91f07d06a36.php)"/></a><a href="https://www.wikidot.com/user:info/n9mxq">n9mxq</a></span> <br/>
+<span class="odate time_1324739663 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">24 Dec 2011 15:14</span>
+</td>
+<td class="posts">
+					5
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/sp3wbx"><img alt="SP3WBX" class="small" src="../archive/assets/avatar--034fc494807c.php" style="background-image:url(../assets/userkarma--a83b91a9f3d3.php)"/></a><a href="https://www.wikidot.com/user:info/sp3wbx">SP3WBX</a></span><br/>
+<span class="odate time_1597734445 format_%28%25O%20%25A%29">18 Aug 2020 07:07</span>
+<a href="forum-t-423153-block-list.md#post-4750481">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-10431704-i-gating-and-digi-peting.md">I GATING  and DIGI PETING</a><br/>
+</div>
+<div class="description">
+						How do you I gate specific objects to RF?
+Also how do you set up cross band  DIGI ?
+					</div>
+</td>
+<td class="started">
+					by: <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/bradley-haney"><img alt="Bradley Haney" class="small" src="../archive/assets/avatar--31f772d52ddc.php" style="background-image:url(../assets/userkarma--46e3aa7ab520.php)"/></a><a href="https://www.wikidot.com/user:info/bradley-haney">Bradley Haney</a></span> <br/>
+<span class="odate time_1551232706 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">27 Feb 2019 01:58</span>
+</td>
+<td class="posts">
+					2
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/bradley-haney"><img alt="Bradley Haney" class="small" src="../archive/assets/avatar--31f772d52ddc.php" style="background-image:url(../assets/userkarma--46e3aa7ab520.php)"/></a><a href="https://www.wikidot.com/user:info/bradley-haney">Bradley Haney</a></span><br/>
+<span class="odate time_1597545227 format_%28%25O%20%25A%29">16 Aug 2020 02:33</span>
+<a href="forum-t-10431704-i-gating-and-digi-peting.md#post-4748498">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-10395156-direct-p2p-messaging.md">Direct p2p messaging</a><br/>
+</div>
+<div class="description">
+						To be able to message close stations without going through the digipeater.
+					</div>
+</td>
+<td class="started">
+					by: <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/steve-galbraith"><img alt="steve galbraith" class="small" src="../archive/assets/avatar--12dd0fc7c285.php" style="background-image:url(../assets/userkarma--0cc1931e32d7.php)"/></a><a href="https://www.wikidot.com/user:info/steve-galbraith">steve galbraith</a></span> <br/>
+<span class="odate time_1550965987 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">23 Feb 2019 23:53</span>
+</td>
+<td class="posts">
+					2
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/aprs-is-ce"><img alt="APRS IS CE" class="small" src="../archive/assets/avatar--8279c624de37.php" style="background-image:url(../assets/userkarma--ca4c7071d458.php)"/></a><a href="https://www.wikidot.com/user:info/aprs-is-ce">APRS IS CE</a></span><br/>
+<span class="odate time_1551017196 format_%28%25O%20%25A%29">24 Feb 2019 14:06</span>
+<a href="forum-t-10395156-direct-p2p-messaging.md#post-4163956">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-10007481-internet-feed-for-aprs-plots-all-over-the-country.md">Internet Feed for APRS Plots All Over the Country</a><br/>
+</div>
+<div class="description">
+						What are the settings for Internet Feed for APRS plots all over the country?
+					</div>
+</td>
+<td class="started">
+					by: <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/don-hamrick"><img alt="Don Hamrick" class="small" src="../archive/assets/avatar--e3dd2956893e.php" style="background-image:url(../assets/userkarma--12d825f2a129.php)"/></a><a href="https://www.wikidot.com/user:info/don-hamrick">Don Hamrick</a></span> <br/>
+<span class="odate time_1547818911 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">18 Jan 2019 13:41</span>
+</td>
+<td class="posts">
+					1
+				</td>
+<td class="last">
+											 
+									</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-9897292-tracks.md">tracks</a><br/>
+</div>
+<div class="description">
+						Accuracy and distance of individual track
+					</div>
+</td>
+<td class="started">
+					by: <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/nathan-myers"><img alt="nathan myers" class="small" src="../archive/assets/avatar--511a560f2c36.php" style="background-image:url(../assets/userkarma--cc57dfb681c7.php)"/></a><a href="https://www.wikidot.com/user:info/nathan-myers">nathan myers</a></span> <br/>
+<span class="odate time_1547094637 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">10 Jan 2019 04:30</span>
+</td>
+<td class="posts">
+					1
+				</td>
+<td class="last">
+											 
+									</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-6659762-nickname-for-aprs-objects.md">nickname for APRS objects</a><br/>
+</div>
+<div class="description">
+						I'd like to be able to use the "nickname" feature on APRS objects as well as stations.
+					</div>
+</td>
+<td class="started">
+					by: <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/vaxhacker"><img alt="vaxhacker" class="small" src="../archive/assets/avatar--5a1aa7b28da9.php" style="background-image:url(../assets/userkarma--a33613d72a85.php)"/></a><a href="https://www.wikidot.com/user:info/vaxhacker">vaxhacker</a></span> <br/>
+<span class="odate time_1532803609 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">28 Jul 2018 18:46</span>
+</td>
+<td class="posts">
+					1
+				</td>
+<td class="last">
+											 
+									</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-5661759-failing-to-see-d700-radio.md">Failing to see D700 radio</a><br/>
+</div>
+<div class="description">
+						Cannot use KenWood D700
+					</div>
+</td>
+<td class="started">
+					by: <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/m0vlk"><img alt="M0VLK" class="small" src="../archive/assets/avatar--33e2696dff66.php" style="background-image:url(../assets/userkarma--54eb18abb8a4.php)"/></a><a href="https://www.wikidot.com/user:info/m0vlk">M0VLK</a></span> <br/>
+<span class="odate time_1522613457 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">01 Apr 2018 20:10</span>
+</td>
+<td class="posts">
+					2
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/m0vlk"><img alt="M0VLK" class="small" src="../archive/assets/avatar--33e2696dff66.php" style="background-image:url(../assets/userkarma--54eb18abb8a4.php)"/></a><a href="https://www.wikidot.com/user:info/m0vlk">M0VLK</a></span><br/>
+<span class="odate time_1529237780 format_%28%25O%20%25A%29">17 Jun 2018 12:16</span>
+<a href="forum-t-5661759-failing-to-see-d700-radio.md#post-3838785">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-4282723-send-waypoints-gps-to-mapping-software.md">Send Waypoints &amp; GPS to Mapping Software</a><br/>
+</div>
+<div class="description">
+						A port or feature that sends APRS stations received in to mapping software as waypoints.
+					</div>
+</td>
+<td class="started">
+					by: <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/tchgimmick"><img alt="TchGimmick" class="small" src="../archive/assets/avatar--b143b0aa14e9.php" style="background-image:url(../assets/userkarma--94c8adcc1e0d.php)"/></a><a href="https://www.wikidot.com/user:info/tchgimmick">TchGimmick</a></span> <br/>
+<span class="odate time_1510724170 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">15 Nov 2017 05:36</span>
+</td>
+<td class="posts">
+					1
+				</td>
+<td class="last">
+											 
+									</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-2066988-high-contrast-night-viewing.md">High Contrast/Night Viewing</a><br/>
+</div>
+<div class="description">
+						A toggle setting that would make the maps black, instead of white.
+					</div>
+</td>
+<td class="started">
+					by: <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/tchgimmick"><img alt="TchGimmick" class="small" src="../archive/assets/avatar--b143b0aa14e9.php" style="background-image:url(../assets/userkarma--94c8adcc1e0d.php)"/></a><a href="https://www.wikidot.com/user:info/tchgimmick">TchGimmick</a></span> <br/>
+<span class="odate time_1484974657 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">21 Jan 2017 04:57</span>
+</td>
+<td class="posts">
+					3
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/tchgimmick"><img alt="TchGimmick" class="small" src="../archive/assets/avatar--b143b0aa14e9.php" style="background-image:url(../assets/userkarma--94c8adcc1e0d.php)"/></a><a href="https://www.wikidot.com/user:info/tchgimmick">TchGimmick</a></span><br/>
+<span class="odate time_1510522143 format_%28%25O%20%25A%29">12 Nov 2017 21:29</span>
+<a href="forum-t-2066988-high-contrast-night-viewing.md#post-3631319">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-1725396-map-tiles.md">Map tiles</a><br/>
+</div>
+<div class="description">
+</div>
+</td>
+<td class="started">
+					by: <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/kg7sps"><img alt="KG7SPS" class="small" src="../archive/assets/avatar--6fc926773926.php" style="background-image:url(../assets/userkarma--f1fe10cb3830.php)"/></a><a href="https://www.wikidot.com/user:info/kg7sps">KG7SPS</a></span> <br/>
+<span class="odate time_1464908897 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">02 Jun 2016 23:08</span>
+</td>
+<td class="posts">
+					13
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/kf5jmj"><img alt="kf5jmj" class="small" src="../archive/assets/avatar--d0636f74a842.php" style="background-image:url(../assets/userkarma--939e9ec1d067.php)"/></a><a href="https://www.wikidot.com/user:info/kf5jmj">kf5jmj</a></span><br/>
+<span class="odate time_1496817095 format_%28%25O%20%25A%29">07 Jun 2017 06:31</span>
+<a href="forum-t-1725396-map-tiles.md#post-2844870">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-2161283-local-news-feeds-rss.md">Local News Feeds RSS</a><br/>
+</div>
+<div class="description">
+						Local News Feeds (RSS or Tickers?)so that information can be transferred to 'Objects' on the APRS map.
+					</div>
+</td>
+<td class="started">
+					by: <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/oliver-cohen"><img alt="Oliver Cohen" class="small" src="https://www.wikidot.com/avatar.php?userid=3009441&amp;amp;size=small&amp;amp;timestamp=1795234787" style="background-image:url(../assets/userkarma--26a2f2096251.php)"/></a><a href="https://www.wikidot.com/user:info/oliver-cohen">Oliver Cohen</a></span> <br/>
+<span class="odate time_1489307807 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">12 Mar 2017 08:36</span>
+</td>
+<td class="posts">
+					1
+				</td>
+<td class="last">
+											 
+									</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-2082455-addition-to-your-multi-track-view.md">Addition to your Multi-Track View</a><br/>
+</div>
+<div class="description">
+						Show MPH in Multi-Track
+					</div>
+</td>
+<td class="started">
+					by: <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/tchgimmick"><img alt="TchGimmick" class="small" src="../archive/assets/avatar--b143b0aa14e9.php" style="background-image:url(../assets/userkarma--94c8adcc1e0d.php)"/></a><a href="https://www.wikidot.com/user:info/tchgimmick">TchGimmick</a></span> <br/>
+<span class="odate time_1485585280 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">28 Jan 2017 06:34</span>
+</td>
+<td class="posts">
+					3
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/tchgimmick"><img alt="TchGimmick" class="small" src="../archive/assets/avatar--b143b0aa14e9.php" style="background-image:url(../assets/userkarma--94c8adcc1e0d.php)"/></a><a href="https://www.wikidot.com/user:info/tchgimmick">TchGimmick</a></span><br/>
+<span class="odate time_1486020600 format_%28%25O%20%25A%29">02 Feb 2017 07:30</span>
+<a href="forum-t-2082455-addition-to-your-multi-track-view.md#post-2738685">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-2067033-easily-copy-gps-coordinates-to-clipboard.md">Easily copy GPS coordinates to clipboard</a><br/>
+</div>
+<div class="description">
+</div>
+</td>
+<td class="started">
+					by: <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/tchgimmick"><img alt="TchGimmick" class="small" src="../archive/assets/avatar--b143b0aa14e9.php" style="background-image:url(../assets/userkarma--94c8adcc1e0d.php)"/></a><a href="https://www.wikidot.com/user:info/tchgimmick">TchGimmick</a></span> <br/>
+<span class="odate time_1484976257 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">21 Jan 2017 05:24</span>
+</td>
+<td class="posts">
+					1
+				</td>
+<td class="last">
+											 
+									</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-614812-user-selectable-sounds.md">User Selectable Sounds</a><br/>
+</div>
+<div class="description">
+</div>
+</td>
+<td class="started">
+					by: <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/aprs-jeff"><img alt="APRS-Jeff" class="small" src="../archive/assets/avatar--8eb0df69c218.php" style="background-image:url(../assets/userkarma--6f3bd1b1114e.php)"/></a><a href="https://www.wikidot.com/user:info/aprs-jeff">APRS-Jeff</a></span> <br/>
+<span class="odate time_1358012481 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">12 Jan 2013 17:41</span>
+</td>
+<td class="posts">
+					3
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/tchgimmick"><img alt="TchGimmick" class="small" src="../archive/assets/avatar--b143b0aa14e9.php" style="background-image:url(../assets/userkarma--94c8adcc1e0d.php)"/></a><a href="https://www.wikidot.com/user:info/tchgimmick">TchGimmick</a></span><br/>
+<span class="odate time_1484974181 format_%28%25O%20%25A%29">21 Jan 2017 04:49</span>
+<a href="forum-t-614812-user-selectable-sounds.md#post-2730819">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-555031-blink-when-message-received.md">Blink when message received</a><br/>
+</div>
+<div class="description">
+</div>
+</td>
+<td class="started">
+					by: <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/tony-ve6mvp"><img alt="Tony VE6MVP" class="small" src="../archive/assets/avatar--e94b3194a100.php" style="background-image:url(../assets/userkarma--accca61994dd.php)"/></a><a href="https://www.wikidot.com/user:info/tony-ve6mvp">Tony VE6MVP</a></span> <br/>
+<span class="odate time_1345946174 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">26 Aug 2012 01:56</span>
+</td>
+<td class="posts">
+					3
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/tchgimmick"><img alt="TchGimmick" class="small" src="../archive/assets/avatar--b143b0aa14e9.php" style="background-image:url(../assets/userkarma--94c8adcc1e0d.php)"/></a><a href="https://www.wikidot.com/user:info/tchgimmick">TchGimmick</a></span><br/>
+<span class="odate time_1484974083 format_%28%25O%20%25A%29">21 Jan 2017 04:48</span>
+<a href="forum-t-555031-blink-when-message-received.md#post-2730818">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-1934414-message-paths.md">Message paths</a><br/>
+</div>
+<div class="description">
+						entering a message path manually
+					</div>
+</td>
+<td class="started">
+					by: <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/steve-galbraith"><img alt="steve galbraith" class="small" src="../archive/assets/avatar--12dd0fc7c285.php" style="background-image:url(../assets/userkarma--0cc1931e32d7.php)"/></a><a href="https://www.wikidot.com/user:info/steve-galbraith">steve galbraith</a></span> <br/>
+<span class="odate time_1475503351 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">03 Oct 2016 14:02</span>
+</td>
+<td class="posts">
+					1
+				</td>
+<td class="last">
+											 
+									</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-1726482-changing-to-development-verision.md">CHanging to Development Verision</a><br/>
+</div>
+<div class="description">
+</div>
+</td>
+<td class="started">
+					by: <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/kg7sps"><img alt="KG7SPS" class="small" src="../archive/assets/avatar--6fc926773926.php" style="background-image:url(../assets/userkarma--f1fe10cb3830.php)"/></a><a href="https://www.wikidot.com/user:info/kg7sps">KG7SPS</a></span> <br/>
+<span class="odate time_1465025974 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">04 Jun 2016 07:39</span>
+</td>
+<td class="posts">
+					4
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/kg7sps"><img alt="KG7SPS" class="small" src="../archive/assets/avatar--6fc926773926.php" style="background-image:url(../assets/userkarma--f1fe10cb3830.php)"/></a><a href="https://www.wikidot.com/user:info/kg7sps">KG7SPS</a></span><br/>
+<span class="odate time_1465162647 format_%28%25O%20%25A%29">05 Jun 2016 21:37</span>
+<a href="forum-t-1726482-changing-to-development-verision.md#post-2519865">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-858943-radar.md">Radar</a><br/>
+</div>
+<div class="description">
+</div>
+</td>
+<td class="started">
+					by: <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/wx1tex"><img alt="WX1TEX" class="small" src="../archive/assets/avatar--4f9b9194df2d.php" style="background-image:url(../assets/userkarma--cc462fbc9273.php)"/></a><a href="https://www.wikidot.com/user:info/wx1tex">WX1TEX</a></span> <br/>
+<span class="odate time_1399515401 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">08 May 2014 02:16</span>
+</td>
+<td class="posts">
+					3
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/aprs-is-ce"><img alt="APRS IS CE" class="small" src="../archive/assets/avatar--8279c624de37.php" style="background-image:url(../assets/userkarma--ca4c7071d458.php)"/></a><a href="https://www.wikidot.com/user:info/aprs-is-ce">APRS IS CE</a></span><br/>
+<span class="odate time_1436376598 format_%28%25O%20%25A%29">08 Jul 2015 17:29</span>
+<a href="forum-t-858943-radar.md#post-2334270">Jump!</a>
+</td>
+</tr>
+<tr class="">
+<td class="name">
+<div class="title">
+<a href="forum-t-1223762-custom-symbol-table-for-duchifat-1-cubesat.md">Custom Symbol Table For Duchifat-1 CubeSat</a><br/>
+</div>
+<div class="description">
+						Duchifat-1 is using custom symbol tables for QSL
+					</div>
+</td>
+<td class="started">
+					by: <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/ke5uuo"><img alt="KE5UUO" class="small" src="../archive/assets/avatar--f9df015442ff.php" style="background-image:url(../assets/userkarma--a2a091641d6b.php)"/></a><a href="https://www.wikidot.com/user:info/ke5uuo">KE5UUO</a></span> <br/>
+<span class="odate time_1433184801 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">01 Jun 2015 18:53</span>
+</td>
+<td class="posts">
+					5
+				</td>
+<td class="last">
+																								by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/aprs-is-ce"><img alt="APRS IS CE" class="small" src="../archive/assets/avatar--8279c624de37.php" style="background-image:url(../assets/userkarma--ca4c7071d458.php)"/></a><a href="https://www.wikidot.com/user:info/aprs-is-ce">APRS IS CE</a></span><br/>
+<span class="odate time_1433208884 format_%28%25O%20%25A%29">02 Jun 2015 01:34</span>
+<a href="forum-t-1223762-custom-symbol-table-for-duchifat-1-cubesat.md#post-2308275">Jump!</a>
+</td>
+</tr>
+</table>
 
 page 1 of 21[2](forum-c-312348-p-2.md)[next »](forum-c-312348-p-2.md)

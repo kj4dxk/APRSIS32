@@ -10,9 +10,18 @@ title: "Welcome to APRSISCE/32"
 | --- |
 |  |
 
-|  |  |
-| --- | --- |
-| **APRSISCE/32** is an advanced Automatic Packet Reporting System (APRS) Client for Amateur Radio, written for Windows (x86 and x64) and Windows Mobile (CE). It will also run on Linux and Mac OS under WINE, as well as other virtual machines. It does \*NOT\* run on any [Windows CE 5 or 6](cevswinmo.md) GPS unit as of 2012/04/11.  APRSISCE/32 can be configured to run connected directly to the APRS-IS via an internet connection, as well as connected to the APRS-RF network via software modems such as UZ7HO Sound Modem, Dire Wolf or AGWPE, using a TNC, or one of the APRS capable Radios including the Kenwood TH-D72/TM-D710 and Yaesu FTM-350.  For a view of the software in use Julian G4ILO's videos are essential viewing [First Use](initial-startup.md) and [port setup](port-configuration.md). And if you're trying to set up for an event in the near future, please read [this](what-am-i-missing.md). If you're looking for presentation materials, please check [here](presentations.md)  [Open embedded content](../reference/code-blocks-code-2.md) | [![APRS32 screenshot](../archive/assets/local--files_start_aprsis32--41c429e80eb7.gif "Click for Larger image")](aprsis-image.md)  Click the image or [here](aprsis-image.md) for a full screen view |
+<table class="aprs-figure-table" style="width:100%;margin-right:auto;margin-left:auto;border:1px solid #AAA;">
+<tr>
+<td style="padding: 10px; text-align: left; background-color: #DDDDEE; border: 1px solid silver; width: 70%;">
+<p><span style="font-size:120%;"><strong>APRSISCE/32</strong> is an advanced Automatic Packet Reporting System (APRS) Client for Amateur Radio, written for Windows (x86 and x64) and Windows Mobile (CE). It will also run on Linux and Mac OS under WINE, as well as other virtual machines. It does *NOT* run on any <a href="cevswinmo.md">Windows CE 5 or 6</a> GPS unit as of 2012/04/11.</span></p>
+<p><span style="font-size:120%;">APRSISCE/32 can be configured to run connected directly to the APRS-IS via an internet connection, as well as connected to the APRS-RF network via software modems such as UZ7HO Sound Modem, Dire Wolf or AGWPE, using a TNC, or one of the APRS capable Radios including the Kenwood TH-D72/TM-D710 and Yaesu FTM-350.</span></p>
+<p>For a view of the software in use Julian G4ILO's videos are essential viewing <a href="initial-startup.md">First Use</a> and <a href="port-configuration.md">port setup</a>. And if you're trying to set up for an event in the near future, please read <a href="what-am-i-missing.md">this</a>. If you're looking for presentation materials, please check <a href="presentations.md">here</a></p>
+<p><a href="../reference/code-blocks-code-2.md">Open embedded content</a></p>
+</td>
+<td style="padding: 10px; text-align: center; background-color: #DDEEDD; border: 1px solid silver;width: 30%;"><a href="aprsis-image.md"><img alt="APRS32 screenshot" class="image" src="../archive/assets/local--files_start_aprsis32--41c429e80eb7.gif" title="Click for Larger image"/></a><br/>
+Click the image or <a href="aprsis-image.md">here</a> for a full screen view</td>
+</tr>
+</table>
 
 |  |
 | --- |
