@@ -264,6 +264,11 @@ static BOOL OSMUseSingleDigitDirectories(char *Path)
 	return Result;
 }
 
+static bool OSMIsPublicTileServer(const TILE_SERVER_INFO_S* server)
+{
+	return server && _stricmp(server->Server, "tile.openstreetmap.org") == 0;
+}
+
 static BOOL OSMSameTileServer(TILE_SERVER_INFO_S *sOne, TILE_SERVER_INFO_S *sTwo)
 {	if (!sOne || !sTwo) return FALSE;
 	if (sOne->Port != sTwo->Port) return FALSE;
@@ -293,13 +298,25 @@ static TILE_SERVER_INFO_S *OSMGetActualTileServer(TILE_SERVER_INFO_S *sInfo)
 }
 
 TILE_SERVER_INFO_S *OSMRegisterTileServer(TILE_SERVER_INFO_S *sInfo, char *From)
-{	TILE_SERVER_INFO_S *Result = OSMGetActualTileServer(sInfo);
+{
+	// These archived public providers support HTTPS on their standard endpoints.
+	const bool publicOSM = OSMIsPublicTileServer(sInfo);
+	const bool esri = _stricmp(sInfo->Server, "services.arcgisonline.com") == 0;
+	if ((publicOSM || esri) && (sInfo->Port == 0 || sInfo->Port == 80 || sInfo->Port == 443))
+	{
+		sInfo->UseHTTPS = TRUE;
+		sInfo->Port = 0;
+		sInfo->SupportsStatus = FALSE;
+	}
+	TILE_SERVER_INFO_S *Result = OSMGetActualTileServer(sInfo);
 
 	if (!Result)
 	{	int s = ServerCount++;
 		TileServers = (TILE_SERVER_INFO_S **)realloc(TileServers,sizeof(*TileServers)*ServerCount);
 		Result = TileServers[s] = (TILE_SERVER_INFO_S *)calloc(1,sizeof(*TileServers[s]));
-		TraceLogThread("OSM", TRUE, "OSMRegisterTileServer:NEW[%ld][%s] http://%s:%ld%s/0/0/0.png into %s\n", s, sInfo->Name, sInfo->Server, sInfo->Port, sInfo->URLPrefix, sInfo->Path);
+		TraceLogThread("OSM", TRUE, "OSMRegisterTileServer:NEW[%ld][%s] %s://%s:%ld%s into %s\n", s, sInfo->Name,
+			sInfo->UseHTTPS ? "https" : "http", sInfo->Server,
+			sInfo->Port ? sInfo->Port : (sInfo->UseHTTPS ? 443UL : 80UL), sInfo->URLPrefix, sInfo->Path);
 		*Result = *sInfo;
 		if (*Result->MBTilePath)
 		{
@@ -336,9 +353,11 @@ URLFormat	http://tile.openstreetmap.org/%z/%x/%y.png
 						{
 							char* sep = "/";
 							if (strlen(sInfo->URLPrefix) && sInfo->URLPrefix[strlen(sInfo->URLPrefix) - 1 == '/']) sep = "";
-							sprintf(URL, "http://%s:%ld%s%s%%z/%%x/%%y.png", sInfo->Server, (long)sInfo->Port, sInfo->URLPrefix, sep);
+							sprintf(URL, "%s://%s:%ld%s%s%%z/%%x/%%y.png", sInfo->UseHTTPS ? "https" : "http", sInfo->Server,
+								(long)(sInfo->Port ? sInfo->Port : (sInfo->UseHTTPS ? 443 : 80)), sInfo->URLPrefix, sep);
 						}
-						else sprintf(URL, "http://%s:%ld%s", sInfo->Server, (long)sInfo->Port, sInfo->URLPrefix);
+						else sprintf(URL, "%s://%s:%ld%s", sInfo->UseHTTPS ? "https" : "http", sInfo->Server,
+							(long)(sInfo->Port ? sInfo->Port : (sInfo->UseHTTPS ? 443 : 80)), sInfo->URLPrefix);
 						SQLSetMeta(Result->pMBTiles, "URLFormat", URL);
 					}
 				}
@@ -2047,6 +2066,22 @@ TraceLogThread("OSM", TRUE, "OSMPaintTileSet: Screen %ld x %ld World %ld x %ld -
 	if (Start >= 1000)
 		TraceLogThread("Activity", TRUE, "Painted %ld/%ld Tiles in %.2lf msec\n",
 					   (long) Painted, (long) ts->Count, Start);
+	}
+	if (OSMIsPublicTileServer(ts->sInfo))
+	{
+		int savedDC = SaveDC(hdc);
+		if (savedDC)
+		{
+			const TCHAR credit[] = TEXT("\x00A9 OpenStreetMap contributors");
+			RECT label = *rc;
+			InflateRect(&label, -4, -4);
+			SelectObject(hdc, GetStockObject(DEFAULT_GUI_FONT));
+			SetBkMode(hdc, OPAQUE);
+			SetBkColor(hdc, RGB(255, 255, 255));
+			SetTextColor(hdc, RGB(0, 0, 0));
+			DrawText(hdc, credit, -1, &label, DT_SINGLELINE | DT_BOTTOM | DT_RIGHT | DT_NOPREFIX);
+			RestoreDC(hdc, savedDC);
+		}
 	}
 	if (!DeleteObject(memDC))
 		TraceLogThread("OSM",TRUE,"OSMPaintTileSet:Failed to Delete memDC %p error %ld\n", memDC, GetLastError());
@@ -3972,6 +4007,8 @@ static BOOL OSMQueueFetchTile(HWND hWnd, TILE_SERVER_INFO_S* sInfo, int zoom, in
 
 static BOOL OSMQueuePrefetch(HWND hWnd, TILE_SERVER_INFO_S* sInfo, int nx, int ny, int nz, int np)
 {
+	if (OSMIsPublicTileServer(sInfo)) return FALSE;
+
 	BOOL Result = FALSE;
 	if (OSMTileInRange(sInfo, nz, nx, ny))
 	{
@@ -4078,6 +4115,7 @@ int OSMPrefetchTiles(HWND hWnd, RECT * rcWin, TILE_SERVER_INFO_S * sInfo, int mi
 	int Count = 0;
 	int zoom;
 
+	if (OSMIsPublicTileServer(sInfo)) return 0;
 	OSMCalcTileRanges(rcWin, minzoom, lat, lon, &xt, &yt, &xo, &yo, &xs, &xe, &ys, &ye);
 
 	if (maxzoom > sInfo->MaxServerZoom) maxzoom = sInfo->MaxServerZoom;
@@ -5344,7 +5382,10 @@ static CURL* gblHandles[THREAD_COUNT] = { 0 };
 		CURL* easyhandle = gblHandles[thread] = curl_easy_init();
 		TraceLogThread("CURL", TRUE, "Thread[%ld] invoked curl_easy_init\n", (long)thread);
 		curl_easy_setopt(easyhandle, CURLOPT_SUPPRESS_CONNECT_HEADERS, TRUE);
-		curl_easy_setopt(easyhandle, CURLOPT_FOLLOWLOCATION, 1);
+		if (!easyhandle) return FALSE;
+		curl_easy_setopt(easyhandle, CURLOPT_FOLLOWLOCATION, 1L);
+		curl_easy_setopt(easyhandle, CURLOPT_PROTOCOLS, (long)(CURLPROTO_HTTP | CURLPROTO_HTTPS));
+		curl_easy_setopt(easyhandle, CURLOPT_REDIR_PROTOCOLS, (long)(CURLPROTO_HTTP | CURLPROTO_HTTPS));
 		curl_easy_setopt(easyhandle, CURLOPT_MAXREDIRS, 3);
 		curl_easy_setopt(easyhandle, CURLOPT_TIMEOUT, 15);	// 15 second total timeout
 		curl_easy_setopt(easyhandle, CURLOPT_CONNECTTIMEOUT, 10);	// 10 second connect timeout
@@ -5352,10 +5393,9 @@ static CURL* gblHandles[THREAD_COUNT] = { 0 };
 	CURL* easyhandle = gblHandles[thread];
 
 	curl_easy_setopt(easyhandle, CURLOPT_URL, URL);
-	char* userAgent = (char*)malloc(strlen(why)+80);
-	sprintf(userAgent, "%s %s from %s %s", why, CALLSIGN, PROGNAME, VERSION);
+	char userAgent[160];
+	snprintf(userAgent, sizeof(userAgent), "APRSIS32/%s (+https://kj4dxk.github.io/APRSIS32/)", VERSION);
 	curl_easy_setopt(easyhandle, CURLOPT_USERAGENT, userAgent);
-	free(userAgent);
 
 	TQStatus[thread] = "SetOpt";
 
@@ -5478,7 +5518,12 @@ int httpGet(int thread, HWND hWnd, TILE_SERVER_INFO_S* sInfo, char* Host, long P
 	TilesAttempted++;
 
 	char* fullURL = (char*)malloc(7+strlen(Host) + 1 + 33 + strlen(URL) + 1);
-	sprintf(fullURL, "%s%s:%ld%s", sInfo->UseHTTPS?"https://":"http://", Host, (long) (Port!=0?Port:(sInfo->UseHTTPS?443:80)), URL);
+	if (!fullURL) return FALSE;
+	const char* scheme = sInfo->UseHTTPS ? "https" : "http";
+	if (Port)
+		sprintf(fullURL, "%s://%s:%ld%s", scheme, Host, (long)Port, URL);
+	else
+		sprintf(fullURL, "%s://%s%s", scheme, Host, URL);
 
 	char* Buffer = NULL;
 	long BuffLen = 0;
