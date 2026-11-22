@@ -2,6 +2,12 @@
 
 APRSISCE/32 is an Automatic Packet Reporting System (APRS) client for Windows and Windows Mobile. This manual is adapted from the APRSISCE/32 community wiki.
 
+## Current Windows build
+
+> **Maintainer’s note, November 21, 2026.** After comparing the available versions with those in the [APRS Foundation’s APRSISCE repository](https://github.com/APRSFoundation/APRSISCE), **KJ4DXK** identified the Windows build listed here as **October 10, 2025** as the newest build he could find of the APRSISCE/32 software left by its original developer, **Lynn W. Deffenbaugh (KJ4ERJ SK)**.
+
+[Get the current Windows build](manual/downloads.md).
+
 ## Get started
 
 - [Welcome to APRSISCE/32](manual/start.md)

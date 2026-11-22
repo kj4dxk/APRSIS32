@@ -4,6 +4,10 @@ title: "Downloads Page"
 
 # Downloads Page
 
+## Current Windows build
+
+> **Maintainer’s note, November 21, 2026.** After comparing the available versions with those in the [APRS Foundation’s APRSISCE repository](https://github.com/APRSFoundation/APRSISCE), **KJ4DXK** identified the Windows build listed here as **October 10, 2025** as the newest build he could find of the APRSISCE/32 software left by its original developer, **Lynn W. Deffenbaugh (KJ4ERJ SK)**.
+
 ## Downloads
 
 2025/10/10 Current Release Paul KJ4DXK (only working version, this version was a dev version, we are calling it the current version now)  
