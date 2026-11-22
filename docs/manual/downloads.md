@@ -6,14 +6,13 @@ title: "Downloads Page"
 
 ## Current Windows build
 
-> **Maintainer’s note, November 21, 2026.** After comparing the available versions with those in the [APRS Foundation’s APRSISCE repository](https://github.com/APRSFoundation/APRSISCE), **KJ4DXK** identified the Windows build listed here as **October 10, 2025** as the newest build he could find of the APRSISCE/32 software left by its original developer, **Lynn W. Deffenbaugh (KJ4ERJ SK)**.
+> **Maintainer’s note, November 21, 2026.** After comparing the available versions with those in the [APRS Foundation’s APRSISCE repository](https://github.com/APRSFoundation/APRSISCE), **KJ4DXK** identified **2024.09.05.1714** as the newest surviving Windows build he could find of APRSISCE/32 from its original developer, **Lynn W. Deffenbaugh (KJ4ERJ SK)**. The executable was linked on **September 5, 2024, at 5:14:29 p.m. EDT**. The matching source snapshot records its last main-source edit at **5:13:53 p.m. EDT** that day.
 
 ## Downloads
 
-2025/10/10 Current Release Paul KJ4DXK (only working version, this version was a dev version, we are calling it the current version now)  
-About is broken. In the program, do not click about.  
-[Windows 32](../archive/assets/local--files_downloads_APRSIS32--5e60c34516c9.zip)  
-[APRSIS32.zip](../archive/assets/local--files_downloads_APRSIS32--aa6db073139c.zip)
+**Current Windows release, previously distributed as a development build.** The old download listing used October 10, 2025.  
+**Known issue.** The About dialog is broken. Avoid opening it.  
+[Download APRSIS32.exe](https://github.com/kj4dxk/APRSIS32/raw/refs/heads/main/source/APRSISCE/APRSIS32.exe) · [Browse the source snapshot](https://github.com/kj4dxk/APRSIS32/tree/main/source/APRSISCE)
 
 N2MH graciously provided this previously-dev version during 2025. Thank you! KJ4DXK.
 

@@ -1,0 +1,628 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="jpeg">
+      <UniqueIdentifier>{8f075b5e-4cd6-40d7-9282-b87dbd85b160}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="jpeg\Header Files">
+      <UniqueIdentifier>{d62fe2bf-a9fb-4a00-8996-01927cb88621}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="jpeg\Source Files">
+      <UniqueIdentifier>{261cc578-6d92-4bf6-a571-36e7d3d84b5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lpng">
+      <UniqueIdentifier>{ab4baa1a-66d1-405d-8bf0-987a4a19edea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lpng\Header Files">
+      <UniqueIdentifier>{6b921b4c-15d7-4d76-9aca-1befffefbbbc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lpng\Source Files">
+      <UniqueIdentifier>{d2972f59-5e75-4871-bc9b-bd4cbebd4f4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xp">
+      <UniqueIdentifier>{da016490-dfed-4d9c-a1db-1ba65ab0a2f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xp\Header Files">
+      <UniqueIdentifier>{29b47fc1-b25a-46a6-83b2-61bb0919c584}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xp\Source Files">
+      <UniqueIdentifier>{c966f2a2-ed1d-4539-8b1d-7a7b3e824ad5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="zl">
+      <UniqueIdentifier>{0bdd11b8-0822-4fed-a08b-27067e140290}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="zl\Header Files">
+      <UniqueIdentifier>{836dc025-7229-4d9b-98bf-3680cd6541f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="zl\Source Files">
+      <UniqueIdentifier>{363bb4bc-5d7c-413b-91cf-e3c564ccd92a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gpredict">
+      <UniqueIdentifier>{d6c786f4-6d46-46b7-ba94-eb944fd6b4f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ShapeLib">
+      <UniqueIdentifier>{108f1824-cc8a-4c6b-87a0-f856d03e8823}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Address.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\AGW.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\aprs_udp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\aprsis.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\BlueTooth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CPDEF.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CPRTNS.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\echolink.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\filter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Geocaches.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GPXFiles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\jpgUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\KISS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LLUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\MsgBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\OSMUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\parse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\parsedef.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\pngUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Port.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Satellite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ShapFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sqlite3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sun.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sysheads.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\tcputil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\text.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\timestamp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\TraceLog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\resource.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\jpeg\source\jconfig.h">
+      <Filter>jpeg\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\jpeg\source\jerror.h">
+      <Filter>jpeg\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\jpeg\source\jinclude.h">
+      <Filter>jpeg\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\jpeg\source\jmorecfg.h">
+      <Filter>jpeg\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\jpeg\source\jpegint.h">
+      <Filter>jpeg\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\jpeg\source\jpeglib.h">
+      <Filter>jpeg\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\lpng\source\png.h">
+      <Filter>lpng\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\lpng\source\pngconf.h">
+      <Filter>lpng\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\lpng\source\pngusr.h">
+      <Filter>lpng\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\xp\source\asciitab.h">
+      <Filter>xp\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\xp\source\hashtable.h">
+      <Filter>xp\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\xp\source\iasciitab.h">
+      <Filter>xp\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\xp\source\latin1tab.h">
+      <Filter>xp\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\xp\source\nametab.h">
+      <Filter>xp\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\xp\source\utf8tab.h">
+      <Filter>xp\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\xp\source\xmldef.h">
+      <Filter>xp\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\xp\source\xmlparse.h">
+      <Filter>xp\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\xp\source\xmlrole.h">
+      <Filter>xp\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\xp\source\xmltok.h">
+      <Filter>xp\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\xp\source\xmltok_impl.h">
+      <Filter>xp\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\zl\source\crc32.h">
+      <Filter>zl\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\zl\source\DEFLATE.H">
+      <Filter>zl\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\zl\source\INFFAST.H">
+      <Filter>zl\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\zl\source\inffixed.h">
+      <Filter>zl\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\zl\source\inflate.h">
+      <Filter>zl\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\zl\source\INFTREES.H">
+      <Filter>zl\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\zl\source\INFUTIL.H">
+      <Filter>zl\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\zl\source\trees.h">
+      <Filter>zl\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\zl\source\ZCONF.H">
+      <Filter>zl\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\zl\source\ZLIB.H">
+      <Filter>zl\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\zl\source\ZUTIL.H">
+      <Filter>zl\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\gpredict-1.3\src\mypredict.h">
+      <Filter>gpredict</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\gpredict-1.3\src\predict-tools.h">
+      <Filter>gpredict</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\gpredict-1.3\src\time-tools.h">
+      <Filter>gpredict</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\gpredict-1.3\src\orbit-tools.h">
+      <Filter>gpredict</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\shapelib-1.3.0b2\shapefil.h">
+      <Filter>ShapeLib</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="..\..\APRSISCE.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\G4ILO.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Address.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\AGW.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\aprs_udp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\aprsis.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\APRSISCE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Bluetooth.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Config.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\cprtns.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\echolink.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\filter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeoCaches.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GPXFiles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\jpgUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\KISS.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\LLUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MsgBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\OSMUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\parse.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\pngUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Port.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Satellite.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ShapFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\sqlite3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\sun.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\SyslogUDP.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\tcputil.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\text.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\TraceLog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jcapimin.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jcapistd.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jccoefct.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jccolor.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jcdctmgr.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jchuff.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jcinit.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jcmainct.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jcmarker.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jcmaster.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jcomapi.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jcparam.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jcphuff.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jcprepct.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jcsample.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jctrans.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jdapimin.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jdapistd.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jdatadst.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jdatasrc.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jdcoefct.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jdcolor.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jddctmgr.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jdhuff.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jdinput.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jdmainct.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jdmarker.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jdmaster.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jdmerge.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jdphuff.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jdpostct.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jdsample.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jdtrans.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jerror.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jfdctflt.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jfdctfst.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jfdctint.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jidctflt.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jidctfst.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jidctint.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jidctred.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jmemansi.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jmemmgr.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jquant1.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jquant2.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\jpeg\source\jutils.c">
+      <Filter>jpeg\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\lpng\source\png.c">
+      <Filter>lpng\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\lpng\source\pngerror.c">
+      <Filter>lpng\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\lpng\source\pnggccrd.c">
+      <Filter>lpng\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\lpng\source\pngget.c">
+      <Filter>lpng\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\lpng\source\pngmem.c">
+      <Filter>lpng\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\lpng\source\pngpread.c">
+      <Filter>lpng\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\lpng\source\pngread.c">
+      <Filter>lpng\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\lpng\source\pngrio.c">
+      <Filter>lpng\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\lpng\source\pngrtran.c">
+      <Filter>lpng\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\lpng\source\pngrutil.c">
+      <Filter>lpng\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\lpng\source\pngset.c">
+      <Filter>lpng\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\lpng\source\pngtrans.c">
+      <Filter>lpng\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\lpng\source\pngvcrd.c">
+      <Filter>lpng\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\lpng\source\pngwio.c">
+      <Filter>lpng\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\lpng\source\pngwrite.c">
+      <Filter>lpng\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\lpng\source\pngwtran.c">
+      <Filter>lpng\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\lpng\source\pngwutil.c">
+      <Filter>lpng\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\xp\source\hashtable.c">
+      <Filter>xp\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\xp\source\xmlparse.c">
+      <Filter>xp\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\xp\source\xmlrole.c">
+      <Filter>xp\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\xp\source\xmltok.c">
+      <Filter>xp\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\zl\source\ADLER32.C">
+      <Filter>zl\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\zl\source\COMPRESS.C">
+      <Filter>zl\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\zl\source\CRC32.C">
+      <Filter>zl\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\zl\source\DEFLATE.C">
+      <Filter>zl\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\zl\source\infback.c">
+      <Filter>zl\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\zl\source\INFFAST.C">
+      <Filter>zl\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\zl\source\INFLATE.C">
+      <Filter>zl\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\zl\source\INFTREES.C">
+      <Filter>zl\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\zl\source\TREES.C">
+      <Filter>zl\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\zl\source\UNCOMPR.C">
+      <Filter>zl\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\zl\source\ZUTIL.C">
+      <Filter>zl\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\gpredict-1.3\src\sgpsdp\sgp4sdp4.c">
+      <Filter>gpredict</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\gpredict-1.3\src\predict-tools.c">
+      <Filter>gpredict</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\gpredict-1.3\src\time-tools.c">
+      <Filter>gpredict</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\gpredict-1.3\src\sgpsdp\sgp_in.c">
+      <Filter>gpredict</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\gpredict-1.3\src\sgpsdp\sgp_math.c">
+      <Filter>gpredict</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\gpredict-1.3\src\sgpsdp\sgp_obs.c">
+      <Filter>gpredict</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\gpredict-1.3\src\sgpsdp\sgp_time.c">
+      <Filter>gpredict</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\gpredict-1.3\src\sgpsdp\solar.c">
+      <Filter>gpredict</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\gpredict-1.3\src\orbit-tools.c">
+      <Filter>gpredict</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\shapelib-1.3.0b2\dbfopen.c">
+      <Filter>ShapeLib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\shapelib-1.3.0b2\shpopen.c">
+      <Filter>ShapeLib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\shapelib-1.3.0b2\shptree.c">
+      <Filter>ShapeLib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\shapelib-1.3.0b2\safileio.c">
+      <Filter>ShapeLib</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

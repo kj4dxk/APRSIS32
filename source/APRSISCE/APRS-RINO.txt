@@ -1,0 +1,79 @@
+30 October 2006
+Learning APRS with our Rino
+APRS-RINO SPEC 25 May 2003
+---------------------------------------------------------------------------
+WB4APR
+
+This spec addresses how information on the position of objects reported by the RINO can be received and integrated into a local APRS tactical display system at an event.
+
+The RINO is the Garmin integrated FRS/GPS combination that is the ultimate in APRS functionality for keeping track of people during local short range events. By placing a RINO/APRS receiver at the center of activty, the RINO's can be integrated into the APRS tactical picture. This documents the specifics of that interface.
+
+CHANNEL: Normally the channel/tone for Amateur Radio applications that use FRS is channel 7 tone 3. This channel, if available, should be used for general operations which are focused on VOICE as the primary means of information transfer. If, however, personnel tracking is the predominant application, then a good channel for that is channel 3 tone 9.
+
+APRS FORMAT: All RINO position reports are integrated into APRS using the APRS OBJECT format. This format contains a time stamp and the Amateur Callsign of the station that is responsible for the RINO data and injecting it into APRS. The OBJECT format follows:
+
+HAMCALL>APRS,DIGIPATH:;RINOname*DDHHMMzDDMM.hhN/DDDMM.hhW$CSE/SPD...
+
+Where HAMCALL is the Amateur Radio APRS station responsible
+DIGIPATH is the path on APRS
+RINOname is the RINO name field (truncated to 9 bytes)
+DDHHMMz is the UTC Day/time stamp
+DDMM.HHN/DDDMM.hhW is the usual APRS position format
+$ is the APRS icon comparable to the RINO icon
+CSE/SPD are the course and speed fields
+... is up to 34 characters of additinal free field comments
+
+ACCOUNTABILITY: To avoid any problems, the APRS/RINO interface is intended for specific Amateur Radio applications and the APRS station has some controls over the interface so that only valid RINO participants are injected into APRS. Several methods of manual and automatic identification means are suggested:
+
+1) ALL: Everyone in range is participating in the event.
+
+2) LIST: Using this method, only RINO names that match a list
+of participants will be transferred.
+
+3) NAMES: Participation is determined from the RINO user name.
+
+HAM-CALL - If the RINO name is 4, 5 or 6 characters in length
+and matchs the standard for HAM radio callsigns
+then the station may be automatically transferred.
+
+SSID - If the RINO name contains an SSID, it is accepted
+
+PREFIX - If the RINO name has a prefix such as "AP-" then
+it is intended for injection into APRS.
+
+ICONS: The RINO has a number of practically useless "face" ICONS that can be selected. These ICONS have no meaning in the usage that we anticipate for the RINO in support of public service events. THus we have made a one-for-one translation of all of them into the most frequently used APRS ICONS at such an event. No one cares what the ICON looks like on the RINO, what matters is how the RINO appears on APRS. THus, use this table.
+
+It should be noted that for GROUP polling, however, which we anticapte to be a VERY useful feature at such an event, a Group POLL only works with a single ICON at a time. Thus, in many cases it may be better to just have every RINO select the default (APRS PERSON) ICON (or Happy Face in the RINO). THis way, all participants can be polled at once.
+
+Bottom line: Choose the Happy Face ICON to be safe. THen all RINO's can be polled. If you have many-many RINOS at an event, then choose only a few appropriate ICON types so that those types may be polled in groups.
+
+RINO ICON APRS ICON
+------------ ----------
+1 Happy face /[ Person (corrected 13 Sep 05. Had been /])
+2 Boy /b Bike
+3 Kid /j Jeep
+4 Butch /f Fire Truck
+5 Chan /s Boat
+6 Afro /U Bus
+7 Girl /Y Sail
+8 Woman /R RV
+9 Lucy /v Van
+10 Monkey /> Car
+11 Scout /, Boy Scout
+12 Karate /u 18 Wheeler
+13 Summo /X Helo
+14 Pirate /< Motorcycle
+15 Dude /k Pickup
+16 Alien /O Balloon
+17 Bug /' Airplane
+18 Cat /a Ambulance
+19 Dog /e Horse
+20 Pig /P Police Car
+
+PROCESSING:
+-----------
+
+The APRS-RINO engine will receive audio by sound card from an FRS radio and decode the RINO NAME, Position, and ICON data, convert to an object and if it passes the accountability rules, will be transmitted as an object on APRS. Other processing options include Polling of all RINOS beginning with "APRS". Software will also listen for successful digitpeat of RINO Object and if not heard, may redundantly transmit the packet a second time on the APRS channel for reliability.
+
+de WB4APR, Bob
+Labels: APRS, Rino 

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{DC549F71-D951-4FFA-870E-6BFDDBC96773}</ProjectGuid>
+    <RootNamespace>basicapp</RootNamespace>
+    <Keyword>Win32Proj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>16.0.28916.169</_ProjectFileVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>_DEBUG;DEBUG;_WINDOWS;$(ARCHFAM);$(_ARCHFAM_);_UNICODE;UNICODE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <PrecompiledHeader />
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>_DEBUG;_UNICODE;UNICODE;_WIN32_WCE;UNDER_CE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <Culture>0x0409</Culture>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Link>
+      <AdditionalOptions> /subsystem:windowsce,5.01 /machine:THUMB %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalDependencies>aygshell.lib;winsock.lib;gpsapi.lib;cellcore.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)APRSISCE.exe</OutputFile>
+      <IgnoreSpecificDefaultLibraries>oldnames.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <DelayLoadDLLs />
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>$(OutDir)APRSISCE.pdb</ProgramDatabaseFile>
+      <SubSystem>NotSet</SubSystem>
+      <StackReserveSize>65536</StackReserveSize>
+      <RandomizedBaseAddress>false</RandomizedBaseAddress>
+      <DataExecutionPrevention />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <Optimization>MaxSpeed</Optimization>
+      <PreprocessorDefinitions>_WIN32_WCE=$(CEVER);UNDER_CE=$(CEVER);WINCE;$(PLATFORMDEFINES);NDEBUG;_WINDOWS;$(ARCHFAM);$(_ARCHFAM_);_UNICODE;UNICODE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <PrecompiledHeader />
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>NDEBUG;_UNICODE;UNICODE;_WIN32_WCE;UNDER_CE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <Culture>0x0409</Culture>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Link>
+      <AdditionalOptions> /subsystem:windowsce,5.01 /machine:THUMB %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalDependencies>aygshell.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)basicapp.exe</OutputFile>
+      <IgnoreSpecificDefaultLibraries>oldnames.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <DelayLoadDLLs />
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>$(OutDir)basicapp.pdb</ProgramDatabaseFile>
+      <SubSystem>NotSet</SubSystem>
+      <StackReserveSize>65536</StackReserveSize>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <RandomizedBaseAddress>false</RandomizedBaseAddress>
+      <DataExecutionPrevention />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="Address.cpp" />
+    <ClCompile Include="AGW.c" />
+    <ClCompile Include="aprsis.c" />
+    <ClCompile Include="APRSISCE.cpp" />
+    <ClCompile Include="aprs_udp.c" />
+    <ClCompile Include="Bluetooth.c" />
+    <ClCompile Include="Config.cpp" />
+    <ClCompile Include="cprtns.c" />
+    <ClCompile Include="echolink.cpp" />
+    <ClCompile Include="filter.cpp" />
+    <ClCompile Include="GeoCaches.cpp" />
+    <ClCompile Include="GPXFiles.cpp" />
+    <ClCompile Include="KISS.c" />
+    <ClCompile Include="LLUtil.cpp" />
+    <ClCompile Include="MsgBox.cpp" />
+    <ClCompile Include="OSMUtil.cpp" />
+    <ClCompile Include="parse.c" />
+    <ClCompile Include="Port.c" />
+    <ClCompile Include="ShapFile.cpp" />
+    <ClCompile Include="sun.c" />
+    <ClCompile Include="tcputil.c" />
+    <ClCompile Include="text.c" />
+    <ClCompile Include="TraceLog.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Address.h" />
+    <ClInclude Include="AGW.h" />
+    <ClInclude Include="aprsis.h" />
+    <ClInclude Include="aprs_udp.h" />
+    <ClInclude Include="BlueTooth.h" />
+    <ClInclude Include="Config.h" />
+    <ClInclude Include="CPDEF.H" />
+    <ClInclude Include="CPRTNS.H" />
+    <ClInclude Include="echolink.h" />
+    <ClInclude Include="filter.h" />
+    <ClInclude Include="Geocaches.h" />
+    <ClInclude Include="GPXFiles.h" />
+    <ClInclude Include="KISS.h" />
+    <ClInclude Include="LLUtil.h" />
+    <ClInclude Include="MsgBox.h" />
+    <ClInclude Include="OSMUtil.h" />
+    <ClInclude Include="parse.h" />
+    <ClInclude Include="Port.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="ShapFile.h" />
+    <ClInclude Include="sun.h" />
+    <ClInclude Include="tcputil.h" />
+    <ClInclude Include="text.h" />
+    <ClInclude Include="timestamp.h" />
+    <ClInclude Include="TraceLog.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="APRSISCE.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="G4ILO.ico" />
+    <Image Include="GPXSym2.bmp" />
+    <Image Include="GPXSym3.bmp" />
+    <Image Include="GPXSym4.bmp" />
+    <Image Include="GPXSym5.bmp" />
+    <Image Include="mysymb.bmp" />
+    <Image Include="mysymb2.BMP" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

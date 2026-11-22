@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Address.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AGW.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="aprs_udp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="aprsis.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="APRSISCE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bluetooth.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Config.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cprtns.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="echolink.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="filter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeoCaches.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GPXFiles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KISS.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LLUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MsgBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OSMUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="parse.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Port.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sun.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tcputil.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="text.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TraceLog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Address.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AGW.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="aprs_udp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="aprsis.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BlueTooth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CPDEF.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CPRTNS.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="echolink.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="filter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Geocaches.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GPXFiles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KISS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LLUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MsgBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OSMUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="parse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Port.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sun.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tcputil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="text.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="timestamp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TraceLog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="APRSISCE.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="G4ILO.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="GPXSym2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="GPXSym3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="GPXSym4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="GPXSym5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="mysymb.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="mysymb2.BMP">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

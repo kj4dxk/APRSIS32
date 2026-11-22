@@ -1,0 +1,120 @@
+/20090805 APRSISCE Notes.txt/1.1/Wed Feb 10 01:27:03 2010//
+/20090809 APRSISCE Notes.txt/1.1/Wed Feb 10 01:27:03 2010//
+/20090811 APRSISCE Notes.txt/1.1/Wed Feb 10 01:27:03 2010//
+/20091016 APRSISCE Notes.txt/1.1/Wed Feb 10 01:27:03 2010//
+/20091105 APRSISCE Notes.txt/1.1/Wed Feb 10 01:27:03 2010//
+/20091203 APRSISCE Notes.txt/1.1/Wed Feb 10 01:27:03 2010//
+/20100209 APRSISCE Notes.txt/1.1/Wed Feb 10 03:39:30 2010//
+/20100212 APRSISCE Notes.txt/1.1/Sat Feb 20 00:28:15 2010//
+/20100222 APRSISCE Notes.txt/1.1/Tue Feb 23 04:31:17 2010//
+/20100225 APRSISCE Notes.txt/1.1/Fri Feb 26 08:52:50 2010//
+/20100301 APRSISCE Notes.txt/1.1/Tue Mar  2 04:44:28 2010//
+/20100304 APRSISCE Notes.txt/1.1/Thu Mar  4 06:22:00 2010//
+/20100309 APRSISCE Notes.txt/1.1/Wed Mar 10 00:42:22 2010//
+/20100316 APRSISCE Notes.txt/1.1/Wed Mar 17 02:19:38 2010//
+/20100319 APRSISCE Notes.txt/1.1/Fri Mar 19 19:42:50 2010//
+/20100325 APRSISCE Notes.txt/1.1/Fri Mar 26 01:55:53 2010//
+/20100403 APRSISCE Notes.txt/1.1/Sat Apr  3 18:09:39 2010//
+/20100616 APRSISCE Notes.txt/1.1/Wed Jun 16 09:26:25 2010//
+/20100820 APRSISCE Notes.txt/1.2/Tue Aug 24 02:54:13 2010//
+/20100823 APRSISCE Notes.txt/1.1/Tue Aug 24 03:24:12 2010//
+/20100906 APRSISCE Notes.txt/1.2/Wed Sep  8 11:42:33 2010//
+/20101003 APRSISCE Notes.txt/1.2/Sun Oct  3 11:59:11 2010//
+/20110123 APRSISCE Notes.txt/1.1/Mon Jan 24 00:09:52 2011//
+/20110210 APRSISCE Notes.txt/1.1/Thu Feb 10 12:17:21 2011//
+/20110502 APRSISCE Notes.txt/1.1/Tue May  3 01:04:28 2011//
+/20110517 APRSISCE Notes.txt/1.1/Thu May 19 11:14:19 2011//
+/20110820 APRSISCE Notes.txt/1.1/Sat Aug 20 12:20:19 2011//
+/20110821 APRSISCE Notes.txt/1.1/Sun Aug 21 23:07:44 2011//
+/AGW.h/1.4/Sun Jun  6 19:46:52 2010//
+/APRSIS32.ico/1.1/Tue Sep  7 11:20:14 2010/-kb/
+/APRSISCE.rc2/1.2/Sat Aug  1 02:57:42 2009//
+/Address.h/1.1/Thu Dec  3 06:20:20 2009//
+/BlueTooth.h/1.1/Mon Aug 22 02:45:15 2011//
+/CPDEF.H/1.1/Wed Feb 10 01:35:09 2010//
+/CPRTNS.H/1.2/Sun Jun  6 19:47:45 2010//
+/G4ILO.ico/1.1/Tue Sep  7 11:25:44 2010/-kb/
+/Geocaches.h/1.2/Thu Jan 20 23:30:56 2011//
+/KISS.h/1.6/Fri Sep 16 01:49:53 2011//
+/Rev H Symbol Chart.GIF/1.1/Sat Aug 23 00:09:53 2008/-kbx/
+/Satellite.h/1.4/Sat Oct 22 00:20:59 2011//
+/WXN-Server-{W extended.html/1.1/Mon Nov 29 17:32:11 2010//
+/aprs_udp.c/1.3/Mon Mar  7 03:57:12 2011//
+/aprs_udp.h/1.1/Wed Feb  2 12:34:07 2011//
+/aprsis.h/1.3/Mon Mar  7 03:57:42 2011//
+/cprtns.c/1.4/Wed Sep 29 11:34:02 2010//
+/echolink.h/1.2/Sat Jan 29 01:54:48 2011//
+/lily.JPG/1.1/Sat Aug 23 00:09:53 2008/-kbx/
+/mysymb.bmp/1.1/Sat Aug 23 00:09:53 2008/-kbx/
+/mysymb.txt/1.1/Sat Aug 23 00:09:53 2008//
+/mysymb2.BMP/1.1/Sat Aug 23 00:09:53 2008/-kbx/
+/readme.txt/1.1/Sat Aug 23 00:09:53 2008//
+/sun.c/1.1/Sat Mar 19 04:47:18 2011//
+/sun.h/1.1/Sat Mar 19 04:47:18 2011//
+/tcputil.h/1.16/Mon Aug 22 01:41:20 2011//
+/winter.JPG/1.1/Sat Aug 23 00:09:53 2008/-kbx/
+D/APRSIS32////
+D/TrakView32////
+/parse.h/1.2/Sun Oct 23 20:06:58 2011//
+/parsedef.h/1.2/Sun Oct 23 20:07:09 2011//
+/parse.c/1.2/Mon Oct 24 01:26:44 2011//
+/Bluetooth.c/1.3/Thu Oct 27 14:11:15 2011//
+/ShapFile.h/1.2/Thu Nov 17 18:47:10 2011//
+/MsgBox.h/1.4/Wed Nov 23 17:32:34 2011//
+/tcputil.c/1.20/Tue Dec 20 13:32:06 2011//
+/20120229 APRSISCE Notes.txt/1.1/Wed Feb 29 04:07:24 2012//
+/20120406 APRSISCE Notes.txt/1.2/Sat Apr  7 01:26:17 2012//
+/GPXFiles.h/1.2/Thu May 10 11:07:53 2012//
+/Port.h/1.5/Wed May  2 04:20:14 2012//
+/APRSISCE.vcproj/1.24/Sun May 13 10:12:37 2012//
+/GPXSym2.bmp/1.1/Fri May  4 04:22:22 2012/-kb/
+/GPXSym2.gif/1.1/Fri May  4 03:13:04 2012/-kb/
+/GPXSym3.bmp/1.1/Fri May  4 04:22:58 2012/-kb/
+/GPXSym3.gif/1.1/Fri May  4 03:13:05 2012/-kb/
+/GPXSym4.bmp/1.1/Fri May  4 04:23:12 2012/-kb/
+/GPXSym4.gif/1.1/Fri May  4 03:13:06 2012/-kb/
+/GPXSym5.bmp/1.1/Fri May  4 04:23:18 2012/-kb/
+/GPXSym5.gif/1.1/Fri May  4 03:13:05 2012/-kb/
+/20120525 APRSISCE Notes.txt/1.1/Fri May 25 11:51:44 2012//
+/7 Segment.ttf/1.1/Fri May 25 12:30:10 2012/-kb/
+/filter.h/1.5/Tue Aug  7 13:02:07 2012//
+/20120829 APRSISCE Notes.txt/1.1/Fri Sep  7 00:48:47 2012//
+/aprsis.c/1.11/Thu Sep 27 17:04:06 2012//
+/AGW.c/1.9/Tue Oct  2 17:39:19 2012//
+/text.h/1.16/Fri Jun 28 19:59:12 2013//
+/MsgBox.cpp/1.13/Tue Oct 29 10:27:53 2013//
+/LLUtil.h/1.30/Tue Oct 29 20:20:49 2013//
+/SyslogUDP.c/1.1/Fri Oct 28 20:48:41 2016//
+/SyslogUDP.h/1.1/Tue Oct 25 01:21:47 2016//
+/TraceLog.h/1.14/Tue Oct 25 01:59:36 2016//
+/APRSISCE.sln/1.13/Wed Jan 29 22:12:19 2020//
+/CRCit.c/1.4/Fri May 18 06:20:05 2018//
+/KISS.c/1.19/Tue May 23 14:09:53 2017//
+/TraceLog.cpp/1.24/Wed Nov  7 14:31:38 2018//
+/filter.cpp/1.10/Wed Nov  7 14:27:54 2018//
+/jpgUtil.cpp/1.2/Fri Mar 31 18:48:56 2017//
+/jpgUtil.h/1.2/Fri Mar 31 18:48:49 2017//
+/20200501 APRSISCE Release Notes.txt/1.1/Sat May  2 01:45:02 2020//
+/pngUtil.cpp/1.6/Sun May 10 13:38:47 2020//
+/pngUtil.h/1.3/Sun May 10 13:39:03 2020//
+/GPXFiles.cpp/1.5/Fri May 15 23:29:37 2020//
+/text.c/1.28/Sun May 17 10:57:56 2020//
+/GeoCaches.cpp/1.11/Sat May 16 02:22:31 2020//
+/Address.cpp/1.6/Mon May 18 14:07:37 2020//
+/echolink.cpp/1.11/Mon May 18 14:08:49 2020//
+/sysheads.h/1.7/Mon May 18 13:33:50 2020//
+/timestamp.h/1.121/Tue May 19 15:50:41 2020//
+/OSMUtil.h/1.35/Wed May 20 16:18:41 2020//
+/deliver.bat/1.9/Mon Jan 31 20:58:54 2022//
+/ShapFile.cpp/1.8/Tue Sep 27 15:30:03 2022//
+/Satellite.c/1.19/Wed Mar 13 13:37:38 2024//
+/Port.c/1.38/Tue Oct 27 22:41:44 2020//
+/OSMUtil.cpp/1.58/Wed Mar 29 16:33:49 2023//
+/LLUtil.cpp/1.39/Tue Jun 18 19:58:40 2024//
+/Config.cpp/1.91/Tue Jun 18 18:18:25 2024//
+/Config.h/1.86/Tue Jun 18 18:16:06 2024//
+/APRSISCE.rc/1.90/Tue Jun 18 20:18:32 2024//
+/resource.h/1.78/Tue Jun 18 20:15:27 2024//
+/2010mmdd APRSISCE Notes.txt/1.60/Tue Aug  6 19:40:01 2024//
+/APRSISCE.cpp/1.168/Thu Sep  5 21:13:53 2024//
+/Version.h/1.5/Thu Sep  5 21:14:20 2024//
