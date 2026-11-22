@@ -3,7 +3,7 @@
 <Version>APRSIS32 2020/05/19 21:42</Version>
 <LastSaved>2020-05-22T09:27:38</LastSaved>
 <LastSaveWhy>Telemetry:Definition:Purge</LastSaveWhy>
-<CallSign>KJ4ERJ-TS</CallSign>
+<CallSign></CallSign>
 <Password />
 <SuppressUnverified>1</SuppressUnverified>
 <Filter>b/* o/* e/KJ4ERJ-1 -e/WXSVR-AU s//0/E r/27.99/-80.65/5 -b/WINLINK -s/S/S -s//a/DW t/m  b/KJ4DXK*/KJ4OV*/KJ4ERJ* u/APWW*/APWM* p/IK1</Filter>
