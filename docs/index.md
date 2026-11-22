@@ -9,12 +9,12 @@ APRSISCE/32 is an Automatic Packet Reporting System (APRS) client for Windows an
 - [Requesting a passcode](manual/doc-passcode.md)
 - [Compatible hardware and software](manual/doc-compatible-hardware-software.md)
 - [Configuration](manual/menu-configure.md)
-- [All manual articles](manual/index.md)
+- [Manual topic index](manual/index.md)
 
 ## Browse the archive
 
 - [Forum archive](forum/index.md)
-- [Wiki indexes and embeds](reference/index.md)
+- [Indexes and embedded references](reference/index.md)
 
 ## Attribution
 

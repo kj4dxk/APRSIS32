@@ -25,15 +25,232 @@ theme:
 
 nav:
   - Home: index.md
-  - Manual:
-      - All articles: manual/index.md
-      - Introduction: manual/start.md
-      - Downloads: manual/downloads.md
-      - Passcode: manual/doc-passcode.md
-      - Compatible hardware and software: manual/doc-compatible-hardware-software.md
-      - Configuration: manual/menu-configure.md
+  - Getting started:
+      - "Topic index": manual/index.md
+      - "Welcome to APRSISCE/32": manual/start.md
+      - "Downloads Page": manual/downloads.md
+      - "Initial Startup": manual/initial-startup.md
+      - "Request a passcode": manual/doc-passcode.md
+      - "Compatible hardware and software": manual/doc-compatible-hardware-software.md
+      - "Detailed Features": manual/start-features.md
+      - "Why won't APRSISCE/32 Transmit?": manual/doc-transmitting.md
+      - "View APRS stations over the internet": manual/doc-aprs-viewing-via-the-internet.md
+      - "Run APRSISCE/32 on Linux": manual/doc-linux.md
+      - "How to use the Android Smartphones GPS With APRSISCE/32": manual/doc-android.md
+      - "Introduction in German": manual/de-start.md
+      - "Windows CE vs Windows Mobile": manual/cevswinmo.md
+  - Interface and settings:
+      - "Menu": manual/menu.md
+      - "Menus": manual/menus.md
+      - "Menu:Tree": manual/menu-tree.md
+      - "menu:About": manual/menu-about.md
+      - "Configure Menu": manual/menu-configure.md
+      - "Configure / General Dialog": manual/menu-configure-general.md
+      - "Configure Metric": manual/menu-configure-metric.md
+      - "Enables Menu": manual/menu-enables.md
+      - "Screen Menu": manual/menu-screen.md
+      - "Configure Screen": manual/menu-configure-screen.md
+      - "View Menu": manual/menu-view.md
+      - "Clear": manual/menu-clear.md
+      - "Screen Layout": manual/doc-screen-layout.md
+      - "Screen Elements": manual/doc-screen-elements.md
+      - "Transmit Pressure": manual/doc-screen-features.md
+      - "Quick Keys": manual/doc-quick-keys.md
+      - "Collapsible Menu": manual/collapsible-menu.md
+      - "Scale": manual/pane-scale.md
+      - "Configure Scroller": manual/menu-configure-scroller.md
+      - "Scroller": manual/scroller.md
+      - "Notifications": manual/notifications.md
+      - "Sounds": manual/sounds.md
+      - "futuresym": manual/futuresym.md
+      - "Red Dot": manual/doc-red-dot.md
+  - Maps and station display:
+      - "Map Display": manual/map-display.md
+      - "Roll Your Own OSM Tile Server": manual/tile-server.md
+      - "Tile Sets": manual/tile-sets.md
+      - "Map Prefetch": manual/map-prefetch.md
+      - "Disable OSMTiles Purging": manual/doc-disable-tile-purge.md
+      - "Configure Map": manual/menu-configure-map.md
+      - "Overlays": manual/menu-configure-overlays.md
+      - "Transparency": manual/doc-transparency.md
+      - "Set Location": manual/doc-set-location.md
+      - "geoname": manual/doc-geoname.md
+      - "Stationinfo": manual/doc-stationinfo.md
+      - "Altitude Range Communication Circles": manual/doc-alt-range.md
+      - "Save Posits": manual/menu-save-posits.md
+      - "Zoom Bar": manual/zoom-bar.md
+      - "track:colors": manual/track-colors.md
+      - "PHG": manual/phg.md
+      - "GPS": manual/gps.md
+      - "shapefiles": manual/doc-shapefiles.md
+  - Ports, radios, and TNCs:
+      - "Set up ports": manual/port-configuration.md
+      - "Enables Ports": manual/menu-enables-ports.md
+      - "port-APRS-IS": manual/port-aprs-is.md
+      - "IS-Server Port": manual/is-server-port.md
+      - "port-KISS": manual/port-kiss.md
+      - "port-NEMA": manual/port-nema.md
+      - "Open/CloseCmds": manual/doc-openclosecmd.md
+      - "Kenwood TM-D710 Port (APRS mode)": manual/port-kenwood-tm-d710.md
+      - "D710": manual/d710.md
+      - "TH-D7": manual/th-d7.md
+      - "TH-D72": manual/th-d72.md
+      - "Kenwood TH-D74 and TH-D75": manual/th-d74-d75.md
+      - "TH-D74 configuration screenshots": manual/thd74.md
+      - "FTM350": manual/ftm350.md
+      - "Kenwood Dx Cluster": manual/kenwood-dx-cluster.md
+      - "tnc-d700": manual/tnc-d700.md
+      - "TNC-KPC-3+": manual/tnc-kpc-3.md
+      - "TNC-OT-USB": manual/tnc-ot-usb.md
+      - "TNC-SCS-DSP": manual/tnc-scs-dsp.md
+      - "Tiny2": manual/tiny2.md
+      - "TT4 via KISS": manual/tt4-via-kiss.md
+      - "CCW Tracker": manual/en-ccw-tracker.md
+      - "DR135 with EJ41U": manual/hard-dr135-ej41u.md
+      - "Alinco DR135 with Argent T2-135": manual/hard-dr135-t2-135.md
+      - "WebDT 366": manual/webdt-366.md
+  - APRS-IS, IGates, and digipeating:
+      - "APRS-IS Filters": manual/aprs-is-filters.md
+      - "Automatic Filters": manual/doc-automatic-filters.md
+      - "IGate overview": manual/en-igate.md
+      - "Set up an IGate": manual/en-igating.md
+      - "Receive Only Igates DO NOT Break Messaging!": manual/doc-receive-only-igates-break-messaging.md
+      - "DigiPeating": manual/doc-digipeating.md
+      - "Paths": manual/paths.md
+      - "UIFLOOD digipeating": manual/doc-uiflood.md
+      - "D700 UIFLOOD Digipeating": manual/d700-uiflood-digipeating.md
+      - "UIFLOOD Hardware Testing": manual/uiflood-hardware-testing.md
+      - "Configure Aliases": manual/menu-configure-aliases.md
+      - "Configure Altnet": manual/menu-configure-altnet.md
+      - "Configure DX": manual/menu-configure-dx.md
+      - "Me Not 3rd": manual/me-not-3rd.md
+      - "Ssids": manual/ssids.md
+      - "SSIDs (2)": manual/doc-ssids.md
+  - Beaconing, objects, and telemetry:
+      - "Configure Beacon Menu": manual/menu-configure-beacon.md
+      - "GeniusBeaconing": manual/en-geniusbeaconing.md
+      - "Configure Genius Dialog": manual/menu-configure-genius.md
+      - "Configure Status Report": manual/menu-configure-status-report.md
+      - "create object": manual/createobject.md
+      - "Configure Objects (Create)": manual/menu-configure-objects.md
+      - "Multiline Object Definition": manual/doc-multiline.md
+      - "QRU": manual/doc-qru.md
+      - "Telemetry": manual/doc-telemetry.md
+      - "TT4 Telemetry": manual/tt4-telemetry.md
+      - "Preferred": manual/doc-preferred.md
+      - "Battery": manual/battery.md
+  - Messaging, alerts, and queries:
+      - "APRS Messaging EXPLAINED!": manual/doc-aprs-messaging-explained.md
+      - "Messages Menu": manual/menu-messages.md
+      - "Configure Messages": manual/menu-configure-messages.md
+      - "Chat": manual/chat.md
+      - "Message": manual/panes-message.md
+      - "Auto-Reply": manual/auto-reply.md
+      - "Message Notifier": manual/message-notifier.md
+      - "Message Retries": manual/message-retries.md
+      - "Nicknames": manual/nicknames.md
+      - "Announcements": manual/announcements.md
+      - "Bulletins": manual/bulletins.md
+      - "ANSRVR group messaging": manual/doc-ansrvr.md
+      - "APRS Queries": manual/doc-queries.md
+      - "E-Mail": manual/doc-e-mail.md
+      - "APRS Messenger": manual/en-aprs-mesenger.md
+      - "Radio Tune Format": manual/doc-qsy.md
+  - Weather and severe alerts:
+      - "Weather Stations": manual/doc-weather-stations.md
+      - "Tempest Weather station setup": manual/weather-tempest.md
+      - "CWOP": manual/port-cwop.md
+      - "National Weather Service setup": manual/en-nws.md
+      - "NWS": manual/menu-configure-nws.md
+  - Satellites, ballooning, and RF:
+      - "Satellite Operation": manual/doc-satelliteops.md
+      - "Satellite Tracking": manual/doc-satellite-tracking.md
+      - "Satellite server": manual/doc-satsrv.md
+      - "Balloon tracking": manual/en-ballooning.md
+      - "Direction Finding": manual/direction-finding.md
+      - "DF Example": manual/dfexample.md
+      - "Frequencies": manual/doc-frequencies.md
+      - "Freqspec": manual/freqspec.md
+      - "Frequency monitoring": manual/en-freqmon.md
+  - Troubleshooting and help:
+      - "No stations visible": manual/doc-no-visible-stations.md
+      - "Debug Logs": manual/doc-debug-logs.md
+      - "Enables View Logs": manual/menu-enables-view-logs.md
+      - "Editing XML Configuration": manual/doc-editing-xml-configuration.md
+      - "Context-sensitive help": manual/en-contexthelp.md
+      - "What Am I Missing?": manual/what-am-i-missing.md
+      - "Passcode request form": manual/en-passform.md
+      - "Passcode response": manual/en-passresp.md
+      - "Contact": manual/contact.md
+  - Release notes:
+      - "Development version": manual/doc-development-version.md
+      - "2020-05-01 21:21": manual/2020-05-01-21-21.md
+      - "2012-08-29 21:31": manual/2012-08-29-21-31.md
+      - "2012-05-25 07:50": manual/2012-05-25-07-50.md
+      - "2012-04-06 20:46": manual/2012-04-06-20-46.md
+      - "2012-02-29 02:29": manual/2012-02-29-02-29.md
+      - "2011-08-21 16:57": manual/2011-08-21-16-57.md
+      - "2011-08-20 02:06": manual/2011-08-20-02-06.md
+      - "2011-05-17 18:27": manual/2011-05-17-18-27.md
+      - "2011-05-02 20:54": manual/2011-05-02-20-54.md
+      - "2011-02-10 07:14": manual/2011-02-10-07-14.md
+      - "2011-01-23 18:55": manual/2011-01-23-18-55.md
+  - Community and project history:
+      - "KJ4ERJ Story": manual/kj4erj-story.md
+      - "Presentations": manual/presentations.md
+      - "EN_Presentations": manual/en-presentations.md
+      - "APRS Authors": manual/clients.md
+      - "links": manual/links.md
+      - "g6uim": manual/g6uim.md
+      - "Editor Profiles": manual/editor-profiles.md
+      - "Advice To Amateur Programmers": manual/advice-to-amateur-programmers.md
+      - "Yahoo Posts": manual/yahoo-posts.md
+  - Historical and supplemental pages:
+      - "Larger Image": manual/aprsis-image.md
+      - "About1": manual/about1.md
+      - "Clear1": manual/clear1.md
+      - "Configure1": manual/configure1.md
+      - "Enables1": manual/enables1.md
+      - "Messages1": manual/messages1.md
+      - "Screen1": manual/screen1.md
+      - "View1": manual/view1.md
+      - "Lwdstart": manual/lwdstart.md
+      - "newstart": manual/newstart.md
+      - "Newstart1": manual/newstart1.md
+      - "tempmain": manual/tempmain.md
+      - "Welcome to APRSISCE/32": manual/wiki-home.md
+      - "Wiki Intro": manual/wiki-intro.md
+      - "APRS Messaging EXPLAINED! (archived)": manual/deleted-aprs-messenging-explained.md
+      - "EN_RadioDirectionFinding (archived)": manual/deleted-deleted-en-radiodirectionfinding.md
+      - "Scrolling Stations (archived)": manual/deleted-doc-scrolling-stations.md
+      - "Linux (archived)": manual/deleted-linux.md
+      - "Configure Status Dialog (archived)": manual/deleted-menu-configure-status.md
+      - "Enables Logging (archived)": manual/deleted-menu-enables-logging.md
+      - "port nmea (archived)": manual/deleted-port-nmea.md
+      - "Documentation": manual/doc-documentation.md
+      - "Downloading the wiki": manual/doc-download-wiki.md
+      - "doc:toc": manual/doc-toc.md
+      - "APRSISCE/32 The future of Amateur Radio APRS": manual/admin-manage.md
+      - "admins": manual/admins.md
+      - "code-blocks": manual/code-blocks.md
+      - "Google Search": manual/google.md
+      - "How To Edit Pages - Quickstart": manual/how-to-edit-pages.md
+      - "includepopup:_csscode": manual/includepopup-csscode.md
+      - "includepopup:_template": manual/includepopup-template.md
+      - "listpage": manual/listpage.md
+      - "orphan": manual/orphan.md
+      - "Search the site": manual/search-site.md
+      - "wantedpages": manual/wantedpages.md
+      - "What is a Wiki Site?": manual/what-is-a-wiki-site.md
+      - "Internet viewing supplement 1": manual/doc-aprs-viewing-via-the-internet-html-403638a6141d8b594c33d195a9df4ed0d81a7532-10098845011635971835.md
+      - "Internet viewing supplement 2": manual/doc-aprs-viewing-via-the-internet-html-8d9f7bd0613145cd1797e2df44508a225aa70e9b-4767578421892057376.md
+      - "Internet viewing supplement 3": manual/doc-aprs-viewing-via-the-internet-html-9262f34c24d6df0b5dae17ecef6e08c2512e474b-46900104881522789.md
+      - "Internet viewing supplement 4": manual/doc-aprs-viewing-via-the-internet-html-97537e5c4f0ed451c25928fe139451f65df97723-1145763697109798746.md
+      - "Internet viewing supplement 5": manual/doc-aprs-viewing-via-the-internet-html-c33c4cb884fa2f666bfaad92ea2571eb36df21bc-14844601391508148245.md
+      - "Internet viewing supplement 6": manual/doc-aprs-viewing-via-the-internet-html-d36cb4d0e75765f20af623e73f620922bcc70946-69799685539880298.md
+      - "Internet viewing supplement 7": manual/doc-aprs-viewing-via-the-internet-html-ed8b74722f24180aac07c31825d6a31edd6ec43d-1391773794693262451.md
   - Forum: forum/index.md
-  - Wiki indexes and embeds: reference/index.md
+  - Indexes and embedded references: reference/index.md
 
 exclude_docs: |
   /archive/**/*.html
