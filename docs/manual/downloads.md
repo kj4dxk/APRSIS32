@@ -12,6 +12,7 @@ title: "Downloads Page"
 
 **Current Windows release, previously distributed as a development build.** The old download listing used October 10, 2025.  
 **Known issue.** The About dialog is broken. Avoid opening it.  
+
 | Version | Build date | Download | Source |
 | --- | --- | --- | --- |
 | [2024.09.05.1714](https://github.com/kj4dxk/APRSIS32/releases/tag/2024.09.05.1714) | September 5, 2024 | [APRSIS32.exe](https://github.com/kj4dxk/APRSIS32/releases/download/2024.09.05.1714/APRSIS32.exe) | [Tagged source](https://github.com/kj4dxk/APRSIS32/tree/2024.09.05.1714/source/APRSISCE) |
