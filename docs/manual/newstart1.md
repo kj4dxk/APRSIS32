@@ -44,5 +44,3 @@ title: "Newstart1"
 <strong>APRS Radio</strong></td>
 </tr>
 </table>
-
-©Homeside Software, Inc. **KJ4ERJ** 2009 - 2011. [APRS](http://www.aprs.org)® is a registered trademark of Bob Bruninga, **WB4APR**. Map data © [OpenStreetMap](http://www.openstreetmap.org) contributors, CC-BY-SA

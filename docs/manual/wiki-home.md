@@ -42,7 +42,3 @@ Click the image or <a href="aprsis-image.md">here</a> for a full screen view</td
 |  |  |  |
 | --- | --- | --- |
 | [Open embedded content](../reference/start-html-de1d2cebba08988b542a98b9b55745ed6f937078-3625708972113266360.md) | [Open embedded content](../reference/code-blocks-code-2.md) | [Open embedded content](../reference/start-html-e5b4211cd5e53aed44ca1db75b9d75bd5636e7b2-2104043504166918509.md) |
-
-|  |
-| --- |
-| APRSISCE/32 ©Homeside Software Inc **KJ4ERJ SK** 2009-2024  [APRS](http://www.aprs.org)®is a registered trademark of Bob Bruninga, **WB4APR SK**.  Default Map data ©[OpenStreetMap](http://www.openstreetmap.org) contributors, CC-BY-SA |

@@ -5,6 +5,16 @@ repo_url: https://github.com/kj4dxk/APRSIS32
 repo_name: kj4dxk/APRSIS32
 edit_uri: edit/main/docs/
 
+copyright: >-
+  <span id="aprsis32-attribution">
+  APRSISCE/32 © 2009–2024 Homeside Software Inc. Developed by <strong>Lynn W. Deffenbaugh (KJ4ERJ SK)</strong>.<br>
+  Maintained by <strong>KJ4DXK</strong>, son of KJ4ERJ.<br>
+  <a href="https://www.aprs.org/">APRS</a>® was created by <strong>Bob Bruninga (WB4APR SK)</strong>.
+  APRS® is a <a href="https://tsdr.uspto.gov/#caseNumber=75022429&amp;caseSearchType=US_APPLICATION&amp;caseType=DEFAULT&amp;searchType=statusSearch">U.S. registered trademark</a>
+  of Tucson Amateur Packet Radio Corporation (TAPR).<br>
+  Default map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>, licensed under the Open Database License (ODbL).
+  </span>
+
 theme:
   name: material
   features:
@@ -36,3 +46,4 @@ markdown_extensions:
 
 hooks:
   - figure_links.py
+  - archive_attribution.py
