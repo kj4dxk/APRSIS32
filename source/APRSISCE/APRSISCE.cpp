@@ -13961,6 +13961,7 @@ BOOL FinishMainWindowStartup(HWND hwnd, char *ViewString)
 			FirstRun = TRUE;
 			cInfos[0].CenterTracking = FALSE;	/* We dragged to here */
 		} else FirstRun = FALSE;
+		Info->tsInfo = ActiveConfig.OSM;
 	} else FirstRun = FALSE;
 
 	if (IsValidLatLon(ActiveConfig.Latitude, ActiveConfig.Longitude))

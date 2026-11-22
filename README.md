@@ -1,6 +1,8 @@
 # APRSISCE/32 manual
 
-**APRSIS32 version 2024.09.05.1714**
+**APRSIS32 2026.11.22.0813 for Windows**
+
+[Download APRSIS32.exe](https://github.com/kj4dxk/APRSIS32/releases/download/2026.11.22.0813/APRSIS32.exe) · [Release notes](https://github.com/kj4dxk/APRSIS32/releases/tag/2026.11.22.0813)
 
 ## In memory of Lynn Deffenbaugh, KJ4ERJ SK
 
@@ -8,11 +10,11 @@ Lynn passed away in December 2024. He loved developing APRSISCE/32 and sharing i
 
 [APRS Foundation remembrance](https://www.aprsfoundation.org/lynn-kj4erj-silent-key/)
 
-## Current Windows build
+## Preserved Windows build
 
 > **Maintainer’s note, November 21, 2026.** After comparing the available versions with those in the [APRS Foundation’s APRSISCE repository](https://github.com/APRSFoundation/APRSISCE), **KJ4DXK** identified **2024.09.05.1714** as the newest surviving Windows build he could find of APRSISCE/32 from its original developer, **Lynn W. Deffenbaugh (KJ4ERJ SK)**. The executable was linked on **September 5, 2024, at 5:14:29 p.m. EDT**. The matching source snapshot records its last main-source edit at **5:13:53 p.m. EDT** that day.
 
-[Get the current Windows build](https://kj4dxk.github.io/APRSIS32/manual/downloads/). [Browse the unpacked source and build files](source/APRSISCE/).
+[Browse all Windows downloads](https://kj4dxk.github.io/APRSIS32/manual/downloads/). [Browse the unpacked source and build files](source/APRSISCE/).
 
 [Read the published manual](https://kj4dxk.github.io/APRSIS32/) or [browse the Markdown articles](docs/manual/index.md) on GitHub.
 

@@ -4,17 +4,21 @@ title: "Downloads Page"
 
 # Downloads Page
 
-## Current Windows build
+## Preserved Windows build
 
 > **Maintainer’s note, November 21, 2026.** After comparing the available versions with those in the [APRS Foundation’s APRSISCE repository](https://github.com/APRSFoundation/APRSISCE), **KJ4DXK** identified **2024.09.05.1714** as the newest surviving Windows build he could find of APRSISCE/32 from its original developer, **Lynn W. Deffenbaugh (KJ4ERJ SK)**. The executable was linked on **September 5, 2024, at 5:14:29 p.m. EDT**. The matching source snapshot records its last main-source edit at **5:13:53 p.m. EDT** that day.
 
 ## Windows versions
 
-**Current Windows release, previously distributed as a development build.** The old download listing used October 10, 2025.  
+New installations use APRSIS32 Tiles. To use public OpenStreetMap over HTTPS, select **Screen → Tile Set → OpenStreetMap**. Existing installations retain their selected tile set and cache.
+
+**The 2024 build was previously distributed as a development build.** The old download listing used October 10, 2025.
+
 **Known issue.** The About dialog is broken. Avoid opening it.  
 
 | Version | Build date | Download | Source |
 | --- | --- | --- | --- |
+| [2026.11.22.0813](https://github.com/kj4dxk/APRSIS32/releases/tag/2026.11.22.0813) | November 22, 2026 | [APRSIS32.exe](https://github.com/kj4dxk/APRSIS32/releases/download/2026.11.22.0813/APRSIS32.exe) | [Tagged source](https://github.com/kj4dxk/APRSIS32/tree/2026.11.22.0813/source/APRSISCE) |
 | [2024.09.05.1714](https://github.com/kj4dxk/APRSIS32/releases/tag/2024.09.05.1714) | September 5, 2024 | [APRSIS32.exe](https://github.com/kj4dxk/APRSIS32/releases/download/2024.09.05.1714/APRSIS32.exe) | [Tagged source](https://github.com/kj4dxk/APRSIS32/tree/2024.09.05.1714/source/APRSISCE) |
 
 N2MH graciously provided this previously-dev version during 2025. Thank you! KJ4DXK.
