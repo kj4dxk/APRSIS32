@@ -1,5 +1,7 @@
 # APRSISCE/32 manual
 
+**APRSIS32 version 2024.09.05.1714**
+
 ## In memory of Lynn Deffenbaugh, KJ4ERJ SK
 
 Lynn passed away in December 2024. He loved developing APRSISCE/32 and sharing it with fellow radio amateurs. This project preserves the work he loved.

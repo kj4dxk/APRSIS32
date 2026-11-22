@@ -1,5 +1,7 @@
 # APRSISCE/32 documentation
 
+**APRSIS32 version 2024.09.05.1714**
+
 APRSISCE/32 is an Automatic Packet Reporting System (APRS) client for Windows and Windows Mobile. This manual is adapted from the APRSISCE/32 community wiki.
 
 ## In memory of Lynn Deffenbaugh, KJ4ERJ SK
