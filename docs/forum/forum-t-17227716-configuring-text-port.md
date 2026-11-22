@@ -4,8 +4,6 @@ title: "Configuring Text Port"
 
 # Configuring Text Port
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-17227716/configuring-text-port) · [Archived HTML](../archive/pages/forum_t-17227716_configuring-text-port--beff622aab91.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Configuring Text Port
@@ -14,7 +12,7 @@ Started by: [![KF0KFL](../archive/assets/avatar--e102d4849a62.php)](https://www.
 Date: 24 Aug 2025 17:42  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-17227716.xml)
+RSS: New posts
 
 Summary:
 

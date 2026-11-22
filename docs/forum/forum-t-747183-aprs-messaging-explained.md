@@ -4,8 +4,6 @@ title: "APRS Messaging EXPLAINED! / Discussion"
 
 # APRS Messaging EXPLAINED! / Discussion
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-747183/aprs-messaging-explained) · [Archived HTML](../archive/pages/forum_t-747183_aprs-messaging-explained--c174eca41ee1.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [WIKI per page discussion / Per page discussions](forum-c-494256-per-page-discussions.md)
 » APRS Messaging EXPLAINED!
@@ -14,7 +12,7 @@ Started by: Wikidot
 Date: 11 Dec 2013 23:37  
 Number of posts: 0  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-747183.xml)
+RSS: New posts
 
 This is the discussion related to the wiki page [APRS Messaging EXPLAINED!](../manual/deleted-aprs-messenging-explained.md).
 

@@ -4,8 +4,6 @@ title: "Input on new igate on remote mtn top"
 
 # Input on new igate on remote mtn top
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-2028059/input-on-new-igate-on-remote-mtn-top) · [Archived HTML](../archive/pages/forum_t-2028059_input-on-new-igate-on-remote-mtn-top--357869a59c3a.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Input on new igate on remote mtn top
@@ -14,7 +12,7 @@ Started by: [![Clifford - KK6QMS](../archive/assets/avatar--04a8f6c50926.php)](h
 Date: 11 Dec 2016 06:30  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-2028059.xml)
+RSS: New posts
 
 Summary:
 

@@ -4,8 +4,6 @@ title: "How can one change their grid square locator?"
 
 # How can one change their grid square locator?
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-520774/how-can-one-change-their-grid-square-locator) · [Archived HTML](../archive/pages/forum_t-520774_how-can-one-change-their-grid-square-locator--b178235b76d2.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » How can one change their grid square locator?
@@ -14,7 +12,7 @@ Started by: [![AF8F](../archive/assets/avatar--1c21c5fa5c9b.php)](https://www.wi
 Date: 11 Jul 2012 19:32  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-520774.xml)
+RSS: New posts
 
 Summary:
 

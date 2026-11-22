@@ -4,8 +4,6 @@ title: "Screen Elements / Discussion"
 
 # Screen Elements / Discussion
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-394451/screen-elements) · [Archived HTML](../archive/pages/forum_t-394451_screen-elements--82638708414a.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [WIKI per page discussion / Per page discussions](forum-c-494256-per-page-discussions.md)
 » Screen Elements
@@ -14,7 +12,7 @@ Started by: Wikidot
 Date: 24 Sep 2011 20:15  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-394451.xml)
+RSS: New posts
 
 This is the discussion related to the wiki page [Screen Elements](../manual/doc-screen-elements.md).
 

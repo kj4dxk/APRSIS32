@@ -4,8 +4,6 @@ title: "Save Posits"
 
 # Save Posits
 
-[Source wiki page](https://aprsisce.wikidot.com/menu:save-posits) · [Archived HTML](../archive/pages/menu_save-posits--b70bd4134de1.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 From the 2011/11/17 15:07 Release Notes:
 
 Finally added Configure / Save Posits / Filter… and Reload Paths. The  

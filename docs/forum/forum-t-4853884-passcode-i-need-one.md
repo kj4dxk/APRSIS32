@@ -4,8 +4,6 @@ title: "Passcode, I need one."
 
 # Passcode, I need one.
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-4853884/passcode-i-need-one) · [Archived HTML](../archive/pages/forum_t-4853884_passcode-i-need-one--15ba9db31fbc.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Passcode, I need one.
@@ -14,7 +12,7 @@ Started by: ![](../archive/assets/common--images_avatars_default_a16--cbceb8a168
 Date: 12 Jan 2018 02:15  
 Number of posts: 6  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-4853884.xml)
+RSS: New posts
 
 Unfold All
 Fold All
@@ -73,7 +71,7 @@ Re: Passcode, I need one.
 
 Please follow the instructions at:
 
-[http://aprsisce.wikidot.com/doc:passcode](../manual/doc-passcode.md)
+[Related manual page](../manual/doc-passcode.md)
 
 Lynn (D) - KJ4ERJ - Author of APRSISCE for Windows Mobile and Win32
 

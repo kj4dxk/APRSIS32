@@ -4,8 +4,6 @@ title: "Roll Your Own OSM Tile Server"
 
 # Roll Your Own OSM Tile Server
 
-[Source wiki page](https://aprsisce.wikidot.com/tile-server) · [Archived HTML](../archive/pages/tile-server--649336064a7f.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 So, you'd like to run your own OSM Tile Server? It's really not that hard, but if you're looking to serve up the entire planet, it is rather hardware intensive. Here's a collection of random notes of my recently reconstructed (from scratch) OSM tile server.
 
 For the hardware, I use a VMWare Virtual Machine running Ubuntu 16.04.3 LTS Server AMD64. This was not a specific version choice, but the closest version available to match the Switch2OSM instructions to follow (they used 16.04.2 LTS). The physical host of this VM has an 8 core Intel i7, 24GB of RAM, 5 SSDs (1\*120, 2\*240, 2\*500) and multiple SATA-6 magnetic drives. All virtual drives are container files hosted by Windows 7. No drives are fully given over to the VM.

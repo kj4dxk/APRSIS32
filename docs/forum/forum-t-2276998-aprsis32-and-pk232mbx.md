@@ -4,8 +4,6 @@ title: "APRSIS32 and PK232MBX ????"
 
 # APRSIS32 and PK232MBX ????
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-2276998/aprsis32-and-pk232mbx) · [Archived HTML](../archive/pages/forum_t-2276998_aprsis32-and-pk232mbx--c4312b866774.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » APRSIS32 and PK232MBX ????
@@ -14,7 +12,7 @@ Started by: [![AB4WS](../archive/assets/avatar--e7140d9f599e.php)](https://www.w
 Date: 12 May 2017 23:32  
 Number of posts: 3  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-2276998.xml)
+RSS: New posts
 
 Summary:
 

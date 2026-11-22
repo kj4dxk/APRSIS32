@@ -4,8 +4,6 @@ title: "Stops receiving RF after a while"
 
 # Stops receiving RF after a while
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-5388296/stops-receiving-rf-after-a-while) · [Archived HTML](../archive/pages/forum_t-5388296_stops-receiving-rf-after-a-while--3a93fd0ab4d2.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Stops receiving RF after a while
@@ -14,7 +12,7 @@ Started by: [![Michael KE4DHK](../archive/assets/avatar--821230a2b6c3.php)](http
 Date: 02 Mar 2018 03:17  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-5388296.xml)
+RSS: New posts
 
 Summary:
 

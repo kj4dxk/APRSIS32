@@ -4,8 +4,6 @@ title: "Recent Forum Posts"
 
 # Recent Forum Posts
 
-[Source wiki page](https://aprsisce.wikidot.com/forum:recent-posts) · [Archived HTML](../archive/pages/forum_recent-posts--c556ac3bd784.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 |  |  |
 | --- | --- |
 | From categories: | <span id="recent-posts-category"></span> All categories APRSISCE/32 Discussion: General APRSIS APRSISCE/32 Discussion: Feature Requests General Discussion: Balloons General Discussion: Satellites WIKI per page discussion: Per page discussions |

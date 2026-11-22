@@ -4,9 +4,7 @@ title: "Enables1"
 
 # Enables1
 
-[Source wiki page](https://aprsisce.wikidot.com/enables1) · [Archived HTML](../archive/pages/enables1--2519f644cafa.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
-The Enables menu allows you to Enable (and Disable) various settings within APRSISCE/32. Currently the [TraceLogs](https://aprsisce.wikidot.com/tracelogs) are also accessed via this menu.
+The Enables menu allows you to Enable (and Disable) various settings within APRSISCE/32. Currently the TraceLogs are also accessed via this menu.
 
 APRS-IS Enabled
 

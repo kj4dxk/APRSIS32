@@ -4,8 +4,6 @@ title: "APRS - GEIGER INTERFACE"
 
 # APRS - GEIGER INTERFACE
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-849512/aprs-geiger-interface) · [Archived HTML](../archive/pages/forum_t-849512_aprs-geiger-interface--dc548fb9c32b.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / Feature Requests](forum-c-312348-feature-requests.md)
 » APRS - GEIGER INTERFACE
@@ -14,7 +12,7 @@ Started by: [![VE7CUP](../archive/assets/avatar--8dcfb1170cf2.php)](https://www.
 Date: 22 Apr 2014 05:31  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-849512.xml)
+RSS: New posts
 
 Unfold All
 Fold All

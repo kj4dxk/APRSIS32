@@ -4,8 +4,6 @@ title: "Frequency Monitor Disable?"
 
 # Frequency Monitor Disable?
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-521969/frequency-monitor-disable) · [Archived HTML](../archive/pages/forum_t-521969_frequency-monitor-disable--31412c73353a.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Frequency Monitor Disable?
@@ -14,7 +12,7 @@ Started by: [![N4TQU](../archive/assets/avatar--a5ce01e5bc83.php)](https://www.w
 Date: 13 Jul 2012 13:10  
 Number of posts: 5  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-521969.xml)
+RSS: New posts
 
 Unfold All
 Fold All

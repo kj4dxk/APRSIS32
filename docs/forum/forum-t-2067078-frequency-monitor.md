@@ -4,8 +4,6 @@ title: "Frequency Monitor"
 
 # Frequency Monitor
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-2067078/frequency-monitor) · [Archived HTML](../archive/pages/forum_t-2067078_frequency-monitor--959471b25eb3.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Frequency Monitor
@@ -14,7 +12,7 @@ Started by: [![TchGimmick](../archive/assets/avatar--c0142ee4b3e8.php)](https://
 Date: 21 Jan 2017 05:52  
 Number of posts: 3  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-2067078.xml)
+RSS: New posts
 
 Summary:
 

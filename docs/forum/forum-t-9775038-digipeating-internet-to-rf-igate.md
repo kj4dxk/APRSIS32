@@ -4,8 +4,6 @@ title: "Digipeating internet to rf Igate ?"
 
 # Digipeating internet to rf Igate ?
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-9775038/digipeating-internet-to-rf-igate) · [Archived HTML](../archive/pages/forum_t-9775038_digipeating-internet-to-rf-igate--1d64aa7e156c.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Digipeating internet to rf Igate ?
@@ -14,7 +12,7 @@ Started by: [![William Erhardt](../archive/assets/avatar--cc80b4b329ac.php)](htt
 Date: 28 Dec 2018 18:40  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-9775038.xml)
+RSS: New posts
 
 Unfold All
 Fold All

@@ -4,8 +4,6 @@ title: "Ports"
 
 # Ports
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-13351548/ports) · [Archived HTML](../archive/pages/forum_t-13351548_ports--cd2e549a2a35.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Ports
@@ -14,7 +12,7 @@ Started by: [![radiotwo](../archive/assets/avatar--dde36a2272f6.php)](https://ww
 Date: 21 May 2020 14:53  
 Number of posts: 3  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-13351548.xml)
+RSS: New posts
 
 Unfold All
 Fold All

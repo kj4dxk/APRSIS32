@@ -4,8 +4,6 @@ title: "Easily copy GPS coordinates to clipboard"
 
 # Easily copy GPS coordinates to clipboard
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-2067033/easily-copy-gps-coordinates-to-clipboard) · [Archived HTML](../archive/pages/forum_t-2067033_easily-copy-gps-coordinates-to-clipboard--2e55606ba9d2.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / Feature Requests](forum-c-312348-feature-requests.md)
 » Easily copy GPS coordinates to clipboard
@@ -14,7 +12,7 @@ Started by: [![TchGimmick](../archive/assets/avatar--c0142ee4b3e8.php)](https://
 Date: 21 Jan 2017 05:24  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-2067033.xml)
+RSS: New posts
 
 Unfold All
 Fold All

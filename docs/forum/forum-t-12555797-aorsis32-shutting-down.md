@@ -4,8 +4,6 @@ title: "AORSIS32 Shutting Down"
 
 # AORSIS32 Shutting Down
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-12555797/aorsis32-shutting-down) · [Archived HTML](../archive/pages/forum_t-12555797_aorsis32-shutting-down--116140ea5efd.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » AORSIS32 Shutting Down
@@ -14,7 +12,7 @@ Started by: [![AC5V](../archive/assets/avatar--57ab956f5d78.php)](https://www.wi
 Date: 18 Sep 2019 14:23  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-12555797.xml)
+RSS: New posts
 
 Summary:
 

@@ -4,8 +4,6 @@ title: "APRSISCE scroller box size"
 
 # APRSISCE scroller box size
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-16339480/aprsisce-scroller-box-size) · [Archived HTML](../archive/pages/forum_t-16339480_aprsisce-scroller-box-size--2b78b2a0d561.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » APRSISCE scroller box size
@@ -14,7 +12,7 @@ Started by: [![af5aa](../archive/assets/avatar--f334ae47a902.php)](https://www.w
 Date: 15 Sep 2023 20:07  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-16339480.xml)
+RSS: New posts
 
 Unfold All
 Fold All

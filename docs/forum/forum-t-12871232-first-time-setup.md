@@ -4,8 +4,6 @@ title: "First time setup"
 
 # First time setup
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-12871232/first-time-setup) · [Archived HTML](../archive/pages/forum_t-12871232_first-time-setup--6c501b1d9a0c.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » First time setup
@@ -14,7 +12,7 @@ Started by: [![Sirsendu Ghosh](../archive/assets/avatar--4a1cbd99dddc.php)](http
 Date: 23 Dec 2019 20:14  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-12871232.xml)
+RSS: New posts
 
 Summary:
 

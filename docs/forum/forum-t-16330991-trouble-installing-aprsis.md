@@ -4,8 +4,6 @@ title: "Trouble Installing APRSIS"
 
 # Trouble Installing APRSIS
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-16330991/trouble-installing-aprsis) · [Archived HTML](../archive/pages/forum_t-16330991_trouble-installing-aprsis--e9448bd5597b.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Trouble Installing APRSIS
@@ -14,7 +12,7 @@ Started by: [![W6SDM](../archive/assets/avatar--c80bda9485f2.php)](https://www.w
 Date: 09 Sep 2023 05:48  
 Number of posts: 3  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-16330991.xml)
+RSS: New posts
 
 Unfold All
 Fold All

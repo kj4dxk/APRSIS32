@@ -4,8 +4,6 @@ title: "Altitude Range Communication Circles / Discussion"
 
 # Altitude Range Communication Circles / Discussion
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-403559/altitude-range-communication-circles) · [Archived HTML](../archive/pages/forum_t-403559_altitude-range-communication-circles--6ddb125f4341.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [WIKI per page discussion / Per page discussions](forum-c-494256-per-page-discussions.md)
 » Altitude Range Communication Circles
@@ -14,7 +12,7 @@ Started by: Wikidot
 Date: 24 Oct 2011 02:42  
 Number of posts: 0  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-403559.xml)
+RSS: New posts
 
 This is the discussion related to the wiki page [Altitude Range Communication Circles](../manual/doc-alt-range.md).
 

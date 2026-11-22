@@ -1,6 +1,6 @@
 site_name: APRSISCE/32 Manual
 site_url: https://kj4dxk.github.io/APRSIS32/
-site_description: APRSISCE/32 documentation and community wiki archive
+site_description: APRSISCE/32 documentation
 repo_url: https://github.com/kj4dxk/APRSIS32
 repo_name: kj4dxk/APRSIS32
 edit_uri: edit/main/docs/
@@ -34,7 +34,12 @@ nav:
       - Configuration: manual/menu-configure.md
   - Forum: forum/index.md
   - Wiki indexes and embeds: reference/index.md
-  - Original HTML archive: archive/index.html
+
+exclude_docs: |
+  /archive/**/*.html
+  /archive/manifest.json
+  /archive/sitemap.xml
+  /archive/unavailable.txt
 
 plugins:
   - search
@@ -46,4 +51,3 @@ markdown_extensions:
 
 hooks:
   - figure_links.py
-  - archive_attribution.py

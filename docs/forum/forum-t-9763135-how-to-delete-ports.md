@@ -4,8 +4,6 @@ title: "How to delete ports?"
 
 # How to delete ports?
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-9763135/how-to-delete-ports) · [Archived HTML](../archive/pages/forum_t-9763135_how-to-delete-ports--3befd2c04eeb.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » How to delete ports?
@@ -14,7 +12,7 @@ Started by: [![Don Hillgaertner](../archive/assets/avatar--89860d59b9ab.php)](ht
 Date: 27 Dec 2018 06:13  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-9763135.xml)
+RSS: New posts
 
 Summary:
 

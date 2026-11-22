@@ -4,8 +4,6 @@ title: "WebDT 366"
 
 # WebDT 366
 
-[Source wiki page](https://aprsisce.wikidot.com/webdt-366) · [Archived HTML](../archive/pages/webdt-366--a9f957ea2a3b.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [![WebDT366.jpg](../archive/assets/local--resized-images_webdt-366_WebDT366.jpg_small--30325f032eee.jpg)](../archive/assets/local--files_webdt-366_WebDT366--b2725c39bb03.jpg)
 
 The WebDT 366 is a Windows CE tablet that has a version of APRSISCE built specifically for this platform.

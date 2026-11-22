@@ -4,8 +4,6 @@ title: "APRS-IS Filters / Discussion"
 
 # APRS-IS Filters / Discussion
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-615224/aprs-is-filters) · [Archived HTML](../archive/pages/forum_t-615224_aprs-is-filters--1533eec37fa0.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [WIKI per page discussion / Per page discussions](forum-c-494256-per-page-discussions.md)
 » APRS-IS Filters
@@ -14,7 +12,7 @@ Started by: Wikidot
 Date: 14 Jan 2013 02:59  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-615224.xml)
+RSS: New posts
 
 This is the discussion related to the wiki page [APRS-IS Filters](../manual/aprs-is-filters.md).
 

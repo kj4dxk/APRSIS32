@@ -4,8 +4,6 @@ title: "Install APRSIS32 Win10(64) on microSD?"
 
 # Install APRSIS32 Win10(64) on microSD?
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-2142060/install-aprsis32-win10-64-on-microsd) · [Archived HTML](../archive/pages/forum_t-2142060_install-aprsis32-win10-64-on-microsd--54edea2fa93b.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Install APRSIS32 Win10(64) on microSD?
@@ -14,7 +12,7 @@ Started by: [![N4SRN](../archive/assets/avatar--a71df618dfe4.php)](https://www.w
 Date: 26 Feb 2017 17:22  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-2142060.xml)
+RSS: New posts
 
 Summary:
 

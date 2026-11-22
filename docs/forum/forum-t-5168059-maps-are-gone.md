@@ -4,8 +4,6 @@ title: "Maps are Gone!"
 
 # Maps are Gone!
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-5168059/maps-are-gone) · [Archived HTML](../archive/pages/forum_t-5168059_maps-are-gone--4734e33da4eb.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Maps are Gone!
@@ -14,7 +12,7 @@ Started by: [![Aaron Diers](../archive/assets/avatar--c74df31376f6.php)](https:/
 Date: 04 Feb 2018 22:18  
 Number of posts: 5  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-5168059.xml)
+RSS: New posts
 
 Summary:
 

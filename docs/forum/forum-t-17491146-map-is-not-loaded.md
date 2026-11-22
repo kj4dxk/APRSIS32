@@ -4,8 +4,6 @@ title: "Map is not loaded"
 
 # Map is not loaded
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-17491146/map-is-not-loaded) · [Archived HTML](../archive/pages/forum_t-17491146_map-is-not-loaded--9b73363768ee.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Map is not loaded
@@ -14,7 +12,7 @@ Started by: [![kq4vya](../archive/assets/avatar--e4edad9643d0.php)](https://www.
 Date: 15 Dec 2025 23:56  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-17491146.xml)
+RSS: New posts
 
 Summary:
 

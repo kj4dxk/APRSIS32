@@ -4,8 +4,6 @@ title: "KJ4ERJ Story"
 
 # KJ4ERJ Story
 
-[Source wiki page](https://aprsisce.wikidot.com/kj4erj-story) · [Archived HTML](../archive/pages/kj4erj-story--4109d9bdeb63.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 The KJ4ERJ / APRSISCE/32 story  
 by Lynn Deffenbaugh - KJ4ERJ
 

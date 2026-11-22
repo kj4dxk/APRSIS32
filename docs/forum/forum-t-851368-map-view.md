@@ -4,8 +4,6 @@ title: "Map View"
 
 # Map View
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-851368/map-view) · [Archived HTML](../archive/pages/forum_t-851368_map-view--d565e1ca813c.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Map View
@@ -14,7 +12,7 @@ Started by: [![Jomacot](../archive/assets/avatar--6f0ab0679260.php)](https://www
 Date: 25 Apr 2014 09:02  
 Number of posts: 4  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-851368.xml)
+RSS: New posts
 
 Unfold All
 Fold All

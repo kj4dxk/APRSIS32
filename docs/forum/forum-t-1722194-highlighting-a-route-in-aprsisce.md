@@ -4,8 +4,6 @@ title: "highlighting a route in APRSISCE"
 
 # highlighting a route in APRSISCE
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-1722194/highlighting-a-route-in-aprsisce) · [Archived HTML](../archive/pages/forum_t-1722194_highlighting-a-route-in-aprsisce--b7cf59f09e48.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » highlighting a route in APRSISCE
@@ -14,7 +12,7 @@ Started by: [![frankcor](../archive/assets/avatar--2e0df72d0bc2.php)](https://ww
 Date: 29 May 2016 11:58  
 Number of posts: 4  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-1722194.xml)
+RSS: New posts
 
 Summary:
 

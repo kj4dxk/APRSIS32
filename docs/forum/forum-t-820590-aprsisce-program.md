@@ -4,8 +4,6 @@ title: "APRSISCE Program"
 
 # APRSISCE Program
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-820590/aprsisce-program) · [Archived HTML](../archive/pages/forum_t-820590_aprsisce-program--9daceb39157b.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » APRSISCE Program
@@ -14,7 +12,7 @@ Started by: [![n5ysq](../archive/assets/avatar--79a53769325b.php)](https://www.w
 Date: 16 Mar 2014 16:38  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-820590.xml)
+RSS: New posts
 
 Summary:
 

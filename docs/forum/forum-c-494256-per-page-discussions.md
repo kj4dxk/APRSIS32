@@ -4,8 +4,6 @@ title: "Per page discussions"
 
 # Per page discussions
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/c-494256/per-page-discussions) · [Archived HTML](../archive/pages/forum_c-494256_per-page-discussions--34c30b57b45b.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 »
 WIKI per page discussion /
@@ -14,7 +12,7 @@ Per page discussions
 Number of threads: 63  
 Number of posts: 29  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New threads](https://aprsisce.wikidot.com/feed/forum/ct-494256.xml) | [New posts](https://aprsisce.wikidot.com/feed/forum/cp-494256.xml)
+RSS: New threads | New posts
 
 This category holds per-page comment threads
 
@@ -22,9 +20,9 @@ Order by:
 
 **Last post date**
 
-[Thread starting date](https://aprsisce.wikidot.com/forum/c-494256/sort/start)
+Thread starting date
 
-[Create a new thread](https://aprsisce.wikidot.com/forum:new-thread/c/494256)
+Create a new thread
 
 page 1 of 41[2](forum-c-494256-p-2.md)[3](forum-c-494256-p-3.md)[4](forum-c-494256-p-4.md)[next »](forum-c-494256-p-2.md)
 

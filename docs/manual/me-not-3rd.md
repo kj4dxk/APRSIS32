@@ -4,8 +4,6 @@ title: "Me Not 3rd"
 
 # Me Not 3rd
 
-[Source wiki page](https://aprsisce.wikidot.com/me-not-3rd) · [Archived HTML](../archive/pages/me-not-3rd--75af7f70a31d.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 Me not 3rd is a rather cryptic term that is described as below:
 
 To understand what this does, you have to understand how messages are gated from -IS to RF via "third party" packets. Basically, an Igate takes an entire APRS message packet from the -IS, puts it in the payload of a new packet with the header specifying the Igate itself. This is because the IGate owner (represented by the callsign) is responsible for all transmitted content. A 3rd party packet would look like:

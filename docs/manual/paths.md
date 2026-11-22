@@ -4,12 +4,6 @@ title: "Paths"
 
 # Paths
 
-[Source wiki page](https://aprsisce.wikidot.com/paths) · [Archived HTML](../archive/pages/paths--432bf968fda9.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
-|  |
-| --- |
-|  |
-
 Paths allows one to visualize the path that packets being handled by the RF network.
 
 ![Paths.png](../archive/assets/local--files_paths_Paths--0e1b40e4c28e.png)

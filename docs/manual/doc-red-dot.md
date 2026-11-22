@@ -4,16 +4,30 @@ title: "Red Dot"
 
 # Red Dot
 
-[Source wiki page](https://aprsisce.wikidot.com/doc:red-dot) · [Archived HTML](../archive/pages/doc_red-dot--3b68f1595df4.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
+I was in an APRS QSO with M6XSD-1 this morning (2/12/2010) and was asked what the "red dot" is that "appears sometimes". That was such a good question that I figured I'd answer it here (and make it the first Wiki page!).
 
-|  |
-| --- |
-| **Red Dot** |
+Short Answer: The red dot is a visual indicator of the GeniusBeaconing™'s Forecast Error.
 
-|  |
-| --- |
-| I was in an APRS QSO with M6XSD-1 this morning (2/12/2010) and was asked what the "red dot" is that "appears sometimes". That was such a good question that I figured I'd answer it here (and make it the first Wiki page!). Short Answer: The red dot is a visual indicator of the GeniusBeaconing™'s Forecast Error.  Long Answer:  GeniusBeaconing™'s Forecast Error works by calculating where an outside observer would think you are based on your last beaconed speed and heading. It takes that last information and extends it by the time it has been since your last beacon to arrive at an expected lat/lon. This is compared to your actual lat/lon (which, of course, only you know at this point) to derive an error vector (distance and direction). The red dot is plotted inside the circle in that direction and scaled such that the circle is the configured Genius Forecast Error distance.  When the red dot hits the circle, the configured Forecast Error distance has been reached and a new beacon is sent (provided that at least the Min Time has been reached).  So, if you're driving along in a straight line at a steady speed, you won't see the red dot. (It's actually bouncing around a bit underneath your icon in the center of the circle).  If you slow down, that outside observer will still think you're driving fast and will have you further ahead of where you are and the red dot will start moving towards the top of the screen. If you then resume your original speed, the red dot will freeze at that distance ahead. If you go faster than your last beaconed speed the red dot will drift back to the center and will then start falling towards the bottom of the screen as your actual location gets ahead of where the elapsed-time forecast would place you.  Slight heading changes are even more fun. If you turn to the left (by less than the configured Heading Change or that will trigger a new beacon), the red dot will begin drifting to the right. Veer right and it will drift to the left. Resume straight line motion in the new heading and the dot will continue to drift as your actual location continues to get further away from the course indicated by the previously beaconed speed and heading.  Lynn (D) - KJ4ERJ - Author of APRSISCE for Windows Mobile and Win32  PS. If you think that was complicated, try learning how a missile guidance system works: <http://tinyurl.com/Guidance-mp3>  And an alternate description from James VE6SRV:  Sit down on the couch <snip>… we're going to get into some tricky math…  Think of forecast error like this. You're driving at 60 mph due north. You're set up to send a position report every mile, so once a minute you'll be making noise. Now, jam on the brakes and come to a stop. When's your next position report going to happen? You're no longer zooming along at 60 mph, so it's not going to happen 1 mile down the road from your last report. However, the program is forecasting your location due to the last reported speed and direction. Once that prediction forecast exceeds the threshold, the program will fire off a position report to let people know that you have stopped. The prediction threshold is adjustable in the settings.  Same thing goes for making corners, etc… once the predicted location based on the last reported course and speed gets too far from reality, a new position report gets fired off. Turn on the meatball and the circle on the map display, and watch what happens! Once the meatball rolls off your plate, a new position report is fired off. |
+Long Answer:
 
-|  |
-| --- |
-|  |
+GeniusBeaconing™'s Forecast Error works by calculating where an outside observer would think you are based on your last beaconed speed and heading. It takes that last information and extends it by the time it has been since your last beacon to arrive at an expected lat/lon. This is compared to your actual lat/lon (which, of course, only you know at this point) to derive an error vector (distance and direction). The red dot is plotted inside the circle in that direction and scaled such that the circle is the configured Genius Forecast Error distance.
+
+When the red dot hits the circle, the configured Forecast Error distance has been reached and a new beacon is sent (provided that at least the Min Time has been reached).
+
+So, if you're driving along in a straight line at a steady speed, you won't see the red dot. (It's actually bouncing around a bit underneath your icon in the center of the circle).
+
+If you slow down, that outside observer will still think you're driving fast and will have you further ahead of where you are and the red dot will start moving towards the top of the screen. If you then resume your original speed, the red dot will freeze at that distance ahead. If you go faster than your last beaconed speed the red dot will drift back to the center and will then start falling towards the bottom of the screen as your actual location gets ahead of where the elapsed-time forecast would place you.
+
+Slight heading changes are even more fun. If you turn to the left (by less than the configured Heading Change or that will trigger a new beacon), the red dot will begin drifting to the right. Veer right and it will drift to the left. Resume straight line motion in the new heading and the dot will continue to drift as your actual location continues to get further away from the course indicated by the previously beaconed speed and heading.
+
+Lynn (D) - KJ4ERJ - Author of APRSISCE for Windows Mobile and Win32
+
+PS. If you think that was complicated, try learning how a missile guidance system works: <http://tinyurl.com/Guidance-mp3>
+
+And an alternate description from James VE6SRV:
+
+Sit down on the couch <snip>… we're going to get into some tricky math…
+
+Think of forecast error like this. You're driving at 60 mph due north. You're set up to send a position report every mile, so once a minute you'll be making noise. Now, jam on the brakes and come to a stop. When's your next position report going to happen? You're no longer zooming along at 60 mph, so it's not going to happen 1 mile down the road from your last report. However, the program is forecasting your location due to the last reported speed and direction. Once that prediction forecast exceeds the threshold, the program will fire off a position report to let people know that you have stopped. The prediction threshold is adjustable in the settings.
+
+Same thing goes for making corners, etc… once the predicted location based on the last reported course and speed gets too far from reality, a new position report gets fired off. Turn on the meatball and the circle on the map display, and watch what happens! Once the meatball rolls off your plate, a new position report is fired off.

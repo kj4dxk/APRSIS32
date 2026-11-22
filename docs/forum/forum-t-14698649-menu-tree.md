@@ -4,8 +4,6 @@ title: "Menu:Tree / Discussion"
 
 # Menu:Tree / Discussion
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-14698649/menu:tree) · [Archived HTML](../archive/pages/forum_t-14698649_menu_tree--0854cdb00d86.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [WIKI per page discussion / Per page discussions](forum-c-494256-per-page-discussions.md)
 » Menu:Tree
@@ -14,7 +12,7 @@ Started by: Wikidot
 Date: 12 May 2022 19:26  
 Number of posts: 0  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-14698649.xml)
+RSS: New posts
 
 This is the discussion related to the wiki page [Menu:Tree](../manual/menu-tree.md).
 

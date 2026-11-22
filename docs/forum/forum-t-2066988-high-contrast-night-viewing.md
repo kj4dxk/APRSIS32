@@ -4,8 +4,6 @@ title: "High Contrast/Night Viewing"
 
 # High Contrast/Night Viewing
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-2066988/high-contrast-night-viewing) · [Archived HTML](../archive/pages/forum_t-2066988_high-contrast-night-viewing--0f6326808971.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / Feature Requests](forum-c-312348-feature-requests.md)
 » High Contrast/Night Viewing
@@ -14,7 +12,7 @@ Started by: [![TchGimmick](../archive/assets/avatar--c0142ee4b3e8.php)](https://
 Date: 21 Jan 2017 04:57  
 Number of posts: 3  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-2066988.xml)
+RSS: New posts
 
 Summary:
 

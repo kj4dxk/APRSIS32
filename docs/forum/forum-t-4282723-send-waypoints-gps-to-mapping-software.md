@@ -4,8 +4,6 @@ title: "Send Waypoints & GPS to Mapping Software"
 
 # Send Waypoints & GPS to Mapping Software
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-4282723/send-waypoints-gps-to-mapping-software) · [Archived HTML](../archive/pages/forum_t-4282723_send-waypoints-gps-to-mapping-software--51bac795a0a7.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / Feature Requests](forum-c-312348-feature-requests.md)
 » Send Waypoints & GPS to Mapping Software
@@ -14,7 +12,7 @@ Started by: [![TchGimmick](../archive/assets/avatar--c0142ee4b3e8.php)](https://
 Date: 15 Nov 2017 05:36  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-4282723.xml)
+RSS: New posts
 
 Summary:
 

@@ -4,8 +4,6 @@ title: "IS to RF not working"
 
 # IS to RF not working
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-12464944/is-to-rf-not-working) · [Archived HTML](../archive/pages/forum_t-12464944_is-to-rf-not-working--f075ce4345ff.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » IS to RF not working
@@ -14,7 +12,7 @@ Started by: [![KD1ELK](../archive/assets/avatar--edac12f73601.php)](https://www.
 Date: 03 Sep 2019 15:58  
 Number of posts: 4  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-12464944.xml)
+RSS: New posts
 
 Unfold All
 Fold All
@@ -78,7 +76,7 @@ Re: IS to RF not working
 
 Please double-check what options you have enabled on your APRS-IS and RF ports. I suspect you at least do not have messages enabled on the APRS-IS port because I didn't get any response to my status queries to your KD1ELK-10 station, which I assume is your intended IGate?
 
-Have you confirmed that APRSISCE/32 can actually transmit on your RF? If it won't transmit, then the -IS to RF gating will obviously not work. You might want to check [http://aprsisce.wikidot.com/doc:transmitting](../manual/doc-transmitting.md)
+Have you confirmed that APRSISCE/32 can actually transmit on your RF? If it won't transmit, then the -IS to RF gating will obviously not work. You might want to check [Related manual page](../manual/doc-transmitting.md)
 
 Lynn (D) - KJ4ERJ
 

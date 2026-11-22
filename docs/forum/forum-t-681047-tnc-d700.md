@@ -4,8 +4,6 @@ title: "tnc-d700 / Discussion"
 
 # tnc-d700 / Discussion
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-681047/tnc-d700) · [Archived HTML](../archive/pages/forum_t-681047_tnc-d700--1f85dfdcebe6.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [WIKI per page discussion / Per page discussions](forum-c-494256-per-page-discussions.md)
 » tnc-d700
@@ -14,7 +12,7 @@ Started by: Wikidot
 Date: 10 Aug 2013 02:39  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-681047.xml)
+RSS: New posts
 
 This is the discussion related to the wiki page [tnc-d700](../manual/tnc-d700.md).
 

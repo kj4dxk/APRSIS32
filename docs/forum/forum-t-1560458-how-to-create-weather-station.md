@@ -4,8 +4,6 @@ title: "How to create weather station"
 
 # How to create weather station
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-1560458/how-to-create-weather-station) · [Archived HTML](../archive/pages/forum_t-1560458_how-to-create-weather-station--81b9f6ab7dc7.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » How to create weather station
@@ -14,7 +12,7 @@ Started by: [![Randy Buxton](../archive/assets/avatar--40d34a2c1cb8.php)](https:
 Date: 18 Jan 2016 19:49  
 Number of posts: 4  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-1560458.xml)
+RSS: New posts
 
 Unfold All
 Fold All

@@ -4,8 +4,6 @@ title: "Help Kenwood D710G not working with PG-5H cable"
 
 # Help Kenwood D710G not working with PG-5H cable
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-6191869/help-kenwood-d710g-not-working-with-pg-5h-cable) · [Archived HTML](../archive/pages/forum_t-6191869_help-kenwood-d710g-not-working-with-pg-5h-cable--e898cd50030c.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Help Kenwood D710G not working with PG-5H cable
@@ -14,7 +12,7 @@ Started by: [![ Bruce roaf](../archive/assets/avatar--9e6e30748629.php)](https:/
 Date: 19 Jun 2018 14:37  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-6191869.xml)
+RSS: New posts
 
 Unfold All
 Fold All

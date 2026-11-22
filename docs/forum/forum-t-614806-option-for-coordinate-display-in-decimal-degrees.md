@@ -4,8 +4,6 @@ title: "Option for coordinate display in Decimal Degrees"
 
 # Option for coordinate display in Decimal Degrees
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-614806/option-for-coordinate-display-in-decimal-degrees) · [Archived HTML](../archive/pages/forum_t-614806_option-for-coordinate-display-in-decimal-degrees--93e8db53b8b5.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / Feature Requests](forum-c-312348-feature-requests.md)
 » Option for coordinate display in Decimal Degrees
@@ -14,7 +12,7 @@ Started by: [![APRS-Jeff](../archive/assets/avatar--ec5b2bb153c2.php)](https://w
 Date: 12 Jan 2013 17:24  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-614806.xml)
+RSS: New posts
 
 Unfold All
 Fold All

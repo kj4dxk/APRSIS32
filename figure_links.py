@@ -39,3 +39,10 @@ def on_page_markdown(markdown, *, page, files, **kwargs):
 
     return TABLE_OR_LINK.sub(convert, markdown)
 
+
+# Markdown tables without a source header can acquire an empty header row.
+EMPTY_TABLE_HEADER = re.compile(r"<thead>\s*<tr>\s*(?:<th[^>]*>\s*</th>\s*)+</tr>\s*</thead>")
+
+
+def on_page_content(html, **kwargs):
+    return EMPTY_TABLE_HEADER.sub("", html)

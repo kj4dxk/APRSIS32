@@ -4,8 +4,6 @@ title: "Frustrating!"
 
 # Frustrating!
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-16984226/frustrating) · [Archived HTML](../archive/pages/forum_t-16984226_frustrating--7edfa5f94f10.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Frustrating!
@@ -14,7 +12,7 @@ Started by: [![Lyle Baker](../archive/assets/avatar--49d98ececa2b.php)](https://
 Date: 09 Nov 2024 15:16  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-16984226.xml)
+RSS: New posts
 
 Summary:
 

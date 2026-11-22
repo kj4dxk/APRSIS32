@@ -4,8 +4,6 @@ title: "New Port possibilites"
 
 # New Port possibilites
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-403205/new-port-possibilites) · [Archived HTML](../archive/pages/forum_t-403205_new-port-possibilites--72336a6a11bf.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / Feature Requests](forum-c-312348-feature-requests.md)
 » New Port possibilites
@@ -14,7 +12,7 @@ Started by: [![KB8UIH](../archive/assets/avatar--edb4f473b5d2.php)](https://www.
 Date: 22 Oct 2011 16:16  
 Number of posts: 5  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-403205.xml)
+RSS: New posts
 
 Summary:
 

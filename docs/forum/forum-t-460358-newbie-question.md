@@ -4,8 +4,6 @@ title: "Newbie question"
 
 # Newbie question
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-460358/newbie-question) · [Archived HTML](../archive/pages/forum_t-460358_newbie-question--55e265703f4f.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Newbie question
@@ -14,7 +12,7 @@ Started by: [![chuckworkb](../archive/assets/avatar--4b60713f5082.php)](https://
 Date: 10 Apr 2012 23:21  
 Number of posts: 7  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-460358.xml)
+RSS: New posts
 
 Summary:
 
@@ -78,7 +76,7 @@ Re: Newbie question
 
 <span id="post-content-1414021"></span>
 
-See <http://aprsisce.wikidot.com/doc:password> for a description of the password. You can only get one if you're a licensed amateur radio operator and only need one if you want to use APRS messaging or have your position transmitted throughout the APRS-IS network to be visible to other stations.
+See APRSISCE/32 documentation for a description of the password. You can only get one if you're a licensed amateur radio operator and only need one if you want to use APRS messaging or have your position transmitted throughout the APRS-IS network to be visible to other stations.
 
 The Configure / General / Range value (in 1/10 miles) sets the range around your set location from within which stations will be visible. Panning and zooming change what portion you see, but the Range value sets how much data will be coming in.
 

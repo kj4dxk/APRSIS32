@@ -4,8 +4,6 @@ title: "Kenwood Dx Cluster"
 
 # Kenwood Dx Cluster
 
-[Source wiki page](https://aprsisce.wikidot.com/kenwood-dx-cluster) · [Archived HTML](../archive/pages/kenwood-dx-cluster--4bb05e037186.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 The Kenwood APRS line of radios have the ability to decode standard DX Cluster reports which are sent via packet radio. DX Clusters are normally used to share HF band openings through the local community. HF enthusiasts can set up their Kenwood VHF radio, and tune into the local DX Cluster. When stations that are spotted by other users are entered into the local DX Cluster software, DX Spot announcements are sent out from the DX Cluster using Spot announcements using a very specific format. The Kenwood radios upon hearing those packets will beep and display the DX announcement on screen. Up to the last 10 DX Spots are saved in volatile memory, and can be scrolled through to review. With the appropriate cabling, a DX Spot can be sent selected, and tuning commands issued to an attached HF radio, switching bands and frequencies to match the selected DX Spot.
 
 URCALL>RESORC:DX de YOURCALL.>11111111112222222222**\*33333333334444444444**\*55555  

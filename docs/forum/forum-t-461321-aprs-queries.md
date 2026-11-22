@@ -4,8 +4,6 @@ title: "APRS Queries / Discussion"
 
 # APRS Queries / Discussion
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-461321/aprs-queries) · [Archived HTML](../archive/pages/forum_t-461321_aprs-queries--974db3ffa73b.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [WIKI per page discussion / Per page discussions](forum-c-494256-per-page-discussions.md)
 » APRS Queries
@@ -14,7 +12,7 @@ Started by: Wikidot
 Date: 14 Apr 2012 20:23  
 Number of posts: 0  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-461321.xml)
+RSS: New posts
 
 This is the discussion related to the wiki page [APRS Queries](../manual/doc-queries.md).
 

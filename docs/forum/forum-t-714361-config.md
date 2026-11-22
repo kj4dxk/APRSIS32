@@ -4,8 +4,6 @@ title: "Config"
 
 # Config
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-714361/config) · [Archived HTML](../archive/pages/forum_t-714361_config--dad6add29618.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Config
@@ -14,7 +12,7 @@ Started by: [![Selwyn Staples](../archive/assets/avatar--16af28ef69b3.php)](http
 Date: 25 Oct 2013 08:34  
 Number of posts: 11  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-714361.xml)
+RSS: New posts
 
 Summary:
 
@@ -83,9 +81,9 @@ Re: Config
 
 1) Click on ME and select "Configure Nickname". Set the Label to whatever you'd like displayed and make sure Enabled is checked. The label is allowed to be your station's callsign-SSID, but for backward compatibility with the original documentation, ME will force itself as the label unless you enable your own specifically configured nickname. (Note: Just changing the label without enabling the nickname will have no effect)
 
-2) See <http://www.xastir.org/wiki/Search_and_Rescue,_%28SAR%29#Tactical_Callsigns> The SARTrack APRS client has recently implemented this specification, but instead of making it an on-demand transmission as it is in xastir, it is done repeatedly on a timer (see <http://aprs.fi/?c=message&call=TACTICAL&limit=50>). The lastest development version of APRSISCE/32 (see [http://aprsisce.wikidot.com/doc:development-version](../manual/doc-development-version.md)) provides a "Never" option to ignore all future TACTICAL assignments from a given source. It seems that many of the SARTrack users are unaware of the reach of their TACTICAL assigments based on the non-uniqueness and redundancy that many of them are configuring.
+2) See <http://www.xastir.org/wiki/Search_and_Rescue,_%28SAR%29#Tactical_Callsigns> The SARTrack APRS client has recently implemented this specification, but instead of making it an on-demand transmission as it is in xastir, it is done repeatedly on a timer (see <http://aprs.fi/?c=message&call=TACTICAL&limit=50>). The lastest development version of APRSISCE/32 (see [Related manual page](../manual/doc-development-version.md)) provides a "Never" option to ignore all future TACTICAL assignments from a given source. It seems that many of the SARTrack users are unaware of the reach of their TACTICAL assigments based on the non-uniqueness and redundancy that many of them are configuring.
 
-3) Not at this time. The internal message retries are fixed as described at [http://aprsisce.wikidot.com/message-retries](../manual/message-retries.md) including the second retry set. Five retries is better that some other APRS clients that remember non-acked messages persistently and continue to retry them on every restart for months (or years). If there is a particular message you want to terminate before receiving an ack, do Messages / Pending Messages, select the message from the menu and hit Cancel.
+3) Not at this time. The internal message retries are fixed as described at [Related manual page](../manual/message-retries.md) including the second retry set. Five retries is better that some other APRS clients that remember non-acked messages persistently and continue to retry them on every restart for months (or years). If there is a particular message you want to terminate before receiving an ack, do Messages / Pending Messages, select the message from the menu and hit Cancel.
 
 Lynn (D) - KJ4ERJ - Author of APRSISCE for Windows Mobile and Win32
 

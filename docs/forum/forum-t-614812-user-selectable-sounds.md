@@ -4,8 +4,6 @@ title: "User Selectable Sounds"
 
 # User Selectable Sounds
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-614812/user-selectable-sounds) · [Archived HTML](../archive/pages/forum_t-614812_user-selectable-sounds--0bd40dc2fe2c.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / Feature Requests](forum-c-312348-feature-requests.md)
 » User Selectable Sounds
@@ -14,7 +12,7 @@ Started by: [![APRS-Jeff](../archive/assets/avatar--ec5b2bb153c2.php)](https://w
 Date: 12 Jan 2013 17:41  
 Number of posts: 3  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-614812.xml)
+RSS: New posts
 
 Unfold All
 Fold All

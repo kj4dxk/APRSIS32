@@ -15,13 +15,11 @@ APRSISCE/32 is an Automatic Packet Reporting System (APRS) client for Windows an
 
 - [Forum archive](forum/index.md)
 - [Wiki indexes and embeds](reference/index.md)
-- [Original layout and figures](archive/index.html)
-- [Resources that were unavailable during the download](archive/unavailable.txt)
 
 ## Attribution
 
-The original material is credited to the [APRSISCE/32 wiki contributors](https://aprsisce.wikidot.com/).
-Each converted page links to its original and the archived HTML. The source wiki identifies its content as
+This manual is adapted from material written by the APRSISCE/32 community wiki contributors.
+The source wiki identifies its content as
 [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) unless otherwise stated.
 The adaptation applies that same license to the converted wiki content where the original license applies.
 Linked software, attachments, and third-party material retain their respective terms.

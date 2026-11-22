@@ -4,8 +4,6 @@ title: "Map Display"
 
 # Map Display
 
-[Source wiki page](https://aprsisce.wikidot.com/map-display) · [Archived HTML](../archive/pages/map-display--a116db0bc309.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 Main display portion of the screen contains the map display. APRSISCE/32 uses raster map tiles from the [Open Street Map Foundation](http://www.openstreetmap.org/) as the default background map. These maps are built out of raster tiles that are 256 pixels by 256 pixels in size. The tiles required to draw the map are downloaded from the tile server, and stored locally on the storage medium. Tiles are stored locally for a period which is determined by the purge time. This allows the program to not have to download new tiles each time the map is drawn on screen.
 
 Alternate map styles can be configured under the Configure / Map / Tile Sets menu. (See [Tile Sets](tile-sets.md))

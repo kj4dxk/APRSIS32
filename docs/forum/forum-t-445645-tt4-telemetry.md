@@ -4,8 +4,6 @@ title: "TT4 Telemetry / Discussion"
 
 # TT4 Telemetry / Discussion
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-445645/tt4-telemetry) · [Archived HTML](../archive/pages/forum_t-445645_tt4-telemetry--1740a273bb0d.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [WIKI per page discussion / Per page discussions](forum-c-494256-per-page-discussions.md)
 » TT4 Telemetry
@@ -14,7 +12,7 @@ Started by: Wikidot
 Date: 27 Feb 2012 02:39  
 Number of posts: 0  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-445645.xml)
+RSS: New posts
 
 This is the discussion related to the wiki page [TT4 Telemetry](../manual/tt4-telemetry.md).
 

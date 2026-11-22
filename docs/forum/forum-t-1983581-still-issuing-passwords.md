@@ -4,8 +4,6 @@ title: "Still issuing passwords?"
 
 # Still issuing passwords?
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-1983581/still-issuing-passwords) · [Archived HTML](../archive/pages/forum_t-1983581_still-issuing-passwords--a1e0e81a15eb.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Still issuing passwords?
@@ -14,7 +12,7 @@ Started by: [![Randy K1ROR](../archive/assets/avatar--39fbf231a43b.php)](https:/
 Date: 08 Nov 2016 07:47  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-1983581.xml)
+RSS: New posts
 
 Unfold All
 Fold All

@@ -4,8 +4,6 @@ title: "UIFLOOD Hardware Testing"
 
 # UIFLOOD Hardware Testing
 
-[Source wiki page](https://aprsisce.wikidot.com/uiflood-hardware-testing) · [Archived HTML](../archive/pages/uiflood-hardware-testing--efed9d74ec2e.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 The Kenwood D700 and it's brethern are described as the preferred hardware for use in the [Golden Packet Event](http://www.aprs.org/at-golden-packet.html), an event that sees up to 15 APRS digipeaters operating from mountain tops along the Appalachian Trail on the east coast of the USA. This event creates an RF only long haul linear digipeater chain, and using a clear VHF frequency attempts to pass an RF packet along the full 15 digipeater hop chain.
 
 This type of long distance multi-hop RF type of operation is normally frowned upon on the regular APRS network due to the extreme loading that it puts on the APRS network. This special event operating on a clear VHF frequency with only very specific stations involved however makes an attempt to exploit the very operating circumstances that are detrimental to normal day-to-day APRS network operations.

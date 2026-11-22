@@ -4,8 +4,6 @@ title: "RF side not working"
 
 # RF side not working
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-1065415/rf-side-not-working) · [Archived HTML](../archive/pages/forum_t-1065415_rf-side-not-working--b23bbc32faa7.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » RF side not working
@@ -14,7 +12,7 @@ Started by: [![patal7l](../archive/assets/avatar--af799bbbac6c.php)](https://www
 Date: 17 Dec 2014 02:31  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-1065415.xml)
+RSS: New posts
 
 Summary:
 

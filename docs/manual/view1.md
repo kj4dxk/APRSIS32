@@ -4,8 +4,6 @@ title: "View1"
 
 # View1
 
-[Source wiki page](https://aprsisce.wikidot.com/view1) · [Archived HTML](../archive/pages/view1--64f41f8eed52.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 The View Menu allows various filters on what stations will actually be displayed on the map. View settings are not retained across restarts but will revert back to ALL to avoid wondering why you don't see any stations when you return to APRSISCE/32 after having been away for a few days.
 
 **ALL**  

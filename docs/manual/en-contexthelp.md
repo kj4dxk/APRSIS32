@@ -4,8 +4,6 @@ title: "EN_ContextHelp"
 
 # EN_ContextHelp
 
-[Source wiki page](https://aprsisce.wikidot.com/en-contexthelp) · [Archived HTML](../archive/pages/en-contexthelp--7d6a13974073.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Transmit](#Transmit)  
 [Enables](#Enables)  
 [Enables\_APRS-IS](#Enables_APRS-IS)  

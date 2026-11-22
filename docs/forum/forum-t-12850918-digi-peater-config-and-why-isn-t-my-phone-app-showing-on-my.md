@@ -4,8 +4,6 @@ title: "Digi peater config. And why isn't my phone app showing on my computer rf
 
 # Digi peater config. And why isn't my phone app showing on my computer rf
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-12850918/digi-peater-config-and-why-isn-t-my-phone-app-showing-on-my) · [Archived HTML](../archive/pages/forum_t-12850918_digi-peater-config-and-why-isn-t-my-phone-app-showing-on-my--50c22b42e1b5.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Digi peater config. And why isn't my phone app showing on my computer rf
@@ -14,7 +12,7 @@ Started by: [![K7OI](../archive/assets/avatar--b24ed1fcccb6.php)](https://www.wi
 Date: 11 Dec 2019 03:26  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-12850918.xml)
+RSS: New posts
 
 Summary:
 

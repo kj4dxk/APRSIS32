@@ -4,8 +4,6 @@ title: "listpage"
 
 # listpage
 
-[Source wiki page](https://aprsisce.wikidot.com/listpage/p/1) · [Archived HTML](../archive/pages/listpage_p_1--3b3e1748cce7.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [TH-D74/D75](../manual/th-d74-d75.md) - [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) - 09 Feb 2024 03:09 - updated by [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) 09 Feb 2024 03:09  
 [Advice To Amateur Programmers](../manual/advice-to-amateur-programmers.md) - [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) - 29 Nov 2021 13:59 - updated by [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) 29 Nov 2021 14:00  
 [Kenwood TH-D74](../manual/thd74.md) - [VE6SRV](https://www.wikidot.com/user:info/ve6srv) - 25 Aug 2020 20:13 - updated by [VE6SRV](https://www.wikidot.com/user:info/ve6srv) 29 Aug 2020 19:19  

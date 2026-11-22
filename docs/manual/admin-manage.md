@@ -4,8 +4,6 @@ title: "APRSISCE/32 The future of Amateur Radio APRS"
 
 # APRSISCE/32 The future of Amateur Radio APRS
 
-[Source wiki page](https://aprsisce.wikidot.com/admin:manage) · [Archived HTML](../archive/pages/admin_manage--34a14d3e3742.html)
-
 <span id="page-top"></span>
 <span id="header"></span>
 

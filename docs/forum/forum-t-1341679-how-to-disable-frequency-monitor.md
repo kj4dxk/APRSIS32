@@ -4,8 +4,6 @@ title: "How to disable Frequency Monitor"
 
 # How to disable Frequency Monitor
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-1341679/how-to-disable-frequency-monitor) · [Archived HTML](../archive/pages/forum_t-1341679_how-to-disable-frequency-monitor--aa26a4d71760.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » How to disable Frequency Monitor
@@ -14,7 +12,7 @@ Started by: [![OZ7OU](../archive/assets/avatar--9a5f6f14f9a3.php)](https://www.w
 Date: 30 Aug 2015 11:43  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-1341679.xml)
+RSS: New posts
 
 Summary:
 

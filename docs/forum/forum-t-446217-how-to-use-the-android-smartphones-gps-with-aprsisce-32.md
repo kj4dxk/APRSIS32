@@ -4,8 +4,6 @@ title: "How to use the Android Smartphones GPS With APRSISCE/32 / Discussion"
 
 # How to use the Android Smartphones GPS With APRSISCE/32 / Discussion
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-446217/how-to-use-the-android-smartphones-gps-with-aprsisce-32) · [Archived HTML](../archive/pages/forum_t-446217_how-to-use-the-android-smartphones-gps-with-aprsisce-32--64606a32514f.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [WIKI per page discussion / Per page discussions](forum-c-494256-per-page-discussions.md)
 » How to use the Android Smartphones GPS With APRSISCE/32
@@ -14,7 +12,7 @@ Started by: Wikidot
 Date: 28 Feb 2012 23:23  
 Number of posts: 0  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-446217.xml)
+RSS: New posts
 
 This is the discussion related to the wiki page [How to use the Android Smartphones GPS With APRSISCE/32](../manual/doc-android.md).
 

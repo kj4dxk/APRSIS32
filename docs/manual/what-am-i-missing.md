@@ -4,8 +4,6 @@ title: "What Am I Missing?"
 
 # What Am I Missing?
 
-[Source wiki page](https://aprsisce.wikidot.com/what-am-i-missing) · [Archived HTML](../archive/pages/what-am-i-missing--b5cc80d77ac0.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 I've got an event coming up this weekend and I want to use APRS. I've downloaded the software, hooked up the hardware, but it doesn't work. What am I missing?
 
 You are missing about 3 weeks of time that you will probably need in order to get your head wrapped around all of the things you need to get in place to make it all work.

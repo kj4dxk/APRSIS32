@@ -4,8 +4,6 @@ title: "Block list"
 
 # Block list
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-423153/block-list) · [Archived HTML](../archive/pages/forum_t-423153_block-list--3505ac86ee91.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / Feature Requests](forum-c-312348-feature-requests.md)
 » Block list
@@ -14,7 +12,7 @@ Started by: [![n9mxq](../archive/assets/avatar--6de916e049a9.php)](https://www.w
 Date: 24 Dec 2011 15:14  
 Number of posts: 5  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-423153.xml)
+RSS: New posts
 
 Summary:
 

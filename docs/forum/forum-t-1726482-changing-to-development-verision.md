@@ -4,8 +4,6 @@ title: "CHanging to Development Verision"
 
 # CHanging to Development Verision
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-1726482/changing-to-development-verision) · [Archived HTML](../archive/pages/forum_t-1726482_changing-to-development-verision--f266218f1707.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / Feature Requests](forum-c-312348-feature-requests.md)
 » CHanging to Development Verision
@@ -14,7 +12,7 @@ Started by: [![KG7SPS](../archive/assets/avatar--a38eb4f46e07.php)](https://www.
 Date: 04 Jun 2016 07:39  
 Number of posts: 4  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-1726482.xml)
+RSS: New posts
 
 Unfold All
 Fold All

@@ -4,8 +4,6 @@ title: "Advice To Amateur Programmers"
 
 # Advice To Amateur Programmers
 
-[Source wiki page](https://aprsisce.wikidot.com/advice-to-amateur-programmers) · [Archived HTML](../archive/pages/advice-to-amateur-programmers--5c6884d17495.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 The article below was copied from <https://www.amateurradio.com/advice-to-amateur-programmers/> and is placed here to ensure access if their site goes down.
 
 Advice to amateur programmers | 1 October 2010 | by Julian G4ILO

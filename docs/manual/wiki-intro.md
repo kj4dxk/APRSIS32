@@ -4,8 +4,6 @@ title: "Wiki Intro"
 
 # Wiki Intro
 
-[Source wiki page](https://aprsisce.wikidot.com/wiki-intro) · [Archived HTML](../archive/pages/wiki-intro--e5fca0c47b23.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 <span id="toc0"></span>
 
 ## If this is your first site

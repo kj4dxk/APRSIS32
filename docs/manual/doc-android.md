@@ -4,8 +4,6 @@ title: "How to use the Android Smartphones GPS With APRSISCE/32"
 
 # How to use the Android Smartphones GPS With APRSISCE/32
 
-[Source wiki page](https://aprsisce.wikidot.com/doc:android) · [Archived HTML](../archive/pages/doc_android--b44af355f0a2.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 <span id="toc0"></span>
 
 # **NOTE: APRSISCE/32 DOES NOT RUN ON ANDROID!**

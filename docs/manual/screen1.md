@@ -4,8 +4,6 @@ title: "Screen1"
 
 # Screen1
 
-[Source wiki page](https://aprsisce.wikidot.com/screen1) · [Archived HTML](../archive/pages/screen1--fd1093d5a62d.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 The Screen menu provides access to the more-frequently changed screen and display features of APRSISCE/32. See also [Configure](menu-configure.md) / Screen for additional features.
 
 **Dead Reckoning**  

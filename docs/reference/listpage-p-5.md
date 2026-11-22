@@ -4,8 +4,6 @@ title: "listpage"
 
 # listpage
 
-[Source wiki page](https://aprsisce.wikidot.com/listpage/p/5) · [Archived HTML](../archive/pages/listpage_p_5--fe6c97173c8c.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Tile Sets](../manual/tile-sets.md) - [VE6SRV](https://www.wikidot.com/user:info/ve6srv) - 30 Apr 2011 18:45 - updated by [N7FMH](https://www.wikidot.com/user:info/n7fmh) 06 Mar 2014 17:52  
 [tempmain](../manual/tempmain.md) - [VE6SRV](https://www.wikidot.com/user:info/ve6srv) - 24 Apr 2011 18:57 - updated by [VE6SRV](https://www.wikidot.com/user:info/ve6srv) 24 Apr 2011 18:57  
 [Menus](../manual/menus.md) - [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) - 21 Apr 2011 00:12 - updated by [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) 29 Aug 2012 14:22  

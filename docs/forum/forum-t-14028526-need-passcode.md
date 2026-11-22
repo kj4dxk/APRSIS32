@@ -4,8 +4,6 @@ title: "Need Passcode"
 
 # Need Passcode
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-14028526/need-passcode) · [Archived HTML](../archive/pages/forum_t-14028526_need-passcode--55aa08c5276e.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Need Passcode
@@ -14,7 +12,7 @@ Started by: [![AJ4WC](../archive/assets/avatar--4bd0115af6d3.php)](https://www.w
 Date: 14 Mar 2021 20:28  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-14028526.xml)
+RSS: New posts
 
 Unfold All
 Fold All

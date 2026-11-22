@@ -4,8 +4,6 @@ title: "iGate Packets From ISS, But Not If Sent Locally"
 
 # iGate Packets From ISS, But Not If Sent Locally
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-1635799/igate-packets-from-iss-but-not-if-sent-locally) · [Archived HTML](../archive/pages/forum_t-1635799_igate-packets-from-iss-but-not-if-sent-locally--9feb80b782cc.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » iGate Packets From ISS, But Not If Sent Locally
@@ -14,7 +12,7 @@ Started by: [![K7KEZ](../archive/assets/avatar--a8d9c815004e.php)](https://www.w
 Date: 05 Mar 2016 23:18  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-1635799.xml)
+RSS: New posts
 
 Summary:
 

@@ -4,8 +4,6 @@ title: "APRSISCE radio interface problems"
 
 # APRSISCE radio interface problems
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-16450427/aprsisce-radio-interface-problems) · [Archived HTML](../archive/pages/forum_t-16450427_aprsisce-radio-interface-problems--1d03f01912c7.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » APRSISCE radio interface problems
@@ -14,7 +12,7 @@ Started by: [![thomas petruzzelli](../archive/assets/avatar--a51c04776f8c.php)](
 Date: 12 Nov 2023 03:11  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-16450427.xml)
+RSS: New posts
 
 Summary:
 

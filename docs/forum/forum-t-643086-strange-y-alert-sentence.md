@@ -4,8 +4,6 @@ title: "Strange y!ALERT! sentence"
 
 # Strange y!ALERT! sentence
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-643086/strange-y-alert-sentence) · [Archived HTML](../archive/pages/forum_t-643086_strange-y-alert-sentence--3ee5dec4b59a.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Strange y!ALERT! sentence
@@ -14,7 +12,7 @@ Started by: [![Ken Hanks](../archive/assets/avatar--d9cbec9a9f1d.php)](https://w
 Date: 11 Apr 2013 03:16  
 Number of posts: 3  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-643086.xml)
+RSS: New posts
 
 Summary:
 

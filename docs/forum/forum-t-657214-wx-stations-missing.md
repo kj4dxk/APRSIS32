@@ -4,8 +4,6 @@ title: "WX Stations missing"
 
 # WX Stations missing
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-657214/wx-stations-missing) · [Archived HTML](../archive/pages/forum_t-657214_wx-stations-missing--29f011b12d83.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » WX Stations missing
@@ -14,7 +12,7 @@ Started by: [![Rory Bowers](../archive/assets/avatar--3e29af2b51c8.php)](https:/
 Date: 30 May 2013 13:51  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-657214.xml)
+RSS: New posts
 
 Summary:
 

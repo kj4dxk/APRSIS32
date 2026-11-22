@@ -4,8 +4,6 @@ title: "ANSRVR / Discussion"
 
 # ANSRVR / Discussion
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-393895/ansrvr) · [Archived HTML](../archive/pages/forum_t-393895_ansrvr--d151932d05b9.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [WIKI per page discussion / Per page discussions](forum-c-494256-per-page-discussions.md)
 » ANSRVR
@@ -14,7 +12,7 @@ Started by: Wikidot
 Date: 22 Sep 2011 22:46  
 Number of posts: 0  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-393895.xml)
+RSS: New posts
 
 This is the discussion related to the wiki page [ANSRVR](../manual/doc-ansrvr.md).
 

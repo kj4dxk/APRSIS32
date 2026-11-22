@@ -4,8 +4,6 @@ title: "UARS"
 
 # UARS
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-394073/uars) · [Archived HTML](../archive/pages/forum_t-394073_uars--896cbd952792.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [General Discussion / Satellites](forum-c-494483-satellites.md)
 » UARS
@@ -14,7 +12,7 @@ Started by: [![G6UIM](../archive/assets/avatar--9d0ad7d7006f.php)](https://www.w
 Date: 23 Sep 2011 17:34  
 Number of posts: 4  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-394073.xml)
+RSS: New posts
 
 Unfold All
 Fold All

@@ -4,8 +4,6 @@ title: "Map won't load"
 
 # Map won't load
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-670725/map-won-t-load) · [Archived HTML](../archive/pages/forum_t-670725_map-won-t-load--a66a623257e8.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Map won't load
@@ -14,7 +12,7 @@ Started by: [![KC9ZDA](../archive/assets/avatar--5c6fbd18d2b2.php)](https://www.
 Date: 13 Jul 2013 03:14  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-670725.xml)
+RSS: New posts
 
 Summary:
 

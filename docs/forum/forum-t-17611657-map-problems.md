@@ -4,8 +4,6 @@ title: "Map problems"
 
 # Map problems
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-17611657/map-problems) · [Archived HTML](../archive/pages/forum_t-17611657_map-problems--d289eaa2d509.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Map problems
@@ -14,7 +12,7 @@ Started by: [![Ruudpd0rh](../archive/assets/avatar--08c78f338382.php)](https://w
 Date: 07 Mar 2026 19:34  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-17611657.xml)
+RSS: New posts
 
 Unfold All
 Fold All

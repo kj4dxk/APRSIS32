@@ -4,8 +4,6 @@ title: "listpage"
 
 # listpage
 
-[Source wiki page](https://aprsisce.wikidot.com/listpage/p/3) · [Archived HTML](../archive/pages/listpage_p_3--c5c8bc8e179e.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Configure1](../manual/configure1.md) - [VE6SRV](https://www.wikidot.com/user:info/ve6srv) - 16 Oct 2011 23:10 - updated by [G6UIM](https://www.wikidot.com/user:info/g6uim) 18 Oct 2011 20:09  
 [View1](../manual/view1.md) - [VE6SRV](https://www.wikidot.com/user:info/ve6srv) - 16 Oct 2011 23:09 - updated by [G6UIM](https://www.wikidot.com/user:info/g6uim) 18 Oct 2011 20:09  
 [Screen1](../manual/screen1.md) - [VE6SRV](https://www.wikidot.com/user:info/ve6srv) - 16 Oct 2011 23:08 - updated by [VE6SRV](https://www.wikidot.com/user:info/ve6srv) 22 Aug 2012 20:52  

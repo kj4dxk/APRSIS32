@@ -4,8 +4,6 @@ title: "Direction Finding"
 
 # Direction Finding
 
-[Source wiki page](https://aprsisce.wikidot.com/direction-finding) · [Archived HTML](../archive/pages/direction-finding--3b86597df147.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [![APRSISCE32%20DF%20Plot.png](../archive/assets/local--resized-images_direction-finding_APRSISCE32_DF_Plot.png_medium--2fdd33449b70.jpg)](../archive/assets/local--files_direction-finding_APRSISCE32_DF_Plot--8c0ffc3c48d9.png)
 
 Direction Finding is the process of using the signal strength of a received signal to pin-point the location of the source of the transmitted signal. The process can be as simple as using reception (and non-reception) reports from various locations (or stations), and plotting circles on a map that correspond to the approximate area that the characteristics of the receiving station would allow it to hear a signal. By plotting enough reception reports, an overlapping area where all the stations can hear the specific signal should indicate an area of high probability for the location of the transmitter.

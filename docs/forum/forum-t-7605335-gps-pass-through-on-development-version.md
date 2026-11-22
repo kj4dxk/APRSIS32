@@ -4,8 +4,6 @@ title: "GPS Pass through on development version"
 
 # GPS Pass through on development version
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-7605335/gps-pass-through-on-development-version) · [Archived HTML](../archive/pages/forum_t-7605335_gps-pass-through-on-development-version--689159693229.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » GPS Pass through on development version
@@ -14,7 +12,7 @@ Started by: [![VE5BNC](../archive/assets/avatar--7ae9ae550d9b.php)](https://www.
 Date: 23 Sep 2018 00:47  
 Number of posts: 3  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-7605335.xml)
+RSS: New posts
 
 Unfold All
 Fold All

@@ -4,8 +4,6 @@ title: "tracks"
 
 # tracks
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-9897292/tracks) · [Archived HTML](../archive/pages/forum_t-9897292_tracks--e854736212b2.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / Feature Requests](forum-c-312348-feature-requests.md)
 » tracks
@@ -14,7 +12,7 @@ Started by: [![nathan myers](../archive/assets/avatar--e19b4f58d1d3.php)](https:
 Date: 10 Jan 2019 04:30  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-9897292.xml)
+RSS: New posts
 
 Summary:
 

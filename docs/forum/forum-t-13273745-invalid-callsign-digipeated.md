@@ -4,8 +4,6 @@ title: "Invalid Callsign Digipeated"
 
 # Invalid Callsign Digipeated
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-13273745/invalid-callsign-digipeated) · [Archived HTML](../archive/pages/forum_t-13273745_invalid-callsign-digipeated--2bad83f365bf.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Invalid Callsign Digipeated
@@ -14,7 +12,7 @@ Started by: [![oscarcharlie](../archive/assets/avatar--dcb03f8d15db.php)](https:
 Date: 28 Apr 2020 00:51  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-13273745.xml)
+RSS: New posts
 
 Summary:
 

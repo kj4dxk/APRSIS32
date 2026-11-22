@@ -4,8 +4,6 @@ title: "tempmain"
 
 # tempmain
 
-[Source wiki page](https://aprsisce.wikidot.com/tempmain) · [Archived HTML](../archive/pages/tempmain--f42bc0bd6bb8.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 The APRSISCE/32 main screen contains a great deal of information.
 
 [![flickr:5650496232](../archive/assets/5221_5650496232_90c79f560b--d2686bc32b9c.jpg)](http://www.flickr.com/photos/62090831@N05/5650496232/)

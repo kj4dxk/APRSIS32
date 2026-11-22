@@ -4,8 +4,6 @@ title: "Windows tablet with win 10"
 
 # Windows tablet with win 10
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-9064382/windows-tablet-with-win-10) · [Archived HTML](../archive/pages/forum_t-9064382_windows-tablet-with-win-10--8dee7ff9b2b7.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Windows tablet with win 10
@@ -14,7 +12,7 @@ Started by: [![Ryan Runyon](../archive/assets/avatar--c7549a27918d.php)](https:/
 Date: 02 Dec 2018 21:25  
 Number of posts: 6  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-9064382.xml)
+RSS: New posts
 
 Unfold All
 Fold All

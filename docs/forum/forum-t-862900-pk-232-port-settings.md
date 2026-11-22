@@ -4,8 +4,6 @@ title: "PK-232 port settings"
 
 # PK-232 port settings
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-862900/pk-232-port-settings) · [Archived HTML](../archive/pages/forum_t-862900_pk-232-port-settings--6b35df1f7ab5.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » PK-232 port settings
@@ -14,7 +12,7 @@ Started by: [![k7iou](../archive/assets/avatar--81882b5c8415.php)](https://www.w
 Date: 19 May 2014 23:37  
 Number of posts: 4  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-862900.xml)
+RSS: New posts
 
 Unfold All
 Fold All

@@ -4,8 +4,6 @@ title: "Suddenly seeing many WinAPRS stations"
 
 # Suddenly seeing many WinAPRS stations
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-553549/suddenly-seeing-many-winaprs-stations) · [Archived HTML](../archive/pages/forum_t-553549_suddenly-seeing-many-winaprs-stations--7dcea58a3db4.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Suddenly seeing many WinAPRS stations
@@ -14,7 +12,7 @@ Started by: [![Tony VE6MVP](../archive/assets/avatar--c46b6fe2f09f.php)](https:/
 Date: 21 Aug 2012 04:10  
 Number of posts: 4  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-553549.xml)
+RSS: New posts
 
 Summary:
 

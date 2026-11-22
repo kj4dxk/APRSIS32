@@ -4,8 +4,6 @@ title: "Messages1"
 
 # Messages1
 
-[Source wiki page](https://aprsisce.wikidot.com/messages1) · [Archived HTML](../archive/pages/messages1--99cb11ab5e94.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 The Messages menu provides access to the APRS message-based features of APRSISCE/32. If you're not familiar with APRS messaging, you may also want to read [aprs-messaging-explained](doc-aprs-messaging-explained.md).
 
 Read Message

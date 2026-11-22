@@ -4,8 +4,6 @@ title: "What's a decent, new, 2m/70cm Base Station rig?"
 
 # What's a decent, new, 2m/70cm Base Station rig?
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-12210410/what-s-a-decent-new-2m-70cm-base-station-rig) · [Archived HTML](../archive/pages/forum_t-12210410_what-s-a-decent-new-2m-70cm-base-station-rig--0ce2d0531dc9.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » What's a decent, new, 2m/70cm Base Station rig?
@@ -14,7 +12,7 @@ Started by: [![NR4U Bob](../archive/assets/avatar--b6fb0e6e6265.php)](https://ww
 Date: 12 Jul 2019 12:56  
 Number of posts: 3  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-12210410.xml)
+RSS: New posts
 
 Summary:
 

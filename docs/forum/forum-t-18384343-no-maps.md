@@ -4,8 +4,6 @@ title: "No Maps"
 
 # No Maps
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-18384343/no-maps) · [Archived HTML](../archive/pages/forum_t-18384343_no-maps--a21abe58492c.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » No Maps
@@ -14,7 +12,7 @@ Started by: [![RayBob](../archive/assets/avatar--588fd5fbc600.php)](https://www.
 Date: 05 Nov 2026 20:21  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-18384343.xml)
+RSS: New posts
 
 Unfold All
 Fold All

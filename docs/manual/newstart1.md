@@ -4,8 +4,6 @@ title: "Newstart1"
 
 # Newstart1
 
-[Source wiki page](https://aprsisce.wikidot.com/newstart1) · [Archived HTML](../archive/pages/newstart1--f36f58732d4f.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 <table class="wiki-content-table aprs-figure-table">
 <tr>
 <td><img alt="aprsis32.gif" class="image" src="../archive/assets/local--files_newstart1_aprsis32--504a6b899ef4.gif"/></td>

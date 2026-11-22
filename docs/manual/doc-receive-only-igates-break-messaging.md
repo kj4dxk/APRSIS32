@@ -4,8 +4,6 @@ title: "Receive Only Igates DO NOT Break Messaging!"
 
 # Receive Only Igates DO NOT Break Messaging!
 
-[Source wiki page](https://aprsisce.wikidot.com/doc:receive-only-igates-break-messaging) · [Archived HTML](../archive/pages/doc_receive-only-igates-break-messaging--4840f5a09bfa.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 TL;DR - Receive-Only IGates are not what breaks messaging. It is Transmit-Capable IGates connected to an APRS-IS Server that does not have an upstream full feed.
 
 This is the raw text that I had posted in the APRS Foundation Discord:

@@ -4,8 +4,6 @@ title: "Digipeat and igate switching???"
 
 # Digipeat and igate switching???
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-14666106/digipeat-and-igate-switching) · [Archived HTML](../archive/pages/forum_t-14666106_digipeat-and-igate-switching--97a65e142b4f.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Digipeat and igate switching???
@@ -14,7 +12,7 @@ Started by: [![KF5WCW](../archive/assets/avatar--8ba22db0136f.php)](https://www.
 Date: 27 Apr 2022 01:23  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-14666106.xml)
+RSS: New posts
 
 Summary:
 

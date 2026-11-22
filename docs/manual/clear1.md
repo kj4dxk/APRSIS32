@@ -4,8 +4,6 @@ title: "Clear1"
 
 # Clear1
 
-[Source wiki page](https://aprsisce.wikidot.com/clear1) · [Archived HTML](../archive/pages/clear1--7688f390d431.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 **Clear\_Eavesdrops**  
 If you have eavesdrop enabled in the messages configure menu. This option will remove all messages received that are NOT addressed to your callsign.
 

@@ -4,8 +4,6 @@ title: "Map intensity and text color"
 
 # Map intensity and text color
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-549118/map-intensity-and-text-color) · [Archived HTML](../archive/pages/forum_t-549118_map-intensity-and-text-color--a2a6644d5032.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / Feature Requests](forum-c-312348-feature-requests.md)
 » Map intensity and text color
@@ -14,7 +12,7 @@ Started by: [![w2swr](../archive/assets/avatar--e557d04eedcb.php)](https://www.w
 Date: 09 Aug 2012 04:05  
 Number of posts: 11  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-549118.xml)
+RSS: New posts
 
 Unfold All
 Fold All
@@ -76,7 +74,7 @@ Re: Map intensity and text color
 
 Have you tried left/right arrows? Left will decrease opacity / increase transparency / make it paler. Right will increase opacity / decrease transparency / make it darker.
 
-See also: [http://aprsisce.wikidot.com/doc:transparency](../manual/doc-transparency.md)
+See also: [Related manual page](../manual/doc-transparency.md)
 
 Lynn (D) - KJ4ERJ - Author of APRSISCE for Windows Mobile and Win32
 
@@ -130,7 +128,7 @@ Re: Map intensity and text color
 
 APRSISCE/32 doesn't render it's own maps, but draws pre-rendered tiles from map tile servers. I can only play with the transparency of displaying the tiles and cannot modify the content of the tiles themselves (yet).
 
-See also: [http://aprsisce.wikidot.com/tile-sets](../manual/tile-sets.md)
+See also: [Related manual page](../manual/tile-sets.md)
 
 and <http://www.openstreetmap.org/>
 

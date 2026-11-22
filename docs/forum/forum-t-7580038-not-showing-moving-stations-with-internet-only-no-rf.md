@@ -4,8 +4,6 @@ title: "Not showing moving stations with internet only / no RF"
 
 # Not showing moving stations with internet only / no RF
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-7580038/not-showing-moving-stations-with-internet-only-no-rf) · [Archived HTML](../archive/pages/forum_t-7580038_not-showing-moving-stations-with-internet-only-no-rf--3b7ba6a0c12e.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Not showing moving stations with internet only / no RF
@@ -14,7 +12,7 @@ Started by: [![Brad Arnold](../archive/assets/avatar--06201ef2e9c6.php)](https:/
 Date: 21 Sep 2018 12:47  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-7580038.xml)
+RSS: New posts
 
 Unfold All
 Fold All

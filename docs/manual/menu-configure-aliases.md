@@ -4,8 +4,6 @@ title: "Configure Aliases"
 
 # Configure Aliases
 
-[Source wiki page](https://aprsisce.wikidot.com/menu:configure-aliases) · [Archived HTML](../archive/pages/menu_configure-aliases--79d63e89b0df.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 Aliases are used within paths of APRS so that users don't need to know the specific digipeaters in order to use the installed RF network. The most popular alias is WIDE in the typical incarnations of WIDE1-1 and WIDE2-1 or WIDE2-2. Older (pre-WIDEn-N) aliases are RELAY and WIDE (yep, same alias as we're still using). There are also local state or province aliases referred to as SSn-N, but there is no central clearing house for the values of SS. Finally, there are other aliases that allow a packet originator to request specific behaviors from infrastructure components that may process a packet. Some examples of these are GATE, NOGATE, and RFONLY.
 
 APRSISCE/32 needs to know what aliases it might encounter in order to properly count used hops when making decisions on "local" stations for message gating decisions from APRS-IS to RF. To that end, APRSISCE/32 allows the configuration of aliases which will not be counted when encountered within the used portion of a packet's path. This list of known aliases comes pre-populated with well-known aliases which are visible in the Known cascading menu. Selecting a specific alias will toggle it between active (not counted) and inactive (counted).

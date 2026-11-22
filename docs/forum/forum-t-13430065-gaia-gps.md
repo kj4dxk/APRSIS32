@@ -4,8 +4,6 @@ title: "Gaia GPS"
 
 # Gaia GPS
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-13430065/gaia-gps) · [Archived HTML](../archive/pages/forum_t-13430065_gaia-gps--b22a6ddc9036.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Gaia GPS
@@ -14,7 +12,7 @@ Started by: [![Pluto Nash](../archive/assets/avatar--c4ebc4a11528.php)](https://
 Date: 14 Jun 2020 00:12  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-13430065.xml)
+RSS: New posts
 
 Summary:
 

@@ -4,8 +4,6 @@ title: "Call Sign with no SSID for command"
 
 # Call Sign with no SSID for command
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-13264793/call-sign-with-no-ssid-for-command) · [Archived HTML](../archive/pages/forum_t-13264793_call-sign-with-no-ssid-for-command--8f71911737a0.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Call Sign with no SSID for command
@@ -14,7 +12,7 @@ Started by: [![VY1XY](../archive/assets/avatar--5bcc7946ea5b.php)](https://www.w
 Date: 24 Apr 2020 02:57  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-13264793.xml)
+RSS: New posts
 
 Unfold All
 Fold All

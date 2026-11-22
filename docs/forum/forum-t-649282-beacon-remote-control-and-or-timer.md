@@ -4,8 +4,6 @@ title: "Beacon Remote Control and/or Timer"
 
 # Beacon Remote Control and/or Timer
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-649282/beacon-remote-control-and-or-timer) · [Archived HTML](../archive/pages/forum_t-649282_beacon-remote-control-and-or-timer--dbb3dfd61874.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Beacon Remote Control and/or Timer
@@ -14,7 +12,7 @@ Started by: [![KD0KZE](../archive/assets/avatar--caa615378787.php)](https://www.
 Date: 02 May 2013 15:38  
 Number of posts: 3  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-649282.xml)
+RSS: New posts
 
 Summary:
 

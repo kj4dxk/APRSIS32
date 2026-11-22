@@ -4,8 +4,6 @@ title: "Tempest Weather station setup"
 
 # Tempest Weather station setup
 
-[Source wiki page](https://aprsisce.wikidot.com/weather:tempest) · [Archived HTML](../archive/pages/weather_tempest--a2df0da978b0.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 I finally got around to setting up my [WeatherFlow Tempest](https://weatherflow.com/) station on the APRS-IS. Here's a brief walkthrough of what I did.
 
 First of course, you need to have your station up and running and registered. This will get you your station ID ST-nnnnnnn which you will need later. My station can be viewed direct at [Tempest's web site](https://tempestwx.com/station/105677/grid). To find your station ID, start at your tempestwx.com display, hit Settings, Stations, YourStation, Manage Devices and you should see the ST-nnnnnnn ID.

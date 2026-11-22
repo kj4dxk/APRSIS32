@@ -4,8 +4,6 @@ title: "Warning Version Downgrade"
 
 # Warning Version Downgrade
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-14006271/warning-version-downgrade) · [Archived HTML](../archive/pages/forum_t-14006271_warning-version-downgrade--366c75c63d7c.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Warning Version Downgrade
@@ -14,7 +12,7 @@ Started by: [![KJ7MRL](../archive/assets/avatar--3474a0032b1a.php)](https://www.
 Date: 16 Feb 2021 17:28  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-14006271.xml)
+RSS: New posts
 
 Unfold All
 Fold All

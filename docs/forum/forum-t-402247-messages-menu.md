@@ -4,8 +4,6 @@ title: "Messages Menu / Discussion"
 
 # Messages Menu / Discussion
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-402247/messages-menu) · [Archived HTML](../archive/pages/forum_t-402247_messages-menu--b57ffcab9d06.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [WIKI per page discussion / Per page discussions](forum-c-494256-per-page-discussions.md)
 » Messages Menu
@@ -14,7 +12,7 @@ Started by: Wikidot
 Date: 19 Oct 2011 02:13  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-402247.xml)
+RSS: New posts
 
 This is the discussion related to the wiki page [Messages Menu](../manual/menu-messages.md).
 

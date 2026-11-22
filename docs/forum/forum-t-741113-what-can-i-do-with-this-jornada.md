@@ -4,8 +4,6 @@ title: "What can i do with this Jornada"
 
 # What can i do with this Jornada
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-741113/what-can-i-do-with-this-jornada) · [Archived HTML](../archive/pages/forum_t-741113_what-can-i-do-with-this-jornada--e235c5e75b59.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » What can i do with this Jornada
@@ -14,7 +12,7 @@ Started by: [![KJ4YZI](../archive/assets/avatar--44afa39fa169.php)](https://www.
 Date: 01 Dec 2013 00:49  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-741113.xml)
+RSS: New posts
 
 Summary:
 

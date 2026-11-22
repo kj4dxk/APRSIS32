@@ -4,8 +4,6 @@ title: "IS-Server Port / Discussion"
 
 # IS-Server Port / Discussion
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-421543/is-server-port) · [Archived HTML](../archive/pages/forum_t-421543_is-server-port--a5e5871818ff.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [WIKI per page discussion / Per page discussions](forum-c-494256-per-page-discussions.md)
 » IS-Server Port
@@ -14,7 +12,7 @@ Started by: Wikidot
 Date: 15 Dec 2011 05:35  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-421543.xml)
+RSS: New posts
 
 This is the discussion related to the wiki page [IS-Server Port](../manual/is-server-port.md).
 

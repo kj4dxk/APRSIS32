@@ -4,8 +4,6 @@ title: "Atlantic Special Tropical Weather Outlook"
 
 # Atlantic Special Tropical Weather Outlook
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-440579/atlantic-special-tropical-weather-outlook) · [Archived HTML](../archive/pages/forum_t-440579_atlantic-special-tropical-weather-outlook--4d2e93951a76.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [WIKI per page discussion / Per page discussions](forum-c-494256-per-page-discussions.md)
 » Atlantic Special Tropical Weather Outlook
@@ -14,7 +12,7 @@ Started by: [![n4trn](../archive/assets/avatar--7ae858f4d96b.php)](https://www.w
 Date: 06 Feb 2012 00:48  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-440579.xml)
+RSS: New posts
 
 Unfold All
 Fold All

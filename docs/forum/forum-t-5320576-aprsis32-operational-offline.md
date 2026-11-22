@@ -4,8 +4,6 @@ title: "APRSIS32 Operational Offline?"
 
 # APRSIS32 Operational Offline?
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-5320576/aprsis32-operational-offline) · [Archived HTML](../archive/pages/forum_t-5320576_aprsis32-operational-offline--3a554d58b573.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » APRSIS32 Operational Offline?
@@ -14,7 +12,7 @@ Started by: [![va7ta](../archive/assets/avatar--8b2522d1cd28.php)](https://www.w
 Date: 21 Feb 2018 07:15  
 Number of posts: 3  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-5320576.xml)
+RSS: New posts
 
 Unfold All
 Fold All

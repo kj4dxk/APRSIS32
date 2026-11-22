@@ -4,8 +4,6 @@ title: "orphan"
 
 # orphan
 
-[Source wiki page](https://aprsisce.wikidot.com/orphan) · [Archived HTML](../archive/pages/orphan--b17ffd5a92b5.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 # List of orphaned pages
 
 [About1](about1.md) (about1)

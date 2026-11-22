@@ -4,8 +4,6 @@ title: "listpage"
 
 # listpage
 
-[Source wiki page](https://aprsisce.wikidot.com/listpage/p/2) · [Archived HTML](../archive/pages/listpage_p_2--59397037f7b0.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [EN\_NWS](../manual/en-nws.md) - [G6UIM](https://www.wikidot.com/user:info/g6uim) - 04 Nov 2012 23:45 - updated by [G6UIM](https://www.wikidot.com/user:info/g6uim) 08 Nov 2012 15:50  
 [Direction Finding](../manual/direction-finding.md) - [VE6SRV](https://www.wikidot.com/user:info/ve6srv) - 04 Oct 2012 02:05 - updated by [VE6SRV](https://www.wikidot.com/user:info/ve6srv) 23 Dec 2012 03:48  
 [EN\_Presentations](../manual/en-presentations.md) - [G6UIM](https://www.wikidot.com/user:info/g6uim) - 20 Sep 2012 19:05 - updated by [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) 24 Sep 2012 20:16  

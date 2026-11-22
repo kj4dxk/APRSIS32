@@ -4,8 +4,6 @@ title: "Custom Symbol Table For Duchifat-1 CubeSat"
 
 # Custom Symbol Table For Duchifat-1 CubeSat
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-1223762/custom-symbol-table-for-duchifat-1-cubesat) · [Archived HTML](../archive/pages/forum_t-1223762_custom-symbol-table-for-duchifat-1-cubesat--70086f29ef7f.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / Feature Requests](forum-c-312348-feature-requests.md)
 » Custom Symbol Table For Duchifat-1 CubeSat
@@ -14,7 +12,7 @@ Started by: [![KE5UUO](../archive/assets/avatar--e44710128f97.php)](https://www.
 Date: 01 Jun 2015 18:53  
 Number of posts: 5  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-1223762.xml)
+RSS: New posts
 
 Summary:
 

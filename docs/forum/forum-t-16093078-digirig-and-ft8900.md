@@ -4,8 +4,6 @@ title: "DigiRig and FT8900"
 
 # DigiRig and FT8900
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-16093078/digirig-and-ft8900) · [Archived HTML](../archive/pages/forum_t-16093078_digirig-and-ft8900--0f571f0607ec.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » DigiRig and FT8900
@@ -14,7 +12,7 @@ Started by: [![ww9z](../archive/assets/avatar--d2a7bd54c93d.php)](https://www.wi
 Date: 02 Jul 2023 01:49  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-16093078.xml)
+RSS: New posts
 
 Summary:
 

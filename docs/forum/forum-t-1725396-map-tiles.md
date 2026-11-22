@@ -4,8 +4,6 @@ title: "Map tiles"
 
 # Map tiles
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-1725396/map-tiles) · [Archived HTML](../archive/pages/forum_t-1725396_map-tiles--e8076f9be384.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / Feature Requests](forum-c-312348-feature-requests.md)
 » Map tiles
@@ -14,7 +12,7 @@ Started by: [![KG7SPS](../archive/assets/avatar--a38eb4f46e07.php)](https://www.
 Date: 02 Jun 2016 23:08  
 Number of posts: 13  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-1725396.xml)
+RSS: New posts
 
 Unfold All
 Fold All
@@ -94,7 +92,7 @@ Re: Map tiles
 
 <span id="post-content-2518583"></span>
 
-Oh, and I should say that APRSISCE/32 doesn't do it's own maps, but is a map tile client accessing OpenStreetMap-compatible tile servers to get map tiles for caching and display. See also [http://aprsisce.wikidot.com/tile-sets](../manual/tile-sets.md)
+Oh, and I should say that APRSISCE/32 doesn't do it's own maps, but is a map tile client accessing OpenStreetMap-compatible tile servers to get map tiles for caching and display. See also [Related manual page](../manual/tile-sets.md)
 
 **Reply**
 Options

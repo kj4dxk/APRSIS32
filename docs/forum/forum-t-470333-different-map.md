@@ -4,8 +4,6 @@ title: "Different Map"
 
 # Different Map
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-470333/different-map) · [Archived HTML](../archive/pages/forum_t-470333_different-map--14175105c12e.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Different Map
@@ -14,7 +12,7 @@ Started by: [![TA1DX](../archive/assets/avatar--c497a735ecb6.php)](https://www.w
 Date: 23 May 2012 13:03  
 Number of posts: 3  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-470333.xml)
+RSS: New posts
 
 Summary:
 
@@ -87,7 +85,7 @@ One reason for choosing OpenStreetMaps for APRSISCE/32 was that if your area doe
 
 Many of the Internet-based maps, in particular Google Maps, have usage restrictions that are incompatible with APRSISCE/32. Read them closely before using any particular map source.
 
-That said, if you can find a map source (server, port, and URL construction), the instructions at [http://aprsisce.wikidot.com/tile-sets](../manual/tile-sets.md) describe how to configure APRSISCE/32 to use alternate OSM-compatible map tile sources.
+That said, if you can find a map source (server, port, and URL construction), the instructions at [Related manual page](../manual/tile-sets.md) describe how to configure APRSISCE/32 to use alternate OSM-compatible map tile sources.
 
 Lynn (D) - KJ4ERJ - Author of APRSISCE for Windows Mobile and Win32
 

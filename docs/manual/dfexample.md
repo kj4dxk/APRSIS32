@@ -4,8 +4,6 @@ title: "DF Example"
 
 # DF Example
 
-[Source wiki page](https://aprsisce.wikidot.com/dfexample) · [Archived HTML](../archive/pages/dfexample--c9d68bef511f.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 Radio Direction Finding is an exercise that makes use of directional antennas in an attempt to track down the source of a radio signal. Multiple bearings taken from disparate vantage points can provide a set of triangulated bearings that will narrow down a search area such that the signal source can be found. It is possible for multiple receiving stations to work cooperatively to find the signal source, such as searching for a stuck transmitter, jammer, tracking down a lost hiker, or a downed aircraft.
 
 Some people conduct exercises where a station deliberately hides, and sends periodic transmissions for teams of hunters to track down. Tracking teams work individually in an effort to be the first to find the hidden transmitter. Scoring may be based solely on elapsed time, or on accumulated mileage, a combination of both, or other criteria.

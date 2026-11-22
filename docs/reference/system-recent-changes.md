@@ -4,16 +4,110 @@ title: "Recent Changes"
 
 # Recent Changes
 
-[Source wiki page](https://aprsisce.wikidot.com/system:recent-changes) · [Archived HTML](../archive/pages/system_recent-changes--4e522ebd5805.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
+## Site Changes
 
-|  |
-| --- |
-| **Site Changes** |
+|  |  |
+| --- | --- |
+| Revision types: | <span id="rev-type-all"></span>  ALL  <span id="rev-type-new"></span>  new pages  <span id="rev-type-source"></span>  source changes  <span id="rev-type-title"></span>  title changes  <span id="rev-type-move"></span>  page name changes  <span id="rev-type-tags"></span>  tags changes  <span id="rev-type-meta"></span>  metadata changes  <span id="rev-type-files"></span>  files changes |
+| From categories: | <span id="rev-category"></span> Whole site \_default 2011-01-23-18 2011-02-10-07 2011-05-02-20 2011-05-17-18 2011-08-20-02 2011-08-21-16 2012-02-29-02 2012-04-06-20 2012-05-25-07 2012-08-29-21 2020-05-01-21 admin deleted doc forum hard includepopup menu nav pane panes port search start system track weather |
+| Revisions per page: | <span id="rev-perpage"></span> 10 20 50 100 200 |
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  | | --- | --- | | Revision types: | <span id="rev-type-all"></span>  ALL  <span id="rev-type-new"></span>  new pages  <span id="rev-type-source"></span>  source changes  <span id="rev-type-title"></span>  title changes  <span id="rev-type-move"></span>  page name changes  <span id="rev-type-tags"></span>  tags changes  <span id="rev-type-meta"></span>  metadata changes  <span id="rev-type-files"></span>  files changes | | From categories: | <span id="rev-category"></span> Whole site \_default 2011-01-23-18 2011-02-10-07 2011-05-02-20 2011-05-17-18 2011-08-20-02 2011-08-21-16 2012-02-29-02 2012-04-06-20 2012-05-25-07 2012-08-29-21 2020-05-01-21 admin deleted doc forum hard includepopup menu nav pane panes port search start system track weather | | Revisions per page: | <span id="rev-perpage"></span> 10 20 50 100 200 |     <span id="site-changes-list"></span> page 1123...next »  |  |  |  |  |  | | --- | --- | --- | --- | --- | | [Downloads Page](../manual/downloads.md) | S | 20 Dec 2025 22:42 | (rev. 99) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |  |  |  |  |  |  | | --- | --- | --- | --- | --- | | [Downloads Page](../manual/downloads.md) | S | 20 Dec 2025 22:30 | (rev. 98) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |  |  |  |  |  |  | | --- | --- | --- | --- | --- | | [Downloads Page](../manual/downloads.md) | S | 20 Dec 2025 22:27 | (rev. 97) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |  |  |  |  |  |  | | --- | --- | --- | --- | --- | | [Downloads Page](../manual/downloads.md) | F | 20 Dec 2025 22:26 | (rev. 96) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |   Uploaded file "APRSIS32.zip".  |  |  |  |  |  | | --- | --- | --- | --- | --- | | [Downloads Page](../manual/downloads.md) | F | 20 Dec 2025 22:25 | (rev. 95) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |   File "APRSIS32.zip" renamed to "APRSIS32\_2020.zip".  |  |  |  |  |  | | --- | --- | --- | --- | --- | | [Downloads Page](../manual/downloads.md) | S | 20 Dec 2025 22:23 | (rev. 94) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |  |  |  |  |  |  | | --- | --- | --- | --- | --- | | [Downloads Page](../manual/downloads.md) | F | 20 Dec 2025 22:22 | (rev. 93) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |   File "APRSIS32\_20251010" renamed to "APRSIS32".  |  |  |  |  |  | | --- | --- | --- | --- | --- | | [Downloads Page](../manual/downloads.md) | S | 20 Dec 2025 22:22 | (rev. 92) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |  |  |  |  |  |  | | --- | --- | --- | --- | --- | | [Downloads Page](../manual/downloads.md) | F | 20 Dec 2025 22:21 | (rev. 91) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |   File "APRSIS32.exe 20251010" renamed to "APRSIS32\_20251010".  |  |  |  |  |  | | --- | --- | --- | --- | --- | | [Downloads Page](../manual/downloads.md) | S | 20 Dec 2025 22:21 | (rev. 90) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |  |  |  |  |  |  | | --- | --- | --- | --- | --- | | [Downloads Page](../manual/downloads.md) | F | 20 Dec 2025 22:19 | (rev. 89) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |   Uploaded file "APRSIS32.exe 20251010".  |  |  |  |  |  | | --- | --- | --- | --- | --- | | [Downloads Page](../manual/downloads.md) | S | 20 Dec 2025 22:10 | (rev. 88) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |  |  |  |  |  |  | | --- | --- | --- | --- | --- | | [Downloads Page](../manual/downloads.md) | S | 20 Dec 2025 22:05 | (rev. 87) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |  |  |  |  |  |  | | --- | --- | --- | --- | --- | | [Downloads Page](../manual/downloads.md) | S | 20 Dec 2025 22:01 | (rev. 86) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |  |  |  |  |  |  | | --- | --- | --- | --- | --- | | [Downloads Page](../manual/downloads.md) | S | 20 Dec 2025 22:00 | (rev. 85) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |   2025/12/20 Current Release (only working version, this version was a dev version, we are calling it the current version now)  |  |  |  |  |  | | --- | --- | --- | --- | --- | | [Downloads Page](../manual/downloads.md) | S | 20 Dec 2025 21:59 | (rev. 84) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |   2025/12/20 Current Release (only working version, this version was a dev version, we are calling it the current version now)  |  |  |  |  |  | | --- | --- | --- | --- | --- | | [doc: Passcode](../manual/doc-passcode.md) | S | 06 Apr 2025 17:10 | (rev. 41) | [kf6wax](https://www.wikidot.com/user:info/kf6wax) |  |  |  |  |  |  | | --- | --- | --- | --- | --- | | [doc: Passcode](../manual/doc-passcode.md) | S | 06 Apr 2025 17:04 | (rev. 40) | [kf6wax](https://www.wikidot.com/user:info/kf6wax) |  |  |  |  |  |  | | --- | --- | --- | --- | --- | | [doc: Passcode](../manual/doc-passcode.md) | S | 06 Apr 2025 16:54 | (rev. 39) | [kf6wax](https://www.wikidot.com/user:info/kf6wax) |  |  |  |  |  |  | | --- | --- | --- | --- | --- | | [doc: Passcode](../manual/doc-passcode.md) | S | 06 Apr 2025 16:27 | (rev. 38) | [kf6wax](https://www.wikidot.com/user:info/kf6wax) |  page 1123...next » |
+<span id="site-changes-list"></span>
 
-|  |
-| --- |
-|  |
+page 1123...next »
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [Downloads Page](../manual/downloads.md) | S | 20 Dec 2025 22:42 | (rev. 99) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [Downloads Page](../manual/downloads.md) | S | 20 Dec 2025 22:30 | (rev. 98) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [Downloads Page](../manual/downloads.md) | S | 20 Dec 2025 22:27 | (rev. 97) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [Downloads Page](../manual/downloads.md) | F | 20 Dec 2025 22:26 | (rev. 96) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |
+
+Uploaded file "APRSIS32.zip".
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [Downloads Page](../manual/downloads.md) | F | 20 Dec 2025 22:25 | (rev. 95) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |
+
+File "APRSIS32.zip" renamed to "APRSIS32\_2020.zip".
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [Downloads Page](../manual/downloads.md) | S | 20 Dec 2025 22:23 | (rev. 94) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [Downloads Page](../manual/downloads.md) | F | 20 Dec 2025 22:22 | (rev. 93) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |
+
+File "APRSIS32\_20251010" renamed to "APRSIS32".
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [Downloads Page](../manual/downloads.md) | S | 20 Dec 2025 22:22 | (rev. 92) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [Downloads Page](../manual/downloads.md) | F | 20 Dec 2025 22:21 | (rev. 91) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |
+
+File "APRSIS32.exe 20251010" renamed to "APRSIS32\_20251010".
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [Downloads Page](../manual/downloads.md) | S | 20 Dec 2025 22:21 | (rev. 90) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [Downloads Page](../manual/downloads.md) | F | 20 Dec 2025 22:19 | (rev. 89) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |
+
+Uploaded file "APRSIS32.exe 20251010".
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [Downloads Page](../manual/downloads.md) | S | 20 Dec 2025 22:10 | (rev. 88) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [Downloads Page](../manual/downloads.md) | S | 20 Dec 2025 22:05 | (rev. 87) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [Downloads Page](../manual/downloads.md) | S | 20 Dec 2025 22:01 | (rev. 86) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [Downloads Page](../manual/downloads.md) | S | 20 Dec 2025 22:00 | (rev. 85) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |
+
+2025/12/20 Current Release (only working version, this version was a dev version, we are calling it the current version now)
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [Downloads Page](../manual/downloads.md) | S | 20 Dec 2025 21:59 | (rev. 84) | [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) |
+
+2025/12/20 Current Release (only working version, this version was a dev version, we are calling it the current version now)
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [doc: Passcode](../manual/doc-passcode.md) | S | 06 Apr 2025 17:10 | (rev. 41) | [kf6wax](https://www.wikidot.com/user:info/kf6wax) |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [doc: Passcode](../manual/doc-passcode.md) | S | 06 Apr 2025 17:04 | (rev. 40) | [kf6wax](https://www.wikidot.com/user:info/kf6wax) |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [doc: Passcode](../manual/doc-passcode.md) | S | 06 Apr 2025 16:54 | (rev. 39) | [kf6wax](https://www.wikidot.com/user:info/kf6wax) |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [doc: Passcode](../manual/doc-passcode.md) | S | 06 Apr 2025 16:27 | (rev. 38) | [kf6wax](https://www.wikidot.com/user:info/kf6wax) |
+
+page 1123...next »

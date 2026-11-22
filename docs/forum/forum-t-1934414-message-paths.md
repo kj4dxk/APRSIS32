@@ -4,8 +4,6 @@ title: "Message paths"
 
 # Message paths
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-1934414/message-paths) · [Archived HTML](../archive/pages/forum_t-1934414_message-paths--11d0b4de55fc.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / Feature Requests](forum-c-312348-feature-requests.md)
 » Message paths
@@ -14,7 +12,7 @@ Started by: [![steve galbraith](../archive/assets/avatar--2e1f55f2e428.php)](htt
 Date: 03 Oct 2016 14:02  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-1934414.xml)
+RSS: New posts
 
 Summary:
 

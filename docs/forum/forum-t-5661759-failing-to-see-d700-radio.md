@@ -4,8 +4,6 @@ title: "Failing to see D700 radio"
 
 # Failing to see D700 radio
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-5661759/failing-to-see-d700-radio) · [Archived HTML](../archive/pages/forum_t-5661759_failing-to-see-d700-radio--560c8bd06d32.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / Feature Requests](forum-c-312348-feature-requests.md)
 » Failing to see D700 radio
@@ -14,7 +12,7 @@ Started by: [![M0VLK](../archive/assets/avatar--38473c73ab02.php)](https://www.w
 Date: 01 Apr 2018 20:10  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-5661759.xml)
+RSS: New posts
 
 Summary:
 

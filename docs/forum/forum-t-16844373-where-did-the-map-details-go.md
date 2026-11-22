@@ -4,8 +4,6 @@ title: "Where did the map details go?"
 
 # Where did the map details go?
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-16844373/where-did-the-map-details-go) · [Archived HTML](../archive/pages/forum_t-16844373_where-did-the-map-details-go--3ddd99f833c0.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Where did the map details go?
@@ -14,7 +12,7 @@ Started by: [![nz4d](../archive/assets/avatar--06c30fec1fd2.php)](https://www.wi
 Date: 02 Jun 2024 15:29  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-16844373.xml)
+RSS: New posts
 
 Summary:
 

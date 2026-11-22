@@ -4,8 +4,6 @@ title: "Won't transmit"
 
 # Won't transmit
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-5717496/won-t-transmit) · [Archived HTML](../archive/pages/forum_t-5717496_won-t-transmit--c2b0d7865067.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Won't transmit
@@ -14,7 +12,7 @@ Started by: [![w5cjm](../archive/assets/avatar--6e912e9e8cbe.php)](https://www.w
 Date: 10 Apr 2018 18:32  
 Number of posts: 3  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-5717496.xml)
+RSS: New posts
 
 Unfold All
 Fold All

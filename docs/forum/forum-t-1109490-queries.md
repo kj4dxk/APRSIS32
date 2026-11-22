@@ -4,8 +4,6 @@ title: "Queries"
 
 # Queries
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-1109490/queries) · [Archived HTML](../archive/pages/forum_t-1109490_queries--07b412b5bb97.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [WIKI per page discussion / Per page discussions](forum-c-494256-per-page-discussions.md)
 » Queries
@@ -14,7 +12,7 @@ Started by: [![Pat Ryan KC6VVT](../archive/assets/avatar--bcf36581ff46.php)](htt
 Date: 12 Feb 2015 17:02  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-1109490.xml)
+RSS: New posts
 
 Summary:
 

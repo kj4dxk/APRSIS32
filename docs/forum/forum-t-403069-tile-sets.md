@@ -4,8 +4,6 @@ title: "Tile Sets / Discussion"
 
 # Tile Sets / Discussion
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-403069/tile-sets) · [Archived HTML](../archive/pages/forum_t-403069_tile-sets--f96600777c4a.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [WIKI per page discussion / Per page discussions](forum-c-494256-per-page-discussions.md)
 » Tile Sets
@@ -14,7 +12,7 @@ Started by: Wikidot
 Date: 22 Oct 2011 05:38  
 Number of posts: 4  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-403069.xml)
+RSS: New posts
 
 This is the discussion related to the wiki page [Tile Sets](../manual/tile-sets.md).
 

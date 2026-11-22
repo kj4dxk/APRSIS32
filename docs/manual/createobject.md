@@ -4,8 +4,6 @@ title: "create object"
 
 # create object
 
-[Source wiki page](https://aprsisce.wikidot.com/createobject) · [Archived HTML](../archive/pages/createobject--5d0955bd7d6e.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 ![ConfigureObjectmap.png](../archive/assets/local--files_createobject_ConfigureObjectmap--77617088972c.png)
 
 **(1) Enabled**  

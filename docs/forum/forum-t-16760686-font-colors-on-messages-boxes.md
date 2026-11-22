@@ -4,8 +4,6 @@ title: "Font Colors on Messages boxes"
 
 # Font Colors on Messages boxes
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-16760686/font-colors-on-messages-boxes) · [Archived HTML](../archive/pages/forum_t-16760686_font-colors-on-messages-boxes--f3e8bdb659e2.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Font Colors on Messages boxes
@@ -14,7 +12,7 @@ Started by: [![NR4U Bob](../archive/assets/avatar--35032b65e36e.php)](https://ww
 Date: 29 Mar 2024 13:03  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-16760686.xml)
+RSS: New posts
 
 Summary:
 

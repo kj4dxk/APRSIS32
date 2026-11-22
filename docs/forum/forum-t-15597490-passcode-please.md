@@ -4,8 +4,6 @@ title: "Passcode Please"
 
 # Passcode Please
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-15597490/passcode-please) · [Archived HTML](../archive/pages/forum_t-15597490_passcode-please--673e47d934c7.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Passcode Please
@@ -14,7 +12,7 @@ Started by: [![K7OGW](../archive/assets/avatar--50dcfc4f6c3c.php)](https://www.w
 Date: 03 Feb 2023 03:07  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-15597490.xml)
+RSS: New posts
 
 Unfold All
 Fold All

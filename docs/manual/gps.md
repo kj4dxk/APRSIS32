@@ -4,8 +4,6 @@ title: "GPS"
 
 # GPS
 
-[Source wiki page](https://aprsisce.wikidot.com/gps) · [Archived HTML](../archive/pages/gps--3991f9bebef6.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 One of the main pieces of an Automatic Packet Reporting System is the ability for the station to determine it's location automatically. This is the job of the Global Positioning System Receiver. The GPS uses signals from a constellation of GPS satellites which are constantly orbiting the globe. Using sophisticated timing routines, it is possible to determine a three dimensional position fix based on radio signals received by the GPSr.
 
 The position fix calculated by the GPSr is passed on to the program as a latitude, longitude, altitude, along with some other information such as course and speed. All of this information is used by the program to determine where it is located, and what maps to display on screen. This information is also used by the Genius routine to determine when it is necessary to send out an updated location report to the APRS network.

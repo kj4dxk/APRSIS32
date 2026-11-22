@@ -4,8 +4,6 @@ title: "I'm Back!"
 
 # I'm Back!
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-10198930/i-m-back) · [Archived HTML](../archive/pages/forum_t-10198930_i-m-back--66d7db22f574.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » I'm Back!
@@ -14,7 +12,7 @@ Started by: [![Rory Bowers](../archive/assets/avatar--81451bee087e.php)](https:/
 Date: 05 Feb 2019 20:45  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-10198930.xml)
+RSS: New posts
 
 Summary:
 

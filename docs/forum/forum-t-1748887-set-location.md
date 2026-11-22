@@ -4,8 +4,6 @@ title: "Set Location"
 
 # Set Location
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-1748887/set-location) · [Archived HTML](../archive/pages/forum_t-1748887_set-location--8576ab28cba9.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Set Location
@@ -14,7 +12,7 @@ Started by: [![dsmithnc](../archive/assets/avatar--349bf2c70079.php)](https://ww
 Date: 28 Jun 2016 19:34  
 Number of posts: 3  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-1748887.xml)
+RSS: New posts
 
 Unfold All
 Fold All

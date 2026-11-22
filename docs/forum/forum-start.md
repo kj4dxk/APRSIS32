@@ -4,8 +4,6 @@ title: "Forum Categories"
 
 # Forum Categories
 
-[Source wiki page](https://aprsisce.wikidot.com/forum:start) · [Archived HTML](../archive/pages/forum_start--a5dcfe2155e4.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 APRSISCE/32 Discussion
 
 Discuss the software here
@@ -24,6 +22,6 @@ Discuss WIKI pages
 
 <table class="aprs-figure-table"><tr class="head"><td>Category name</td><td>Threads</td><td>Posts</td><td>Last post</td></tr><tr><td class="name"><div class="title"><a href="forum-c-494256-per-page-discussions.md">Per page discussions</a></div><div class="description">This category holds per-page comment threads</div></td><td class="threads">63</td><td class="posts">29</td><td class="last">by <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/richard-driscoll"><img alt="Richard Driscoll" class="small" src="../archive/assets/avatar--00efd1cdee6f.php" style="background-image:url(../assets/userkarma--eba7e8f75dcf.php)"/></a><a href="https://www.wikidot.com/user:info/richard-driscoll">Richard Driscoll</a></span><br/><span class="odate time_1648526313 format_%28%25O%20ago%29">29 Mar 2022 03:58</span><a href="forum-t-630615.md#post-5244303">Jump!</a></td></tr></table>
 
-[Show hidden](https://aprsisce.wikidot.com/forum/start/hidden/show)
+Show hidden
 
-![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png) RSS: [New threads](https://aprsisce.wikidot.com/feed/forum/threads.xml) | [New posts](https://aprsisce.wikidot.com/feed/forum/posts.xml)
+![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png) RSS: New threads | New posts

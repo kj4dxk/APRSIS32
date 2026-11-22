@@ -4,8 +4,6 @@ title: "TNC-SCS-DSP / Discussion"
 
 # TNC-SCS-DSP / Discussion
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-437313/tnc-scs-dsp) · [Archived HTML](../archive/pages/forum_t-437313_tnc-scs-dsp--07dfca795d2c.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [WIKI per page discussion / Per page discussions](forum-c-494256-per-page-discussions.md)
 » TNC-SCS-DSP
@@ -14,7 +12,7 @@ Started by: Wikidot
 Date: 28 Jan 2012 11:05  
 Number of posts: 0  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-437313.xml)
+RSS: New posts
 
 This is the discussion related to the wiki page [TNC-SCS-DSP](../manual/tnc-scs-dsp.md).
 

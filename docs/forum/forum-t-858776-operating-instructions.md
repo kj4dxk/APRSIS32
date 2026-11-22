@@ -4,8 +4,6 @@ title: "Operating Instructions"
 
 # Operating Instructions
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-858776/operating-instructions) · [Archived HTML](../archive/pages/forum_t-858776_operating-instructions--740a35aaf4a0.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Operating Instructions
@@ -14,7 +12,7 @@ Started by: [![radiotwo](../archive/assets/avatar--47bcfe4eb1c5.php)](https://ww
 Date: 07 May 2014 17:30  
 Number of posts: 5  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-858776.xml)
+RSS: New posts
 
 Unfold All
 Fold All
@@ -88,9 +86,9 @@ Re: Operating Instructions
 
 <span id="post-content-2027551"></span>
 
-Have you seen the wiki at [http://aprsisce.wikidot.com/](../manual/wiki-home.md)
+Have you seen the wiki at [Related manual page](../manual/wiki-home.md)
 
-In particular: [http://aprsisce.wikidot.com/doc:screen-elements](../manual/doc-screen-elements.md)
+In particular: [Related manual page](../manual/doc-screen-elements.md)
 
 I think you're asking about:
 

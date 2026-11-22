@@ -4,8 +4,6 @@ title: "Will not unload"
 
 # Will not unload
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-1763829/will-not-unload) · [Archived HTML](../archive/pages/forum_t-1763829_will-not-unload--decfa634720c.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Will not unload
@@ -14,7 +12,7 @@ Started by: [![G1EFU](../archive/assets/avatar--2566ba53ce20.php)](https://www.w
 Date: 19 Jul 2016 07:49  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-1763829.xml)
+RSS: New posts
 
 Summary:
 
@@ -81,7 +79,7 @@ Have you unzipped the program into a newly created directory? And do you have In
 
 Please read the following and watch G4ILO's excellent video:
 
-[http://aprsisce.wikidot.com/initial-startup](../manual/initial-startup.md)
+[Related manual page](../manual/initial-startup.md)
 
 Lynn (D) - KJ4ERJ - Author of APRSISCE for Windows Mobile and Win32
 

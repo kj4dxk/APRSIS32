@@ -4,8 +4,6 @@ title: "Track Tails"
 
 # Track Tails
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-776835/track-tails) · [Archived HTML](../archive/pages/forum_t-776835_track-tails--b7d5f3fee284.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / Feature Requests](forum-c-312348-feature-requests.md)
 » Track Tails
@@ -14,7 +12,7 @@ Started by: [![n5ysq](../archive/assets/avatar--79a53769325b.php)](https://www.w
 Date: 15 Feb 2014 00:18  
 Number of posts: 5  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-776835.xml)
+RSS: New posts
 
 Summary:
 

@@ -4,8 +4,6 @@ title: "DigiPeating / Discussion"
 
 # DigiPeating / Discussion
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-630615/digipeating) · [Archived HTML](../archive/pages/forum_t-630615_digipeating--e86e6c513c57.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [WIKI per page discussion / Per page discussions](forum-c-494256-per-page-discussions.md)
 » DigiPeating
@@ -14,7 +12,7 @@ Started by: Wikidot
 Date: 03 Mar 2013 22:25  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-630615.xml)
+RSS: New posts
 
 This is the discussion related to the wiki page [DigiPeating](../manual/doc-digipeating.md).
 

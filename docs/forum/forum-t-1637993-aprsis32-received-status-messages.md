@@ -4,8 +4,6 @@ title: "APRSIS32 Received Status Messages"
 
 # APRSIS32 Received Status Messages
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-1637993/aprsis32-received-status-messages) · [Archived HTML](../archive/pages/forum_t-1637993_aprsis32-received-status-messages--075c3e462768.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » APRSIS32 Received Status Messages
@@ -14,7 +12,7 @@ Started by: [![Varaderoxlv1000](../archive/assets/avatar--e296ced05816.php)](htt
 Date: 07 Mar 2016 18:15  
 Number of posts: 5  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-1637993.xml)
+RSS: New posts
 
 Summary:
 

@@ -4,8 +4,6 @@ title: "Menu"
 
 # Menu
 
-[Source wiki page](https://aprsisce.wikidot.com/menu) · [Archived HTML](../archive/pages/menu--89c93fee8bb0.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Transmit | Enables | Messages | Screen | View | Configure | Clear | About | Exit |

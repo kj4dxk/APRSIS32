@@ -4,8 +4,6 @@ title: "Blink when message received"
 
 # Blink when message received
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-555031/blink-when-message-received) · [Archived HTML](../archive/pages/forum_t-555031_blink-when-message-received--1b0d67e58073.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / Feature Requests](forum-c-312348-feature-requests.md)
 » Blink when message received
@@ -14,7 +12,7 @@ Started by: [![Tony VE6MVP](../archive/assets/avatar--8314671837cc.php)](https:/
 Date: 26 Aug 2012 01:56  
 Number of posts: 3  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-555031.xml)
+RSS: New posts
 
 Unfold All
 Fold All

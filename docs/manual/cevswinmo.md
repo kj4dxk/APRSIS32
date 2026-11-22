@@ -4,8 +4,6 @@ title: "Windows CE vs Windows Mobile"
 
 # Windows CE vs Windows Mobile
 
-[Source wiki page](https://aprsisce.wikidot.com/cevswinmo) · [Archived HTML](../archive/pages/cevswinmo--25c208b3f4ef.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 One very frequently asked question is:
 
 "Will APRSISCE run on xyz's GPS device using CE 5.0/6.0?"

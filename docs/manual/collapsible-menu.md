@@ -4,8 +4,6 @@ title: "Collapsible Menu"
 
 # Collapsible Menu
 
-[Source wiki page](https://aprsisce.wikidot.com/collapsible-menu) · [Archived HTML](../archive/pages/collapsible-menu--9a4cc8296823.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 This page emulates the menu bar in APRSISCE/32 as closely as possible within the Wiki limitations. You should be able to find any menu item here just where you would find it in the menu, click on the menu item and you will be taken to a page describing the feature available in that menu selection.
 
 --

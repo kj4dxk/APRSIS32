@@ -4,8 +4,6 @@ title: "Local News Feeds RSS"
 
 # Local News Feeds RSS
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-2161283/local-news-feeds-rss) · [Archived HTML](../archive/pages/forum_t-2161283_local-news-feeds-rss--3cdce9295b22.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / Feature Requests](forum-c-312348-feature-requests.md)
 » Local News Feeds RSS
@@ -14,7 +12,7 @@ Started by: [![Oliver Cohen](https://www.wikidot.com/avatar.php?userid=3009441&a
 Date: 12 Mar 2017 08:36  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-2161283.xml)
+RSS: New posts
 
 Summary:
 

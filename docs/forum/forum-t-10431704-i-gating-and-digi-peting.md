@@ -4,8 +4,6 @@ title: "I GATING  and DIGI PETING"
 
 # I GATING  and DIGI PETING
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-10431704/i-gating-and-digi-peting) · [Archived HTML](../archive/pages/forum_t-10431704_i-gating-and-digi-peting--0d105d9094d2.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / Feature Requests](forum-c-312348-feature-requests.md)
 » I GATING and DIGI PETING
@@ -14,7 +12,7 @@ Started by: [![Bradley Haney](../archive/assets/avatar--87b7dbbc0467.php)](https
 Date: 27 Feb 2019 01:58  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-10431704.xml)
+RSS: New posts
 
 Summary:
 

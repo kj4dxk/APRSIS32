@@ -4,8 +4,6 @@ title: "Digipeating - block station or digipeat station only at 't' interval"
 
 # Digipeating - block station or digipeat station only at 't' interval
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-5297719/digipeating-block-station-or-digipeat-station-only-at-t-inte) · [Archived HTML](../archive/pages/forum_t-5297719_digipeating-block-station-or-digipeat-station-only-at-t-inte--8ecde84a2834.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Digipeating - block station or digipeat station only at 't' interval
@@ -14,7 +12,7 @@ Started by: [![IulianP](../archive/assets/avatar--71e548fd5431.php)](https://www
 Date: 18 Feb 2018 19:21  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-5297719.xml)
+RSS: New posts
 
 Unfold All
 Fold All

@@ -4,8 +4,6 @@ title: "Setting Transmit port"
 
 # Setting Transmit port
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-1957293/setting-transmit-port) · [Archived HTML](../archive/pages/forum_t-1957293_setting-transmit-port--e77b696ab49b.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Setting Transmit port
@@ -14,7 +12,7 @@ Started by: [![Zillabob](../archive/assets/avatar--ab9a2fcb7423.php)](https://ww
 Date: 22 Oct 2016 06:31  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-1957293.xml)
+RSS: New posts
 
 Unfold All
 Fold All

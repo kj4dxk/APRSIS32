@@ -4,8 +4,6 @@ title: "Freqspec"
 
 # Freqspec
 
-[Source wiki page](https://aprsisce.wikidot.com/freqspec) · [Archived HTML](../archive/pages/freqspec--879fe0b0b329.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 Hopefully this page will help document the current specifications pertaining to the **Frequency Object** and **Position Comment** specifications, and the various implementations in place.
 
 | Implemented by | ;FFF.FFFxy/ FFF.FFxyz | Position Info | FFF.FFFMHz | FFF.FFFrx/ FFF.FF\_+ | Txxx/ Cxxx/ Dxxx/ 1750/ Exxm | Rxxm/ Rxxk/ Wxxm/ +060 | comments/ free text |

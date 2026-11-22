@@ -4,8 +4,6 @@ title: "New to APRSSI/32 Modem problem"
 
 # New to APRSSI/32 Modem problem
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-854479/new-to-aprssi-32-modem-problem) · [Archived HTML](../archive/pages/forum_t-854479_new-to-aprssi-32-modem-problem--2ac0d7911415.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » New to APRSSI/32 Modem problem
@@ -14,7 +12,7 @@ Started by: [![N0EVH](../archive/assets/avatar--fd29c5c41f3f.php)](https://www.w
 Date: 28 Apr 2014 16:44  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-854479.xml)
+RSS: New posts
 
 Unfold All
 Fold All

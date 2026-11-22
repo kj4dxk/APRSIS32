@@ -4,8 +4,6 @@ title: "Create a moving Object"
 
 # Create a moving Object
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-465213/create-a-moving-object) · [Archived HTML](../archive/pages/forum_t-465213_create-a-moving-object--80d93daafb69.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [WIKI per page discussion / Per page discussions](forum-c-494256-per-page-discussions.md)
 » Create a moving Object
@@ -14,7 +12,7 @@ Started by: [![DG1PI](../archive/assets/avatar--d32c9fb5f819.php)](https://www.w
 Date: 30 Apr 2012 15:28  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-465213.xml)
+RSS: New posts
 
 Summary:
 

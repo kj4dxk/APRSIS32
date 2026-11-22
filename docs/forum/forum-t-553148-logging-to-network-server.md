@@ -4,8 +4,6 @@ title: "Logging to network server"
 
 # Logging to network server
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-553148/logging-to-network-server) · [Archived HTML](../archive/pages/forum_t-553148_logging-to-network-server--bc4a35a8c069.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / Feature Requests](forum-c-312348-feature-requests.md)
 » Logging to network server
@@ -14,7 +12,7 @@ Started by: [![N4TQU](../archive/assets/avatar--a5ce01e5bc83.php)](https://www.w
 Date: 19 Aug 2012 18:22  
 Number of posts: 4  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-553148.xml)
+RSS: New posts
 
 Unfold All
 Fold All
@@ -136,7 +134,7 @@ Re: Logging to network server
 
 <span id="post-content-1543490"></span>
 
-I consider the iS-/Local-Server ports to be still in test, so they're only available in the Development version. See [http://aprsisce.wikidot.com/doc:development-version](../manual/doc-development-version.md)
+I consider the iS-/Local-Server ports to be still in test, so they're only available in the Development version. See [Related manual page](../manual/doc-development-version.md)
 
 Lynn (D) - KJ4ERJ - Author of APRSISCE for Windows Mobile and Win32
 

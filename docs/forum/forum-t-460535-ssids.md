@@ -4,8 +4,6 @@ title: "SSIDs / Discussion"
 
 # SSIDs / Discussion
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-460535/ssids) · [Archived HTML](../archive/pages/forum_t-460535_ssids--8e5a09e6802c.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [WIKI per page discussion / Per page discussions](forum-c-494256-per-page-discussions.md)
 » SSIDs
@@ -14,7 +12,7 @@ Started by: Wikidot
 Date: 11 Apr 2012 14:27  
 Number of posts: 0  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-460535.xml)
+RSS: New posts
 
 This is the discussion related to the wiki page [SSIDs](../manual/doc-ssids.md).
 

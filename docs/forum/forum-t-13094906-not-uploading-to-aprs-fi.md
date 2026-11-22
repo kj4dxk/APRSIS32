@@ -4,8 +4,6 @@ title: "Not uploading to APRS.fi"
 
 # Not uploading to APRS.fi
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-13094906/not-uploading-to-aprs-fi) · [Archived HTML](../archive/pages/forum_t-13094906_not-uploading-to-aprs-fi--0eea03b459ee.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Not uploading to APRS.fi
@@ -14,7 +12,7 @@ Started by: [![M0nvk](../archive/assets/avatar--8e5dec8b39ec.php)](https://www.w
 Date: 01 Mar 2020 19:02  
 Number of posts: 3  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-13094906.xml)
+RSS: New posts
 
 Summary:
 

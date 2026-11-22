@@ -4,8 +4,6 @@ title: "Presentations"
 
 # Presentations
 
-[Source wiki page](https://aprsisce.wikidot.com/presentations) · [Archived HTML](../archive/pages/presentations--11ebc9ad9752.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 Here is a collection of presentations that have been done for APRSISCE/32. Where possible, both (read-only) PDF and (editable) PowerPoint files have been provided.
 
 20231104 Stone Mountain Hamfest  

@@ -4,8 +4,6 @@ title: "heardby hearing"
 
 # heardby hearing
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-13869934/heardby-hearing) · [Archived HTML](../archive/pages/forum_t-13869934_heardby-hearing--6301c36d8ce4.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » heardby hearing
@@ -14,7 +12,7 @@ Started by: [![John KB3AWQ](../archive/assets/avatar--88969c46fd13.php)](https:/
 Date: 21 Nov 2020 17:46  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-13869934.xml)
+RSS: New posts
 
 Unfold All
 Fold All

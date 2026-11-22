@@ -4,8 +4,6 @@ title: "How To Upgrade To Newer Version"
 
 # How To Upgrade To Newer Version
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-752347/how-to-upgrade-to-newer-version) · [Archived HTML](../archive/pages/forum_t-752347_how-to-upgrade-to-newer-version--67f3b77d8e88.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » How To Upgrade To Newer Version
@@ -14,7 +12,7 @@ Started by: [![Jon Kreski](../archive/assets/avatar--432ba81aaebc.php)](https://
 Date: 21 Dec 2013 15:38  
 Number of posts: 6  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-752347.xml)
+RSS: New posts
 
 Summary:
 
@@ -132,8 +130,8 @@ Re: How To Upgrade To Newer Version
 <span id="post-content-1920082"></span>
 
 covered on the wiki  
-[http://aprsisce.wikidot.com/doc:development-version](../manual/doc-development-version.md)  
-[http://aprsisce.wikidot.com/doc:editing-xml-configuration](../manual/doc-editing-xml-configuration.md)  
+[Related manual page](../manual/doc-development-version.md)  
+[Related manual page](../manual/doc-editing-xml-configuration.md)  
 I would backup the XML file just in case, handy to have a backup anyway incase it gets corrupted.  
 Any plain text editor will be fine, notepad will do, just make sure it does not save the config as APRSIS32.xml.txt
 

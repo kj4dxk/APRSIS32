@@ -4,8 +4,6 @@ title: "Auto load the symbols?"
 
 # Auto load the symbols?
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-7069413/auto-load-the-symbols) · [Archived HTML](../archive/pages/forum_t-7069413_auto-load-the-symbols--6e138439cef5.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Auto load the symbols?
@@ -14,7 +12,7 @@ Started by: [![VE1XOP](../archive/assets/avatar--e262cf02eda5.php)](https://www.
 Date: 20 Aug 2018 23:00  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-7069413.xml)
+RSS: New posts
 
 Unfold All
 Fold All

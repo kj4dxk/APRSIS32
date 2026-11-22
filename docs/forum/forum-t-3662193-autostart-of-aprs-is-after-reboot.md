@@ -4,8 +4,6 @@ title: "Autostart of APRS-IS (After reboot)"
 
 # Autostart of APRS-IS (After reboot)
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-3662193/autostart-of-aprs-is-after-reboot) · [Archived HTML](../archive/pages/forum_t-3662193_autostart-of-aprs-is-after-reboot--dc32cbdc48e4.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Autostart of APRS-IS (After reboot)
@@ -14,7 +12,7 @@ Started by: [![LA1BCA](../archive/assets/avatar--c6cbc25ddd02.php)](https://www.
 Date: 19 Sep 2017 15:35  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-3662193.xml)
+RSS: New posts
 
 Unfold All
 Fold All

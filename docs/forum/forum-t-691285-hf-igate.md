@@ -4,8 +4,6 @@ title: "HF iGATE"
 
 # HF iGATE
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-691285/hf-igate) · [Archived HTML](../archive/pages/forum_t-691285_hf-igate--afd295725435.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » HF iGATE
@@ -14,7 +12,7 @@ Started by: [![Selwyn Staples](../archive/assets/avatar--5c63551ccc2a.php)](http
 Date: 04 Sep 2013 09:43  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-691285.xml)
+RSS: New posts
 
 Summary:
 

@@ -4,8 +4,6 @@ title: "APRSISCE not transmitting through TNC on a TH-D74."
 
 # APRSISCE not transmitting through TNC on a TH-D74.
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-10224578/aprsisce-not-transmitting-through-tnc-on-a-th-d74) · [Archived HTML](../archive/pages/forum_t-10224578_aprsisce-not-transmitting-through-tnc-on-a-th-d74--4b71ca67015a.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » APRSISCE not transmitting through TNC on a TH-D74.
@@ -14,7 +12,7 @@ Started by: [![Michael Parkes](../archive/assets/avatar--68594d889fde.php)](http
 Date: 07 Feb 2019 19:03  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-10224578.xml)
+RSS: New posts
 
 Summary:
 

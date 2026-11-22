@@ -4,8 +4,6 @@ title: "Igate HELP!"
 
 # Igate HELP!
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-5068422/igate-help) · [Archived HTML](../archive/pages/forum_t-5068422_igate-help--dacc985730a2.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Igate HELP!
@@ -14,7 +12,7 @@ Started by: [![dcoulson](../archive/assets/avatar--0501369fb677.php)](https://ww
 Date: 26 Jan 2018 19:42  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-5068422.xml)
+RSS: New posts
 
 Unfold All
 Fold All

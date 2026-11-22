@@ -4,8 +4,6 @@ title: "Old KPC-3 (no plus) with v8.2, can't connect"
 
 # Old KPC-3 (no plus) with v8.2, can't connect
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-17216784/old-kpc-3-no-plus-with-v8-2-can-t-connect) · [Archived HTML](../archive/pages/forum_t-17216784_old-kpc-3-no-plus-with-v8-2-can-t-connect--e50af7bb6569.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Old KPC-3 (no plus) with v8.2, can't connect
@@ -14,7 +12,7 @@ Started by: [![k3rta](../archive/assets/avatar--4fa553bfb7cd.php)](https://www.w
 Date: 21 Aug 2025 13:04  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-17216784.xml)
+RSS: New posts
 
 Summary:
 

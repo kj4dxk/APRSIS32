@@ -4,15 +4,13 @@ title: "Configure1"
 
 # Configure1
 
-[Source wiki page](https://aprsisce.wikidot.com/configure1) · [Archived HTML](../archive/pages/configure1--d787a5b2e49a.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 The Configure menu provides access to all of the not-so-frequently changed and/or initial setup options of APRSISCE/32.
 
 [Configure / General](menu-configure-general.md)
 
 [Configure / Genius](menu-configure-genius.md)
 
-[Configure / Status](https://aprsisce.wikidot.com/menu:configure-status)
+Configure / Status
 
 [Configure / AltNet](menu-configure-altnet.md)
 

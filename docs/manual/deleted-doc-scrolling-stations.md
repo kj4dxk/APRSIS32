@@ -4,8 +4,6 @@ title: "Scrolling Stations"
 
 # Scrolling Stations
 
-[Source wiki page](https://aprsisce.wikidot.com/deleted:doc:scrolling-stations) · [Archived HTML](../archive/pages/deleted_doc_scrolling-stations--b45ab70b94a9.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 The Scrolling Station window shows stations (or objects) from which packets were recently received. This window communicates many things about the station as follows.
 
 Callsign-SSID - This one's pretty obvious, except it can be strange for object IDs.

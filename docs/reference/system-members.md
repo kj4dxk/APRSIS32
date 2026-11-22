@@ -4,8 +4,6 @@ title: "Site Members"
 
 # Site Members
 
-[Source wiki page](https://aprsisce.wikidot.com/system:members) · [Archived HTML](../archive/pages/system_members--3eaeda88fb18.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 <span id="toc0"></span>
 
 # Members:
@@ -48,11 +46,7 @@ title: "Site Members"
 
 <span id="ml-807612"></span>
 
-<table class="aprs-figure-table">
-<tr>
-<td><span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/ve6srv"><img alt="VE6SRV" class="small" src="../archive/assets/avatar--54dfd23e524e.php" style="background-image:url(../assets/userkarma--2e874e9e07a3.php)"/></a><a href="https://www.wikidot.com/user:info/ve6srv">VE6SRV</a></span></td>
-</tr>
-</table>
+[![VE6SRV](../archive/assets/avatar--54dfd23e524e.php)](https://www.wikidot.com/user:info/ve6srv)[VE6SRV](https://www.wikidot.com/user:info/ve6srv)
 
 <span id="toc2"></span>
 

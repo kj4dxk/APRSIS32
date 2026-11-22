@@ -4,8 +4,6 @@ title: "Digi form line"
 
 # Digi form line
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-14204444/digi-form-line) · [Archived HTML](../archive/pages/forum_t-14204444_digi-form-line--d51119f1bef9.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Digi form line
@@ -14,7 +12,7 @@ Started by: [![KD4DRA Rick](../archive/assets/avatar--7ba32a47dff2.php)](https:/
 Date: 22 Sep 2021 17:24  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-14204444.xml)
+RSS: New posts
 
 Summary:
 

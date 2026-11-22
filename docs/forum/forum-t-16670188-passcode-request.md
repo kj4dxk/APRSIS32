@@ -4,8 +4,6 @@ title: "Passcode request"
 
 # Passcode request
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-16670188/passcode-request) · [Archived HTML](../archive/pages/forum_t-16670188_passcode-request--6949cc2a136a.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Passcode request
@@ -14,7 +12,7 @@ Started by: [![Jim Kerns](../archive/assets/avatar--74f94aa9fb41.php)](https://w
 Date: 21 Jan 2024 01:14  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-16670188.xml)
+RSS: New posts
 
 Summary:
 

@@ -4,8 +4,6 @@ title: "WebDT 366 / Discussion"
 
 # WebDT 366 / Discussion
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-1053477/webdt-366) · [Archived HTML](../archive/pages/forum_t-1053477_webdt-366--0d55decae816.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [WIKI per page discussion / Per page discussions](forum-c-494256-per-page-discussions.md)
 » WebDT 366
@@ -14,7 +12,7 @@ Started by: Wikidot
 Date: 15 Nov 2014 21:40  
 Number of posts: 0  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-1053477.xml)
+RSS: New posts
 
 This is the discussion related to the wiki page [WebDT 366](../manual/webdt-366.md).
 

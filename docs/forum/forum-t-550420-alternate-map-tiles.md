@@ -4,8 +4,6 @@ title: "Alternate Map Tiles"
 
 # Alternate Map Tiles
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-550420/alternate-map-tiles) · [Archived HTML](../archive/pages/forum_t-550420_alternate-map-tiles--db8e0a75256f.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Alternate Map Tiles
@@ -14,7 +12,7 @@ Started by: [![Allen Griffith](../archive/assets/avatar--c50482fa4adc.php)](http
 Date: 11 Aug 2012 21:25  
 Number of posts: 5  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-550420.xml)
+RSS: New posts
 
 Summary:
 

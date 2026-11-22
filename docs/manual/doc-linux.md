@@ -4,16 +4,115 @@ title: "linux"
 
 # linux
 
-[Source wiki page](https://aprsisce.wikidot.com/doc:linux) · [Archived HTML](../archive/pages/doc_linux--ed7ff5403eb3.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
+## APRSIS on Linux
 
-|  |
-| --- |
-| **APRSIS on Linux** |
+APRSISce/32 is a Windows 32-bit application. From here on it will be referred to as APRSIS32 (since the Windows 32-bit version is what is being installed).
 
-|  |
-| --- |
-| APRSISce/32 is a Windows 32-bit application. From here on it will be referred to as APRSIS32 (since the Windows 32-bit version is what is being installed).  There are 2 methods of install APRSIS32 under Linux:   1. Using WINE – WINE lets you run Windows software on other operating systems (x86 and x86\_64 computers).     With Wine, you can install and run these applications just like you would in Windows. See below for setup. 2. Using a Virtual Environment – A Virtual Environment is an application that allows an entire virtual computer within an existing computer.     The assumption is that you would install Windows in this environment, so there is no special instruction required.   You can post on groups.io to get more help.  **INSTALLING WITHIN WINE**  The assumption is that you already have WINE installed and functional.   1. Create folder structure (2 options) 2. Copy APRSIS32 executable 3. Configure RF ports - reason for this section   **1. Folder structure**  **Folder structure from Linux CLI**  The WINE install creates a directory which is basically the Windows C: drive. You can work within that directory from within WINE (Windows style tools) or from within Linux (Linux tools). Each has advantages and disadvantages. Keep in mind that Linux is case sensitive (where Windows is typically not) and therefore WINE somewhat also.  Direct: ~/.wine/drive\_c this is equal to C: in Windows  WINE: c: this is actually a link to the above  NOTE: '~' means your home directory on Linux.  There is a DOT before the word wine → that's important!  Steps for Install: Create Directory for APRSIS32 and its supporting files.  I tend to create an applications directory for my applications with subdirectories:  Direct: mkdir ~/.wine/drive\_c/myapps  mkdir ~/.wine/drive\_c/myapps/aprsis32  NOTE: map folder will be created in a c:\myapps as with other installs  **Folder structure from within WINE:**  From your desktop you must pick the Wine menu  > Application > Browse C: Drive {This is like WinFile}  >right-click > create a directory {same old Windows drill}  **2. Copy APRSIS32 executable:**  Now I have the location where APRSIS32 will work from – the working directory,  Copy APRS32.exe to the directory you created and change it to executable (see Linux info on chmod command).  Since APRSIS32 is a single executable file, the steps of getting it running are pretty straight forward – run the application.  **WINE** provides a direct connection to the installed network card, so there is no special setup to gain access to the map tiles or APRS-IS servers.  Running from here should provide non-RF access just as in Windows.  You should be able to follow the APRSIS32 wiki and connect to an APRS-IS server.  Create a shortcut in your Linux menu to application  The command line for APRSIS32 would be  wine ~/.wine/myapps/aprsis32/APRSIS32.exe  or I had to use xdg-open .wine/dosdevices/c:/myapps/aprsis32/aprsis32.exe  again – case sensitive!  **3. Add RF Ports:**  Now let's setup the connections to ports for RF access.  The keys to getting it 'functional' under Linux are in getting LINUX to allow WINE to talk with hardware properly. In this case that would be serial ports.  **IMPORTANT:**  Your user name needs to be added to the dialout group in Linux to gain access to the hardware.  This can be done through the 'USER and GROUPS' which is usually found in the 'Administration' menu (recommended method).  Just go to 'Manage Groups', choose the dialout group and make sure the check box next to your username is checked.  You can also edit the /etc/group file as root (or sudo) with a text editor and manually add your user name at the end of the line:  dialout:x:20:{your user name here}  RF Ports: Post WINE 2.8  Newer versions of WINE have predefined com ports 1 through 32 (all are visible to applciations) linked to ttyS0 - ttyS31. If you are using a standard, hardware serial port from your computer, it will map to one of those com numbers. NOTE: ttyS0 maps to COM1, so the numbers are off by 1. Just choose the correct port.  Each USB serial devices will be added as com33 and above and mapped to ttyUSB0 and up. You can connect to the COM port that is assigned to your USB device using these high COM numbers without issue. However, although com33 may always be ttyUSB0, you can't be sure which USB device get ttyUSB0. When using multiple USB serial devices there is no guarantee the same port will be used each time you plug in your USB TNC device. Since APRSIS32 refers to the COM device, you need to a way to ensure the same com# is used by the USB TNC device, not just ttyUSB# assigned. The easiest way is to override the existing (non-Hardware) ttyS# ports.  To override an existing COM port, you can use udev rules (internet search on Linux udev for details).  Adding a rule such as:  SUBSYSTEM=="tty", ATTRS{idVendor}=="0403", ATTRS{idProduct}=="6001", SYMLINK+="ttyS3"  This will link the common FT232 USB to serial device (Vendor code 0403 and Product code 6001) to /dev/ttyS3. This is already mapped to COM4.  Two additional notes:  1. Add a file with the .rules exctention in /etc/udev/rules.d with all the devices you want to map.  I named one **65-TNC.rules** to keep all my TNCs in one place.  2. If you have multiple USB devices with the same product and vendor code, you will need to add a unique identifier like a serial number for each device.  RFPorts: PreWINE 2.8  Windows refers to serial ports as COM#. Linux refers to them as ttyS# or ttyUSB# under the /dev directory. You access the device as a file in the /dev directory . Since WINE needs access from a specific directory, you create a link to the /dev/{device} you want to access. This requires a 'unique link' for each port number that you want to connect to. To create a functional link that WNIE can use:  ln -s /dev/ttyS0 ~/.wine/dosdevices/com1  ln -s /dev/ttyUSB0 ~/.wine/dosdevices/com2  The first link command is to the FIRST physical serial port (typically 9-pin D-sub) and the second link command is to the FIRST USB to com port. NOTE the device numbering starts at ZERO.  CATCH: USB devices are dynamic and can change. I have experienced a USB to Serial device that hangs and Linux does some sort of retry which may cause the number to change. Since each 'brand' of Linux has different ways of resolving this (UDEV for example), you should consult your brand for details.  Some versions of WINE require a Windows Registry entry to map the files to the comm ports  The Windows Registry is a simple text file. You can edit the file and search to see if you need to add the description. For more infomration I recommend [WINE HQ](http://www.example.com).  The file to modify can be found using the WINE  > Application > Browse C: Drive {This is like WinFile}  open the windows directory  find regedit.exe  This may help your see if the info is there, but I recommend using a text editor to  add the required lines in the text file as described below:  > Application > Browse C: Drive {This is like WinFile}  Then go back 2 directories to .wine  or ~/.wine  the file name is system.reg. Copy and past the lines below (corrected for your ports)  [HARDWARE\\DEVICEMAP\\SERIALCOMM]  "COM1"="COM1"  "COM2"="COM2"  I added them to the top (and yes with quotes).  Good Luck!  73 KB8RCO |
+There are 2 methods of install APRSIS32 under Linux:
 
-|  |
-| --- |
-|  |
+1. Using WINE – WINE lets you run Windows software on other operating systems (x86 and x86\_64 computers).  
+   With Wine, you can install and run these applications just like you would in Windows. See below for setup.
+2. Using a Virtual Environment – A Virtual Environment is an application that allows an entire virtual computer within an existing computer.  
+   The assumption is that you would install Windows in this environment, so there is no special instruction required.
+
+You can post on groups.io to get more help.
+
+**INSTALLING WITHIN WINE**  
+The assumption is that you already have WINE installed and functional.
+
+1. Create folder structure (2 options)
+2. Copy APRSIS32 executable
+3. Configure RF ports - reason for this section
+
+**1. Folder structure**
+
+**Folder structure from Linux CLI**  
+The WINE install creates a directory which is basically the Windows C: drive. You can work within that directory from within WINE (Windows style tools) or from within Linux (Linux tools). Each has advantages and disadvantages. Keep in mind that Linux is case sensitive (where Windows is typically not) and therefore WINE somewhat also.  
+Direct: ~/.wine/drive\_c this is equal to C: in Windows  
+WINE: c: this is actually a link to the above  
+NOTE: '~' means your home directory on Linux.  
+There is a DOT before the word wine → that's important!  
+Steps for Install: Create Directory for APRSIS32 and its supporting files.  
+I tend to create an applications directory for my applications with subdirectories:
+
+Direct: mkdir ~/.wine/drive\_c/myapps  
+mkdir ~/.wine/drive\_c/myapps/aprsis32  
+NOTE: map folder will be created in a c:\myapps as with other installs
+
+**Folder structure from within WINE:**  
+From your desktop you must pick the Wine menu  
+> Application > Browse C: Drive {This is like WinFile}  
+>right-click > create a directory {same old Windows drill}
+
+**2. Copy APRSIS32 executable:**  
+Now I have the location where APRSIS32 will work from – the working directory,  
+Copy APRS32.exe to the directory you created and change it to executable (see Linux info on chmod command).  
+Since APRSIS32 is a single executable file, the steps of getting it running are pretty straight forward – run the application.  
+**WINE** provides a direct connection to the installed network card, so there is no special setup to gain access to the map tiles or APRS-IS servers.  
+Running from here should provide non-RF access just as in Windows.  
+You should be able to follow the APRSIS32 wiki and connect to an APRS-IS server.
+
+Create a shortcut in your Linux menu to application  
+The command line for APRSIS32 would be  
+wine ~/.wine/myapps/aprsis32/APRSIS32.exe  
+or I had to use xdg-open .wine/dosdevices/c:/myapps/aprsis32/aprsis32.exe  
+again – case sensitive!
+
+**3. Add RF Ports:**  
+Now let's setup the connections to ports for RF access.  
+The keys to getting it 'functional' under Linux are in getting LINUX to allow WINE to talk with hardware properly. In this case that would be serial ports.
+
+**IMPORTANT:**  
+Your user name needs to be added to the dialout group in Linux to gain access to the hardware.  
+This can be done through the 'USER and GROUPS' which is usually found in the 'Administration' menu (recommended method).  
+Just go to 'Manage Groups', choose the dialout group and make sure the check box next to your username is checked.  
+You can also edit the /etc/group file as root (or sudo) with a text editor and manually add your user name at the end of the line:  
+dialout:x:20:{your user name here}
+
+RF Ports: Post WINE 2.8  
+Newer versions of WINE have predefined com ports 1 through 32 (all are visible to applciations) linked to ttyS0 - ttyS31. If you are using a standard, hardware serial port from your computer, it will map to one of those com numbers. NOTE: ttyS0 maps to COM1, so the numbers are off by 1. Just choose the correct port.
+
+Each USB serial devices will be added as com33 and above and mapped to ttyUSB0 and up. You can connect to the COM port that is assigned to your USB device using these high COM numbers without issue. However, although com33 may always be ttyUSB0, you can't be sure which USB device get ttyUSB0. When using multiple USB serial devices there is no guarantee the same port will be used each time you plug in your USB TNC device. Since APRSIS32 refers to the COM device, you need to a way to ensure the same com# is used by the USB TNC device, not just ttyUSB# assigned. The easiest way is to override the existing (non-Hardware) ttyS# ports.
+
+To override an existing COM port, you can use udev rules (internet search on Linux udev for details).  
+Adding a rule such as:  
+SUBSYSTEM=="tty", ATTRS{idVendor}=="0403", ATTRS{idProduct}=="6001", SYMLINK+="ttyS3"  
+This will link the common FT232 USB to serial device (Vendor code 0403 and Product code 6001) to /dev/ttyS3. This is already mapped to COM4.
+
+Two additional notes:  
+1. Add a file with the .rules exctention in /etc/udev/rules.d with all the devices you want to map.  
+I named one **65-TNC.rules** to keep all my TNCs in one place.  
+2. If you have multiple USB devices with the same product and vendor code, you will need to add a unique identifier like a serial number for each device.
+
+RFPorts: PreWINE 2.8  
+Windows refers to serial ports as COM#. Linux refers to them as ttyS# or ttyUSB# under the /dev directory. You access the device as a file in the /dev directory . Since WINE needs access from a specific directory, you create a link to the /dev/{device} you want to access. This requires a 'unique link' for each port number that you want to connect to. To create a functional link that WNIE can use:  
+ln -s /dev/ttyS0 ~/.wine/dosdevices/com1  
+ln -s /dev/ttyUSB0 ~/.wine/dosdevices/com2  
+The first link command is to the FIRST physical serial port (typically 9-pin D-sub) and the second link command is to the FIRST USB to com port. NOTE the device numbering starts at ZERO.
+
+CATCH: USB devices are dynamic and can change. I have experienced a USB to Serial device that hangs and Linux does some sort of retry which may cause the number to change. Since each 'brand' of Linux has different ways of resolving this (UDEV for example), you should consult your brand for details.
+
+Some versions of WINE require a Windows Registry entry to map the files to the comm ports
+
+The Windows Registry is a simple text file. You can edit the file and search to see if you need to add the description. For more infomration I recommend [WINE HQ](http://www.example.com).
+
+The file to modify can be found using the WINE  
+> Application > Browse C: Drive {This is like WinFile}  
+open the windows directory  
+find regedit.exe  
+This may help your see if the info is there, but I recommend using a text editor to  
+add the required lines in the text file as described below:
+
+> Application > Browse C: Drive {This is like WinFile}  
+Then go back 2 directories to .wine  
+or ~/.wine
+
+the file name is system.reg. Copy and past the lines below (corrected for your ports)  
+[HARDWARE\\DEVICEMAP\\SERIALCOMM]  
+"COM1"="COM1"  
+"COM2"="COM2"
+
+I added them to the top (and yes with quotes).
+
+Good Luck!  
+73 KB8RCO

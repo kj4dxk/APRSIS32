@@ -4,8 +4,6 @@ title: "Digipeating rules"
 
 # Digipeating rules
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-5493949/digipeating-rules) · [Archived HTML](../archive/pages/forum_t-5493949_digipeating-rules--08cc78266198.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Digipeating rules
@@ -14,7 +12,7 @@ Started by: [![Mark VA2MM](../archive/assets/avatar--c41407aa1fc2.php)](https://
 Date: 15 Mar 2018 20:14  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-5493949.xml)
+RSS: New posts
 
 Summary:
 

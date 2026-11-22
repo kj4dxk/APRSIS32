@@ -4,8 +4,6 @@ title: "Dont see chat replies in chat window, but as note on the right of screen
 
 # Dont see chat replies in chat window, but as note on the right of screen
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-2061953/dont-see-chat-replies-in-chat-window-but-as-note-on-the-righ) · [Archived HTML](../archive/pages/forum_t-2061953_dont-see-chat-replies-in-chat-window-but-as-note-on-the-righ--9fe4737748b8.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Dont see chat replies in chat window, but as note on the right of screen
@@ -14,7 +12,7 @@ Started by: [![KF5TVG](../archive/assets/avatar--708478518aa4.php)](https://www.
 Date: 14 Jan 2017 20:28  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-2061953.xml)
+RSS: New posts
 
 Unfold All
 Fold All

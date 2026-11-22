@@ -4,8 +4,6 @@ title: "Setup TNC to transmit with squelch open???"
 
 # Setup TNC to transmit with squelch open???
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-619199/setup-tnc-to-transmit-with-squelch-open) · [Archived HTML](../archive/pages/forum_t-619199_setup-tnc-to-transmit-with-squelch-open--d958412da667.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Setup TNC to transmit with squelch open???
@@ -14,7 +12,7 @@ Started by: [![AF8F](../archive/assets/avatar--1c21c5fa5c9b.php)](https://www.wi
 Date: 26 Jan 2013 20:12  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-619199.xml)
+RSS: New posts
 
 Unfold All
 Fold All

@@ -4,8 +4,6 @@ title: "Printing"
 
 # Printing
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-637322/printing) · [Archived HTML](../archive/pages/forum_t-637322_printing--b99dce0b4be7.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / Feature Requests](forum-c-312348-feature-requests.md)
 » Printing
@@ -14,7 +12,7 @@ Started by: [![kc9iry](../archive/assets/avatar--1184d015a3a6.php)](https://www.
 Date: 26 Mar 2013 23:03  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-637322.xml)
+RSS: New posts
 
 Summary:
 

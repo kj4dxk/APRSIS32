@@ -4,8 +4,6 @@ title: "APRSIS32"
 
 # APRSIS32
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-10411956/aprsis32) · [Archived HTML](../archive/pages/forum_t-10411956_aprsis32--14842b542f42.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » APRSIS32
@@ -14,7 +12,7 @@ Started by: [![John Troutman](../archive/assets/avatar--cee0f73c64e0.php)](https
 Date: 25 Feb 2019 01:00  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-10411956.xml)
+RSS: New posts
 
 Summary:
 

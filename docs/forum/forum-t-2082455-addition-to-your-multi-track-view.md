@@ -4,8 +4,6 @@ title: "Addition to your Multi-Track View"
 
 # Addition to your Multi-Track View
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-2082455/addition-to-your-multi-track-view) · [Archived HTML](../archive/pages/forum_t-2082455_addition-to-your-multi-track-view--b25462cb7082.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / Feature Requests](forum-c-312348-feature-requests.md)
 » Addition to your Multi-Track View
@@ -14,7 +12,7 @@ Started by: [![TchGimmick](../archive/assets/avatar--c0142ee4b3e8.php)](https://
 Date: 28 Jan 2017 06:34  
 Number of posts: 3  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-2082455.xml)
+RSS: New posts
 
 Summary:
 

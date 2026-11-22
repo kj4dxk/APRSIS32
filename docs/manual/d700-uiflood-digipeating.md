@@ -4,8 +4,6 @@ title: "D700 UIFLOOD Digipeating"
 
 # D700 UIFLOOD Digipeating
 
-[Source wiki page](https://aprsisce.wikidot.com/d700-uiflood-digipeating) · [Archived HTML](../archive/pages/d700-uiflood-digipeating--033feab84563.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 During the testing procedures, the unit under test was programmed to respond to an alias of HOPn-N as per the [Golden Packet Event](http://www.aprs.org/at-golden-packet.html) setup page. The [metasyntactic variables](http://en.wikipedia.org/wiki/Metasyntactic_variable) foo, bar, baz, and qux are used as placeholders where any path element could be used. DIGI1, DIGI2, etc. are used to denote the name of the digipeater that previously handled the currently active path element.
 
 | Incoming path | UIFLOOD ID | UIFLOOD NOID | UIFLOOD FIRST |

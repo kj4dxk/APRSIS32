@@ -4,8 +4,6 @@ title: "iGate Setup Help"
 
 # iGate Setup Help
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-561212/igate-setup-help) · [Archived HTML](../archive/pages/forum_t-561212_igate-setup-help--2ebaa0707aef.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » iGate Setup Help
@@ -14,7 +12,7 @@ Started by: [![W8TDS](../archive/assets/avatar--5e0e5326f050.php)](https://www.w
 Date: 07 Sep 2012 13:45  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-561212.xml)
+RSS: New posts
 
 Unfold All
 Fold All

@@ -4,15 +4,7 @@ title: "EN_CCW_Tracker"
 
 # EN_CCW_Tracker
 
-[Source wiki page](https://aprsisce.wikidot.com/en-ccw-tracker) · [Archived HTML](../archive/pages/en-ccw-tracker--77ac5978c8e4.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
-|  |
-| --- |
-| **Cross Country Wireless Digi Tracker** |
-
-|  |
-| --- |
-|  |
+## Cross Country Wireless Digi Tracker
 
 The Cross Country Wireless (CCW) Digi Tracker is currently only fully supported in the development version.
 
@@ -39,7 +31,3 @@ If you want the TNC to go back to it's default configuration when disabling the 
 Restart the software for these changes to take effect.
 
 **Please make sure that APRSISCE/32 and the Tracker have different [SSIDs](doc-ssids.md)**
-
-|  |
-| --- |
-|  |

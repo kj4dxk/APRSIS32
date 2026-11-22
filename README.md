@@ -2,7 +2,7 @@
 
 [Read the published manual](https://kj4dxk.github.io/APRSIS32/) or [browse the Markdown articles](docs/manual/index.md) on GitHub.
 
-This is a documentation project adapted from the [APRSISCE/32 community wiki](https://aprsisce.wikidot.com/). It uses Material for MkDocs, with GitHub Actions building and publishing the site to GitHub Pages.
+This is a documentation project adapted from the APRSISCE/32 community wiki. It uses Material for MkDocs, with GitHub Actions building and publishing the site to GitHub Pages.
 
 ## Editing
 
@@ -21,4 +21,4 @@ Run `python -m mkdocs build --strict` to verify the build.
 
 ## Attribution
 
-The manual credits the original APRSISCE/32 wiki contributors. Each converted page links to its source and captured HTML. The source wiki identifies its content as [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) unless otherwise stated. The same license applies to adaptations of that material. Linked software, attachments, and third-party material retain their respective terms.
+The manual credits the original APRSISCE/32 wiki contributors. The source wiki identifies its content as [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) unless otherwise stated. The same license applies to adaptations of that material. Linked software, attachments, and third-party material retain their respective terms.

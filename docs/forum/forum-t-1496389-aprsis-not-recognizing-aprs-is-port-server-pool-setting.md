@@ -4,8 +4,6 @@ title: "APRSIS not recognizing APRS-IS port server pool setting"
 
 # APRSIS not recognizing APRS-IS port server pool setting
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-1496389/aprsis-not-recognizing-aprs-is-port-server-pool-setting) · [Archived HTML](../archive/pages/forum_t-1496389_aprsis-not-recognizing-aprs-is-port-server-pool-setting--7290fba4a988.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » APRSIS not recognizing APRS-IS port server pool setting
@@ -14,7 +12,7 @@ Started by: [![kamflyer](../archive/assets/avatar--e6b3cd2b6696.php)](https://ww
 Date: 29 Dec 2015 23:27  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-1496389.xml)
+RSS: New posts
 
 Summary:
 

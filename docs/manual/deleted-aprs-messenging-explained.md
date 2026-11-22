@@ -4,8 +4,6 @@ title: "APRS Messaging EXPLAINED!"
 
 # APRS Messaging EXPLAINED!
 
-[Source wiki page](https://aprsisce.wikidot.com/deleted:aprs-messenging-explained) · [Archived HTML](../archive/pages/deleted_aprs-messenging-explained--058a90272106.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 APRS messaging is a complicated beast that needs a whole bunch of components to be in place and working in order for it to succeed. I'll build up to the full story starting with RF to RF simplex (but your stations have to be in range of each other, and end with RF to IS to RF.
 
 As you might know, APRS uses packet radio's UI packet which is connectionless, non-sequenced, non-guaranteed delivery, and non-acknowledged. Basically, in APRS, a station throws a packet onto the airwaves and has no clue where it went if anywhere. Good for general beaconing, but not so good for messaging. APRS also uses a path similar to packet in that it is in the AX.25 header, but it can contain aliases which to which multiple digipeaters will respond to repeat a packet over larger areas (like WIDE1, WIDE2, and so forth).

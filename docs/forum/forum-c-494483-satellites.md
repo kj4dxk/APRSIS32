@@ -4,8 +4,6 @@ title: "Satellites"
 
 # Satellites
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/c-494483/satellites) · [Archived HTML](../archive/pages/forum_c-494483_satellites--318b3e977d56.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 »
 General Discussion /
@@ -14,7 +12,7 @@ Satellites
 Number of threads: 1  
 Number of posts: 4  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New threads](https://aprsisce.wikidot.com/feed/forum/ct-494483.xml) | [New posts](https://aprsisce.wikidot.com/feed/forum/cp-494483.xml)
+RSS: New threads | New posts
 
 Satellite use
 
@@ -22,9 +20,9 @@ Order by:
 
 **Last post date**
 
-[Thread starting date](https://aprsisce.wikidot.com/forum/c-494483/sort/start)
+Thread starting date
 
-[Create a new thread](https://aprsisce.wikidot.com/forum:new-thread/c/494483)
+Create a new thread
 
 <table class="table aprs-figure-table" style="width: 98%">
 <tr class="head">

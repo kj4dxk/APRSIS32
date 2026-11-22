@@ -4,8 +4,6 @@ title: "Welcome to APRSISCE/32 / Discussion"
 
 # Welcome to APRSISCE/32 / Discussion
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-394049/welcome-to-aprsisce-32) · [Archived HTML](../archive/pages/forum_t-394049_welcome-to-aprsisce-32--2891fc567630.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [WIKI per page discussion / Per page discussions](forum-c-494256-per-page-discussions.md)
 » Welcome to APRSISCE/32
@@ -14,7 +12,7 @@ Started by: Wikidot
 Date: 23 Sep 2011 15:50  
 Number of posts: 2  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-394049.xml)
+RSS: New posts
 
 This is the discussion related to the wiki page [Welcome to APRSISCE/32](../manual/start.md).
 
@@ -91,7 +89,7 @@ Your specific suggestions and observations are therefore, very welcome here!
 
 Lynn (D) - KJ4ERJ - Author of APRSISCE for Windows Mobile and Win32
 
-PS. The only bit I'd disagree with is the "bit about Lynn". A simple link from my callsign to my history page ([http://aprsisce.wikidot.com/kj4erj-story](../manual/kj4erj-story.md)) would be sufficient in my book!
+PS. The only bit I'd disagree with is the "bit about Lynn". A simple link from my callsign to my history page ([Related manual page](../manual/kj4erj-story.md)) would be sufficient in my book!
 
 **Reply**
 Options

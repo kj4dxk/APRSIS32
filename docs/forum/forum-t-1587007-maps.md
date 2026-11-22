@@ -4,8 +4,6 @@ title: "MAPS"
 
 # MAPS
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-1587007/maps) · [Archived HTML](../archive/pages/forum_t-1587007_maps--bf3a309b6618.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » MAPS
@@ -14,7 +12,7 @@ Started by: [![MatthewEsposito ](../archive/assets/avatar--d90e4b62de9b.php)](ht
 Date: 01 Feb 2016 00:21  
 Number of posts: 1  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-1587007.xml)
+RSS: New posts
 
 Summary:
 

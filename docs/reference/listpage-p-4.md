@@ -4,8 +4,6 @@ title: "listpage"
 
 # listpage
 
-[Source wiki page](https://aprsisce.wikidot.com/listpage/p/4) · [Archived HTML](../archive/pages/listpage_p_4--1540dadf1369.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Sounds](../manual/sounds.md) - [G6UIM](https://www.wikidot.com/user:info/g6uim) - 02 Jun 2011 19:41 - updated by [APRS IS CE](https://www.wikidot.com/user:info/aprs-is-ce) 15 Apr 2013 14:37  
 [wantedpages](../manual/wantedpages.md) - [G6UIM](https://www.wikidot.com/user:info/g6uim) - 02 Jun 2011 19:12 - updated by [G6UIM](https://www.wikidot.com/user:info/g6uim) 02 Jun 2011 19:12  
 [admins](../manual/admins.md) - [G6UIM](https://www.wikidot.com/user:info/g6uim) - 02 Jun 2011 19:11 - updated by [G6UIM](https://www.wikidot.com/user:info/g6uim) 25 Oct 2011 14:57  

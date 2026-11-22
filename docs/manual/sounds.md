@@ -4,8 +4,6 @@ title: "Sounds"
 
 # Sounds
 
-[Source wiki page](https://aprsisce.wikidot.com/sounds) · [Archived HTML](../archive/pages/sounds--a227ab668053.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 APRSISCE/32 triggers Windows sounds (MessageBeep - <http://tinyurl.com/dx7sjrh>) on various events. Eventually I hope to support custom sounds, but for now you live with what you have configured in Windows:
 
 GPS Locked - MB\_OK  

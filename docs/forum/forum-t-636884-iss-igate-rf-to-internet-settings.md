@@ -4,8 +4,6 @@ title: "ISS + IGate & RF to Internet Settings"
 
 # ISS + IGate & RF to Internet Settings
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-636884/iss-igate-rf-to-internet-settings) · [Archived HTML](../archive/pages/forum_t-636884_iss-igate-rf-to-internet-settings--06f67edef5a5.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » ISS + IGate & RF to Internet Settings
@@ -14,7 +12,7 @@ Started by: [![KD0KZE](../archive/assets/avatar--caa615378787.php)](https://www.
 Date: 25 Mar 2013 16:53  
 Number of posts: 5  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-636884.xml)
+RSS: New posts
 
 Summary:
 
@@ -84,7 +82,7 @@ Re: ISS + IGate & RF to Internet Settings
 
 <span id="post-content-1738106"></span>
 
-Please read [http://aprsisce.wikidot.com/doc:satelliteops](../manual/doc-satelliteops.md) and I think you'll have your questions answered. The key pieces are:
+Please read [Related manual page](../manual/doc-satelliteops.md) and I think you'll have your questions answered. The key pieces are:
 
 1) It's a lot easier to run a separate ISS/Satellite instance.
 

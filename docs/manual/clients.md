@@ -4,8 +4,6 @@ title: "APRS Authors"
 
 # APRS Authors
 
-[Source wiki page](https://aprsisce.wikidot.com/clients) · [Archived HTML](../archive/pages/clients--b06a1e9dae47.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 If you know of errors or omissions on this page, please contact KJ4ERJ at his arrl.net e-mail address.
 
 (Based on an June 2017 [aprssig](https://www.tapr.org/mailman/listinfo/aprssig) roll call)
@@ -22,7 +20,7 @@ If you know of errors or omissions on this page, please contact KJ4ERJ at his ar
 | KA2DDO | Andrew Pavlin | YAAC - <http://www.ka2ddo.org/ka2ddo/YAAC.html> |
 | KB2ICI  WU2Z | Mark & Keith Sproul | WinAPRS/MacAPRS/X-APRS - <http://www.winaprs.com/> |
 | KC2GJS | [The Xastir Group](https://github.com/Xastir/Xastir/blob/master/AUTHORS) | Xastir - <http://www.xastir.org> |
-| KJ4ERJ | Lynn Deffenbaugh | Windows APRSISCE/32 - [http://aprsisce.wikidot.com](wiki-home.md)  Android APRSIMO - <http://tinyurl.com/Get-APRSISMO> |
+| KJ4ERJ | Lynn Deffenbaugh | Windows APRSISCE/32 - [Related manual page](wiki-home.md)  Android APRSIMO - <http://tinyurl.com/Get-APRSISMO> |
 | LA7ECA | Oyvind Hanssen | Polaric Server - <http://aprs.no/polaricserver> |
 | NA6BR | Chuck Bland | APRSTW - <http://aprstw.blandranch.net/> |
 | NV6G1 | Greg Carter | OpenAPRS - <http://www.openaprs.net/> |

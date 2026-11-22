@@ -4,8 +4,6 @@ title: "Question on iGate setup"
 
 # Question on iGate setup
 
-[Source wiki page](https://aprsisce.wikidot.com/forum/t-422541/question-on-igate-setup) · [Archived HTML](../archive/pages/forum_t-422541_question-on-igate-setup--3bac8af0132d.html) · [Source license](http://creativecommons.org/licenses/by-sa/3.0/)
-
 [Forum](forum-start-1f3adaff829e.md)
 » [APRSISCE/32 Discussion / General APRSIS](forum-c-312347-general-aprsis.md)
 » Question on iGate setup
@@ -14,7 +12,7 @@ Started by: [![KJ4RZN](../archive/assets/avatar--6e7e89450277.php)](https://www.
 Date: 20 Dec 2011 18:37  
 Number of posts: 4  
 ![rss icon](../archive/assets/common--theme_base_images_feed_feed-icon-14x14--ae830437c8b3.png)
-RSS: [New posts](https://aprsisce.wikidot.com/feed/forum/t-422541.xml)
+RSS: New posts
 
 Unfold All
 Fold All
@@ -136,7 +134,7 @@ Ok, so I missed the obvious first step.
 
 Have you entered a valid APRS-IS password for your station's callsign?
 
-Please see <http://aprsisce.wikidot.com/doc:password> for details.
+Please see APRSISCE/32 documentation for details.
 
 Lynn (D) - KJ4ERJ - Author of APRSISCE for Windows Mobile and Win32
 
