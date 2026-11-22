@@ -1,4 +1,4 @@
-# APRSIS32 2026.11.22.0001
+# APRSIS32 2026.11.22.0758
 
 This Windows revision is based on Lynn Deffenbaugh’s APRSIS32 2024.09.05.1714 source. The preserved executable and its source have their own [release](https://github.com/kj4dxk/APRSIS32/releases/tag/2024.09.05.1714).
 
@@ -28,4 +28,4 @@ The script uses the original Visual Studio project’s file list and compiles th
 
 ## Local verification
 
-The rebuild of Lynn’s baseline reported Windows file version 2024.09.05.1714. The new executable reported 2026.11.22.0001. Fresh-cache tests fetched tiles from OpenStreetMap, the ArcGIS USA Topo preset, and a custom HTTP server with an explicit port. APRS-IS accepted the configured operator login. The installed local profile contains the operator’s settings and was kept outside Git.
+The rebuild of Lynn’s baseline reported Windows file version 2024.09.05.1714. The new executable reported 2026.11.22.0758. Fresh-cache tests fetched tiles from OpenStreetMap, the ArcGIS USA Topo preset, and a custom HTTP server with an explicit port. APRS-IS accepted the configured operator login. The installed local profile contains the operator’s settings and was kept outside Git.
