@@ -548,7 +548,7 @@ struct
 > -15 is for HF
 */
 
-//#define LOGON "user KJ4ERJ-12 pass 24231 APRSISCE v0.1"
+//#define LOGON "user N0CALL pass -1 APRSISCE v0.1"
 //#define FILTER "#filter r/27.99673/-80.659072/500 b/KJ4ERJ* f/KJ4ERJ-12/10"
 //#define FILTER "#filter m/100 b/KJ4ERJ* f/KJ4ERJ-12/10"
 #define PING "#"
@@ -16407,7 +16407,7 @@ static BOOL ParseCoordMultiLineObject(char *c, char *e, APRS_PARSED_INFO_S *APRS
 		free(LatLon);
 	}
 /*
-user KJ4ERJ-TS pass 24231
+user N0CALL pass -1
 KJ4ERJ-TS>APRS:;MULTITEST*250400z2800.00NF07800.00Wx TEST MultiLine }j0]KTRKQHPHPHOHJMJTKT{OMDAA
 */
 
@@ -16724,7 +16724,7 @@ static BOOL ParseOriginalMultiLineObject(char *c, char *e, APRS_PARSED_INFO_S *A
 		free(LatLon);
 	}
 /*
-user KJ4ERJ-TS pass 24231
+user N0CALL pass -1
 KJ4ERJ-TS>APRS:;MULTITEST*250400z2800.00NF07800.00Wx TEST MultiLine }j0]KTRKQHPHPHOHJMJTKT{OMDAA
 */
 
