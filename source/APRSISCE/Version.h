@@ -2,11 +2,11 @@
 //	Hopefully leading zeros don't change to octal!
 #define VERSION_MAJOR 2026
 #define VERSION_MINOR 11
-#define VERSION_REVISION 22
-#define VERSION_HOUR 08
-#define VERSION_MINUTE 13
-#define VERSION_BUILD 0813
-#define VERSION_BUILD_NUMBER 813
+#define VERSION_REVISION 26
+#define VERSION_HOUR 15
+#define VERSION_MINUTE 03
+#define VERSION_BUILD 1503
+#define VERSION_BUILD_NUMBER 1503
 
 // Strange thing is the *100 is completely ignored!
 //#define VERSION_BUILD (VERSION_HOUR*100)+VERSION_MINUTE

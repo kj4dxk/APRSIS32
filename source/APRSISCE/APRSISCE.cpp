@@ -7448,6 +7448,10 @@ void EnableBeaconing(HWND hwnd, BOOL Enabled)
 	}
 }
 
+#if !defined(UNDER_CE) && !defined(TRAKVIEW)
+#include "ReleaseAbout.h"
+#endif
+
 static char *Check4Version(void)
 {	long BufLen, URLen = strlen(PROGNAME)*3+8;
 	char *Buf, *URL = (char*)malloc(URLen);
@@ -27031,7 +27035,9 @@ Start = DebugTimer("PurgeTimer","Companions",Start,&msMax,NULL,hwnd);
 Start = DebugTimer("PurgeTimer","Bulletins",Start,&msMax,NULL,hwnd);
 		TransmitCQGroups(hwnd);	/* Keep up with CQGroups out the door */
 Start = DebugTimer("PurgeTimer","CQGroups",Start,&msMax,NULL,hwnd);
+#if defined(UNDER_CE) || defined(TRAKVIEW)
 		Check4Updates(hwnd);	/* Kick this one also */
+#endif
 Start = DebugTimer("PurgeTimer","Updates",Start,&msMax,NULL,hwnd);
 		CheckNotifyUsage();		/* And check-in with usage tracking */
 Start = DebugTimer("PurgeTimer","Usage",Start,&msMax,NULL,hwnd);
@@ -42123,6 +42129,9 @@ TraceLogThread("Restore", TRUE, "WM_FINISH_STARTUP:after %ld Posits\n", (long) A
 //		if (ActiveConfig.FreqMon.Enabled)
 //			CreateFrequencyWindow(hwnd);
 
+#if !defined(UNDER_CE) && !defined(TRAKVIEW)
+		ConfirmReleaseStartup();
+#endif
 		break;
 	case WM_TILES_LOADED:
 	{	CLIENT_INFO_S *cInfo = (CLIENT_INFO_S *) GetWindowLong(hwnd, GWL_USERDATA);
@@ -44493,6 +44502,11 @@ static struct
 
 			break;
 		}
+#if !defined(UNDER_CE) && !defined(TRAKVIEW)
+		case ID_ABOUT:
+			ShowReleaseAbout(hwnd, ActiveConfig.Enables.Internet);
+			break;
+#else
 		case ID_ABOUT:
 		{
 #ifdef TRAKVIEW
@@ -44598,6 +44612,7 @@ static struct
 		}
 		break;
 		}
+#endif
 		case ID_INTERNET_TOGGLE:
 		{	unsigned int p;
 			ActiveConfig.Enables.Internet = !ActiveConfig.Enables.Internet;

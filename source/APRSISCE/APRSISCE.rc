@@ -2,6 +2,9 @@
 //
 #include "resource.h"
 #include "Version.h"
+#if !defined(UNDER_CE) && !defined(TRAKVIEW)
+APRSIS32_RELEASE_UPDATE RCDATA "ReleaseUpdate.ps1"
+#endif
 
 #define APSTUDIO_READONLY_SYMBOLS
 /////////////////////////////////////////////////////////////////////////////
